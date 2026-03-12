@@ -1,0 +1,8 @@
+---
+title: "Sistema de arranque"
+aliases: ["sistema de arranque"]
+---
+
+# Sistema de arranque:
+
+– Memoria flash: sitio en el que se almacena la BIOS (Basic Input-Output System). Podemos definirla como el sistema de entrada/salida básico que dispone de to- das las unidades necesarias para poner en marcha las rutinas de arranque y poder cargar [[el sistema operativo]]. – Memoria CMOS (complementary metal oxide semi- conductor): contiene la información básica de todos los recursos que componen el sistema. Esta memoria se alimenta de una pila o batería necesaria para que el ordenador funcione sin necesidad de estar conectado a corriente. • Buses del sistema: canales por los que circula la infor- mación de los distintos elementos del ordenador. – Internos: permiten la comunicación entre las diferen- tes unidades que se encuentran dentro de un chip. – Externos: sirven para comunicar las unidades que se encuentren en la [[placa base]]. – Expansión: se utilizan para comunicar la placa base con las unidades externas. – Ranuras de expansión (slots): elementos que se usan para insertar aquellos dispositivos que van a formar parte de la placa base. Cuando estén conectados, la información debe circular a través del bus correspon- diente entre la tarjeta y la placa. Algunos de los tipos podrían ser: ISA, PCI o PCI-Express. • Conectores de energía: son las conexiones de los com- ponentes de la placa. ¡RECUERDA! Como es lógico, las ranuras de- ben estar preparadas y ser com- patibles (en longitud, número de muescas, situación de estas, número de contactos) con el tipo de memoria que queramos insta- lar en el ordenador. 34 Tema 3. Identificación de los bloques funcionales de un sistema microinformático 34

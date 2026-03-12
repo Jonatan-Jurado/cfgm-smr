@@ -1,0 +1,37 @@
+---
+title: 📚 Inicio - Mis Apuntes SMR
+---
+## 🖥️ Mis Apuntes del CFGM SMR 
+Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendiendo en el CFM de Microsistemas y Redes! 
+### 📚 ASIGNATURAS
+
+- ####  🛠️ Montaje y Mantenimiento
+	- [[Tema_1_MME|Tema 1 - Medición de Parámetros Eléctricos]] 
+
+- #### 🖥️ Sistemas Operativos Monopuesto
+	- [[Tema_1_SOM|Tema 1 - Sistemas Operativos y Utilidades]] 
+	- [[Tema 2 SOM|Tema  2 - Codificación de la Información]]   
+	- [[Tema_3_SOM|Tema3 - Gestión de los Recursos y de la Memoria]]
+
+- #### 🤝Itinerario Personal para la Empleabilidad
+	- [[Tema 1 IPE|Tema 1 - Características del Sector Productivo ]]
+	- [[Tema 2 IPE|Prevención de Riesgos Laborales]]   
+
+### ✍️TEST
+- #### Montaje y Mantenimiento
+	- [[content/CFGM/Tests/Montaje-y-Mantenimiento/Tema 1|Tema 1 - RA3]]  
+
+- #### Sistemas Operativos
+	- [[content/CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 1|Tema 1: RA1]] 
+	- [[content/CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 2|Tema 2: RA1]] 
+	- [[Tema 3|Tema 3:RA1]] 
+
+- #### Itinerario para la Empleabilidad
+	- [[content/CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 1|Tema 1 - RA1]] 
+	- [[content/CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 2|Tema 2 - RA2]]
+
+### 📚 GLOSARIO
+- [[00_INDICE|Glosario de Términos]] 
+
+### ⚙️ PROJECTOS
+- [[1 CONECTAR OBSYDYAN CON GITHUB PAGE| Pasar de Obsidian a Web con Quartz 4 y Github]]
