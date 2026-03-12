@@ -13,33 +13,33 @@ tags:
 
 ### El Sector Productivo
 
-Actividades económicas que implican la producción de bienes y [[Servicio|servicios]]. Se divide en subsectores: agrícola, industrial y de servicios.
+Actividades económicas que implican la producción de bienes y [[servicio|servicios]]. Se divide en subsectores: agrícola, industrial y de servicios.
 
 Aspectos clave del análisis:
 
-- _Tamaño del mercado_: dimensión y [[Capacidades|capacidad]] en términos de producción y consumo
-- _Competencia_: número y tipo de competidores, barreras de entrada[[Directorio raíz|/]]salida
+- _Tamaño del mercado_: dimensión y [[capacidades|capacidad]] en términos de producción y consumo
+- _Competencia_: número y tipo de competidores, barreras de entrada[[directorio-raiz|/]]salida
 - _Tecnología_: nivel de innovación y adopción tecnológica
 - _Factores económicos_: inflación, tipo de cambio, políticas gubernamentales
-- _Tendencias y oportunidades_: productos sostenibles, [[Digitalización]]...
+- _Tendencias y oportunidades_: productos sostenibles, [[digitalizacion|Digitalización]]...
 
 ### El Perfil Profesional
 
-Describe las [[Competencias]], habilidades y conocimientos necesarios para un rol específico.
+Describe las [[competencias|Competencias]], habilidades y conocimientos necesarios para un rol específico.
 
-[[Componentes del Hardware|Componentes]]:
+[[componentes-del-hardware|Componentes]]:
 
-- _Competencias técnicas_: conocimientos específicos del [[Trabajo]] (maquinaria, programación...)
-- _Habilidades blandas_: comunicación, [[Trabajo en equipo]], [[Liderazgo]], resolución de [[Conflicto|conflictos]]
+- _Competencias técnicas_: conocimientos específicos del [[trabajo|Trabajo]] (maquinaria, programación...)
+- _Habilidades blandas_: comunicación, [[trabajo-en-equipo|Trabajo en equipo]], [[liderazgo|Liderazgo]], resolución de [[conflicto|conflictos]]
 - _Experiencia laboral_: trayectoria y prácticas previas
 - _Formación académica_: títulos, certificaciones y cursos
-- _Adaptabilidad_: capacidad de aprender continuamente conforme evoluciona [[Economía Lineal|el]] [[Sector]]
+- _Adaptabilidad_: capacidad de aprender continuamente conforme evoluciona [[economia-lineal|el]] [[sector|Sector]]
 
-[[Análisis del perfil profesional]]:
+[[analisis-del-perfil-profesional|Análisis del perfil profesional]]:
 
 - _Evaluación de demanda_: qué perfiles son más demandados
 - _Brechas de competencias_: discrepancias entre lo que pide la empresa y lo que tiene el candidato
-- _Estrategias de desarrollo_: [[Software y algoritmo|programas]] de formación y actualización
+- _Estrategias de desarrollo_: [[software-y-algoritmo|programas]] de formación y actualización
 
 ---
 
@@ -116,7 +116,7 @@ Pasos del proceso de búsqueda:
 
 ## 1.5. Perfil Profesional Exigible del Sector Público y Privado
 
-_Itinerario formativo_: trayectoria de [[Aprendizaje]] ordenada de menor a mayor dificultad. Empieza con la formación inicial pero **nunca termina**, ya que la formación es continua a lo largo de toda la vida laboral.
+_Itinerario formativo_: trayectoria de [[aprendizaje|Aprendizaje]] ordenada de menor a mayor dificultad. Empieza con la formación inicial pero **nunca termina**, ya que la formación es continua a lo largo de toda la vida laboral.
 
 Está compuesto por:
 
@@ -129,7 +129,7 @@ La _formación continua_ es fundamental para:
 - Mantener la competitividad laboral
 - Mejorar el ejercicio de la profesión
 
-[[Vías de Formación]]: presencial, a distancia o mixta.
+[[vias-de-formacion|Vías de Formación]]: presencial, a distancia o mixta.
 
 ---
 
@@ -167,25 +167,25 @@ _Cualificación profesional_: competencias necesarias para llevar a cabo las act
 
 Estructura:
 
-- _Unidad de competencia_: agrupación mínima de competencias para su acreditación. Eslabón mínimo reconocible. Va asociada a un [[Módulo Formativo]].
-- _Competencia profesional_: no es acreditable de forma individual, pero forma parte de la [[Unidad de Competencia]].
+- _Unidad de competencia_: agrupación mínima de competencias para su acreditación. Eslabón mínimo reconocible. Va asociada a un [[modulo-formativo|Módulo Formativo]].
+- _Competencia profesional_: no es acreditable de forma individual, pero forma parte de la [[unidad-de-competencia|Unidad de Competencia]].
 
 ### Sistema Nacional de Cualificaciones y Formación Profesional
 
-Conjunto de acciones e instrumentos para integrar y promover las ofertas de [[Sistema Nacional de Cualificaciones y Formación Profesional|formación profesional]] en España. Promueve la colaboración entre agentes sociales, universidades, entidades de formación, AAPP y cámaras de comercio.
+Conjunto de acciones e instrumentos para integrar y promover las ofertas de [[sistema-nacional-de-cualificaciones-y-formacion-profesional|formación profesional]] en España. Promueve la colaboración entre agentes sociales, universidades, entidades de formación, AAPP y cámaras de comercio.
 
 ### Catálogo Nacional de Cualificaciones Profesionales (CNCP)
 
 Mecanismo del sistema para:
 
-- Ordenar las [[Cualificación Profesional|cualificaciones profesionales]] susceptibles de acreditación
+- Ordenar las [[cualificacion-profesional|cualificaciones profesionales]] susceptibles de acreditación
 - Recoger las cualificaciones más relevantes del sistema productivo español
 - Servir de base para elaborar los títulos y certificados de profesionalidad
 
-Estructura del [[Catálogo Nacional de Cualificaciones Profesionales|CNCP]]:
+Estructura del [[catalogo-nacional-de-cualificaciones-profesionales|CNCP]]:
 
 - **26 familias profesionales** (756 cualificaciones a noviembre 2022)
-- **3 niveles de cualificación** según grado de iniciativa, conocimiento, [[Responsabilidad]] y autonomía:
+- **3 niveles de cualificación** según grado de iniciativa, conocimiento, [[responsabilidad|Responsabilidad]] y autonomía:
     - _Nivel 1_: Básico
     - _Nivel 2_: Medio
     - _Nivel 3_: Superior

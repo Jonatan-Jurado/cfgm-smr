@@ -11,11 +11,11 @@ tags:
 
 ## 2.1. El Trabajo y la Salud: Riesgos Profesionales
 
-*Riesgo Laboral*: Posibilidad de que un trabajador sufra daño debido al [[Trabajo]].
-*[[Factor de Riesgo]]*: Objeto, sustancia o característica que puede provocar daño. Surgen de:
+*Riesgo Laboral*: Posibilidad de que un trabajador sufra daño debido al [[trabajo|Trabajo]].
+*[[factor-de-riesgo|Factor de Riesgo]]*: Objeto, sustancia o característica que puede provocar daño. Surgen de:
 - Características del centro de trabajo (máquinas, instalaciones...)
-- Condiciones medioambientales (temperatura, agentes físicos[[Directorio raíz|/]]químicos/biológicos)
-- [[Carga de trabajo]] y condiciones psicofísicas (malas posturas, esfuerzo excesivo...)
+- Condiciones medioambientales (temperatura, agentes físicos[[directorio-raiz|/]]químicos/biológicos)
+- [[carga-de-trabajo|Carga de trabajo]] y condiciones psicofísicas (malas posturas, esfuerzo excesivo...)
 - Circunstancias personales del trabajador (edad, estado de salud...)
 
 ### Evaluación de Riesgos (Método INSST)
@@ -54,26 +54,26 @@ Deterioro gradual y lento de la salud por exposición crónica a condiciones adv
 
 ## 2.3. Marco Normativo (LPRL - Ley 31/1995)
 
-Regula [[Derecho|derechos]] y obligaciones. [[Economía Lineal|El]] incumplimiento genera responsabilidades administrativas, civiles y penales. La [[Prevención]] recae fundamentalmente sobre el **empresario**.
+Regula [[derecho|derechos]] y obligaciones. [[economia-lineal|El]] incumplimiento genera responsabilidades administrativas, civiles y penales. La [[prevencion|Prevención]] recae fundamentalmente sobre el **empresario**.
 
 ### Derechos del Trabajador
-- Recibir *EPI* ([[Equipo de protección individual|Equipos de Protección Individual]]) adecuados y gratuitos
+- Recibir *EPI* ([[equipo-de-proteccion-individual|Equipos de Protección Individual]]) adecuados y gratuitos
 - Formación e información sobre riesgos
-- [[Vigilancia de la salud]] (reconocimientos médicos)
+- [[vigilancia-de-la-salud|Vigilancia de la salud]] (reconocimientos médicos)
 - Paralizar actividad ante riesgo grave e inminente sin ser sancionado
 - Participación en materia preventiva
 
 ### Obligaciones del Trabajador
-- Usar correctamente máquinas, [[Herramientas para el montaje|herramientas]] y EPI
-- No desactivar dispositivos de [[Seguridad y gestión de identidad|seguridad]]
+- Usar correctamente máquinas, [[herramientas-para-el-montaje|herramientas]] y EPI
+- No desactivar dispositivos de [[seguridad-y-gestion-de-identidad|seguridad]]
 - Informar al superior de cualquier situación de riesgo
 - Cooperar con el empresario en materia preventiva
 
 ### Obligaciones del Empresario
 - Asumir los costes de las medidas preventivas
-- Planificar la [[Evaluación de riesgos]] y la acción preventiva
-- Garantizar formación, información y EPI gratuitos a los [[Sección Trabajadores|trabajadores]]
-- Elaborar el *[[Plan de prevención de riesgos laborales|Plan de Prevención]]*
+- Planificar la [[evaluacion-de-riesgos|Evaluación de riesgos]] y la acción preventiva
+- Garantizar formación, información y EPI gratuitos a los [[seccion-trabajadores|trabajadores]]
+- Elaborar el *[[plan-de-prevencion-de-riesgos-laborales|Plan de Prevención]]*
 - Proteger colectivos sensibles: trabajadores sensibles a riesgos, menores, temporales, embarazadas/lactancia
 
 ---
@@ -119,13 +119,13 @@ Clases de fuego:
 ---
 
 ## 2.5. Riesgos Ligados al Medio Ambiente de Trabajo
-Principal causa de [[Enfermedad profesional|enfermedades profesionales]].
+Principal causa de [[enfermedad-profesional|enfermedades profesionales]].
 
 ### Agentes Físicos
-- *[[Ruido]]*: medido en decibelios (dB). Límite: 87 dB en 8h / máx. 140 dB de corta duración. Se mide con sonómetro o dosímetro.
-- *[[Vibraciones]]*: medidas en Hz. Límite mano/brazo: 5 [[Tiempo perdido|m]]/s². Límite cuerpo entero: 1,15 m/s²
-- *[[Iluminación]]*: debe garantizar confort visual adecuado
-- Temperaturas extremas, [[Radiaciones]]...
+- *[[ruido|Ruido]]*: medido en decibelios (dB). Límite: 87 dB en 8h / máx. 140 dB de corta duración. Se mide con sonómetro o dosímetro.
+- *[[vibraciones|Vibraciones]]*: medidas en Hz. Límite mano/brazo: 5 [[tiempo-perdido|m]]/s². Límite cuerpo entero: 1,15 m/s²
+- *[[iluminacion|Iluminación]]*: debe garantizar confort visual adecuado
+- Temperaturas extremas, [[radiaciones|Radiaciones]]...
 
 ### Agentes Químicos
 Contaminantes en forma de polvo, gases, vapores o aerosoles. Vías de entrada: inhalatoria, dérmica, digestiva.
@@ -159,10 +159,10 @@ Consecuencias:
 ## 2.7. Sistemas de Control de Riesgos
 
 ### Medidas de Prevención (actúan sobre el origen del riesgo)
-- *[[Seguridad en el trabajo]]*: evitar accidentes actuando sobre sus causas
-- *[[Higiene industrial]]*: técnicas no médicas que analizan agentes físicos/químicos/biológicos
-- *[[Ergonomía]]*: adaptar el [[Puesto de trabajo]] al trabajador para evitar daños físicos
-- *Psicosociología*: combatir la insatisfacción generada por la [[Organización del trabajo]]
+- *[[seguridad-en-el-trabajo|Seguridad en el trabajo]]*: evitar accidentes actuando sobre sus causas
+- *[[higiene-industrial|Higiene industrial]]*: técnicas no médicas que analizan agentes físicos/químicos/biológicos
+- *[[ergonomia|Ergonomía]]*: adaptar el [[puesto-de-trabajo|Puesto de trabajo]] al trabajador para evitar daños físicos
+- *Psicosociología*: combatir la insatisfacción generada por la [[organizacion-del-trabajo|Organización del trabajo]]
 - *Medicina Laboral*: función preventiva, reparadora y rehabilitadora
 
 ### Medidas de Protección Colectiva (protegen a más de un trabajador)
@@ -173,10 +173,10 @@ Consecuencias:
 - Señalización de riesgos
 
 ### EPI - Equipos de Protección Individual
-Protegen al trabajador de riesgos específicos. Deben estar **homologados con marcado [[Constitución española de 1978|CE]]** y son **gratuitos** a cargo del empresario.
+Protegen al trabajador de riesgos específicos. Deben estar **homologados con marcado [[constitucion-espanola-de-1978|CE]]** y son **gratuitos** a cargo del empresario.
 
 Categorías:
-- **[[Comando cat|Cat]]. 1**: riesgos mínimos (guantes jardín, gafas de sol, zapatos normales)
+- **[[comando-cat|Cat]]. 1**: riesgos mínimos (guantes jardín, gafas de sol, zapatos normales)
 - **Cat. 2**: riesgos elevados con consecuencias graves (protección auditiva, casco, calzado de seguridad...)
 - **Cat. 3**: riesgos mortales o irreversibles (protección respiratoria, anticaídas, protección eléctrica...)
 
@@ -186,10 +186,10 @@ Categorías:
 | Prohibición | Círculo rojo, fondo blanco, pictograma negro | Prohíbe comportamiento peligroso |
 | Advertencia | Triángulo amarillo, pictograma negro | Advierte de riesgo |
 | Obligación | Círculo azul, pictograma blanco | Obliga a comportamiento |
-| Salvamento | Rectángulo verde, pictograma blanco | Salidas/[[Primeros Auxilios]] |
-| [[Incendio|Incendios]] | Rectángulo rojo, pictograma blanco | Equipos contra incendio |
+| Salvamento | Rectángulo verde, pictograma blanco | Salidas/[[primeros-auxilios|Primeros Auxilios]] |
+| [[incendio|Incendios]] | Rectángulo rojo, pictograma blanco | Equipos contra incendio |
 | Luminosas | Materiales translúcidos iluminados desde dentro | — |
-| Acústicas | [[Señal]] sonora codificada | — |
+| Acústicas | [[senal|Señal]] sonora codificada | — |
 | Gestuales | Movimiento de manos/brazos codificado | — |
 
 ---
@@ -218,7 +218,7 @@ Para empresas con actividades generadoras de riesgos. Más complejo que el plan 
 
 ## 2.9. Control de la Salud de los Trabajadores
 
-La vigilancia de la salud es un **[[Derechos del trabajador en prevención de riesgos laborales|derecho del trabajador]]** y una **[[Obligaciones del empresario|obligación del empresario]]**.
+La vigilancia de la salud es un **[[derechos-del-trabajador-en-prevencion-de-riesgos-laborales|derecho del trabajador]]** y una **[[obligaciones-del-empresario|obligación del empresario]]**.
 Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y realizada por personal sanitario.
 
 ---
@@ -241,7 +241,7 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 - #### Etapa de Organización: 
 	- Organiza: trabajadores, empresa, emergencias, org. mixta
 - #### Etapa de Control:
-	- [[Documentación técnica|Documentación]] / Auditorías / Lista de Seguimiento de [[Metas y objetivos|Objetivos]].
+	- [[documentacion-tecnica|Documentación]] / Auditorías / Lista de Seguimiento de [[metas-y-objetivos|Objetivos]].
 - #### Etapa de Seguimiento:
 	- Planifica la actividad preventiva y evalúa los Riesgos
 - #### Etapa de Ejecución
@@ -253,16 +253,16 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 	- Protección de trabajadores sensibles. 
 	- Coordinación de actividades empresariales. 
 	- Relaciones de trabajo de duración determinada. 
-	- [[Equipo de trabajo|Equipos de trabajo]] y EPI's. 
+	- [[equipo-de-trabajo|Equipos de trabajo]] y EPI's. 
 	- Plan de prevención. 
 	- Investigación de accidentes.
 ### Delegados de Prevención
-Representantes de los trabajadores en materia preventiva. Número según [[Plantilla de simulación|plantilla]]:
+Representantes de los trabajadores en materia preventiva. Número según [[plantilla-de-simulacion|plantilla]]:
 
-| Número de Trabajadores   | [[Delegado de personal|Delegados de Personal]] |
+| Número de Trabajadores   | [[delegado-de-personal|Delegados de Personal]] |
 | :----------------------- | :-------------------- |
 | 11 - 49 trabajadores     | 1 delegado            |
-| 50 - 100 trabajadores    | 1 [[Delegados de Prevención|delegados]]           |
+| 50 - 100 trabajadores    | 1 [[delegados-de-prevencion|delegados]]           |
 | 101 - 250 trabajadores   | 2 delegados           |
 | 251 - 500 trabajadores   | 3 delegados           |
 | 501 - 1000 trabajadores  | 4 delegados           |
@@ -296,31 +296,31 @@ Proceso:
 
 ## 2.14. Primeros Auxilios
 
-Protocolo **[[Protocolo PAS|PAS]]**: **Proteger → Avisar → Socorrer**
+Protocolo **[[protocolo-pas|PAS]]**: **Proteger → Avisar → Socorrer**
 
 ### Triaje (múltiples víctimas)
 | Color | Prioridad | Características |
 |---|---|---|
 | Rojo | I - Urgente | Graves pero recuperables (parada cardiorrespiratoria presenciada) |
 | Amarillo | II - Demorable | Graves pero estables, pueden esperar |
-| Verde | III - Leve | No urgentes, [[Contusión|contusiones]], [[Esguince|esguinces]], [[Fractura|fracturas]] cerradas |
+| Verde | III - Leve | No urgentes, [[contusion|contusiones]], [[esguince|esguinces]], [[fractura|fracturas]] cerradas |
 | Negro | IV - Sin atención | Fallecidos o sin posibilidades de supervivencia |
 
 ### Soporte Vital Básico
-- Inconsciente + respira → *[[PLS]]* ([[Posición Lateral de Seguridad]])
-- Inconsciente + no respira → *RCP* ([[Reanimación Cardiopulmonar]]): 30 compresiones + 2 ventilaciones
+- Inconsciente + respira → *[[pls|PLS]]* ([[posicion-lateral-de-seguridad|Posición Lateral de Seguridad]])
+- Inconsciente + no respira → *RCP* ([[reanimacion-cardiopulmonar|Reanimación Cardiopulmonar]]): 30 compresiones + 2 ventilaciones
 - *DESA*: Desfibrilador Semiautomático → analiza ritmo cardíaco y aplica descarga si necesario
 
 ### Hemorragias
-- *Externa*: compresión directa → si no cede, compresión arterial → [[Torniquete]] (última medida, sobre ropa, anotar hora)
-- *Interna*: signos ([[Subsidio Extraordinario por Desempleo|sed]], pulso débil, sudor frío) → trasladar urgentemente
+- *Externa*: compresión directa → si no cede, compresión arterial → [[torniquete|Torniquete]] (última medida, sobre ropa, anotar hora)
+- *Interna*: signos ([[subsidio-extraordinario-por-desempleo|sed]], pulso débil, sudor frío) → trasladar urgentemente
 - *Nariz*: sentado con cabeza hacia adelante, comprimir orificio 5 min
 - *Oído*: no taponar, cubrir con gasa, posición lateral hacia el lado que sangra
 
 ### Traumatismos
 - *Fractura*: pérdida de continuidad del hueso. No mover si no hay riesgo vital. Inmovilizar y llamar emergencias.
 - *Esguince*: distensión de ligamentos. Inmovilizar, elevar la zona, aplicar frío local.
-- *[[Luxación]]*: separación de dos superficies articulares. Inmovilizar, frío local, trasladar a centro médico.
+- *[[luxacion|Luxación]]*: separación de dos superficies articulares. Inmovilizar, frío local, trasladar a centro médico.
 - *Contusión*: inflamación de piel sin lesión externa. Aplicar hielo. Si grave, inmovilizar y elevar.
 
 ### Maniobra de Heimlich (obstrucción vía aérea)
