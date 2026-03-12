@@ -1,8 +1,0 @@
----
-title: "Otras tarjetas de"
-aliases: ["otras tarjetas de"]
----
-
-# Otras tarjetas de
-
-expansión [[Tarjeta capturadora de vídeo]] La función de estas tarjetas es capturar el vídeo de forma analógica y guardarlo en formato digital. Una vez captu- rado, lo podemos editar con softwares específicos. Los conectores que suelen tener estas tarjetas son BNC para la señal de vídeo de pago, S-Video para salida de vídeo en pantallas led, LCD o plasma, y [[RCA]] para las señales de audio y vídeo. [[Tarjeta sintonizadora de televisión]] Estas tarjetas permiten sintonizar los canales de televisión y mostrarla por el monitor del equipo informático, de forma que podemos tratar la señal de la televisión que estamos recibiendo y grabar o editar dicha señal. Los tipos pueden ser: analógica, digital, híbrida y satélite. Montaje y mantenimiento de equipos 47 [[Tarjeta de sonido]] Al igual que las tarjetas gráficas, las tarjetas de sonido son las encargadas de gestionar, de forma independiente al procesador, la entrada y salida del audio en el ordenador. Inicial- mente, estos equipos informáticos incorporaban un altavoz interno para emitir los pitidos de averías, fue con la incorporación de estas tarjetas cuando fue posible añadir un sistema de audio de altavoces y así la calidad de audio fuera mejorando progresivamente. Las tarjetas de sonido permiten tanto grabar sonidos mediante micrófonos de entrada de audio como reproducir sonido por el canal de salida de audio.
