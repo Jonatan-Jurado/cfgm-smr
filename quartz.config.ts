@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f5f0fa",        // Fondo claro lavanda
+          lightgray: "#e0d6eb",    // Bordes suaves
+          gray: "#9882ab",         // Texto secundario
+          darkgray: "#4a3b5c",     // Texto principal
+          dark: "#2d2140",         // Títulos
+          secondary: "#875faf",    // Púrpura royal (enlaces)
+          tertiary: "#a78bba",     // Púrpura claro (hover)
+          highlight: "rgba(135, 95, 175, 0.12)",
+          textHighlight: "#d9c7f0aa",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1520",        // Fondo oscuro púrpura
+          lightgray: "#2d2438",    // Bordes
+          gray: "#6e5a80",         // Texto secundario
+          darkgray: "#c8b8d8",     // Texto principal
+          dark: "#e8daf0",         // Títulos
+          secondary: "#b8a7c5",    // Lavanda (enlaces)
+          tertiary: "#a78bfa",     // Púrpura brillante (hover)
+          highlight: "rgba(167, 139, 250, 0.15)",
+          textHighlight: "#7c3aed55",
         },
       },
     },

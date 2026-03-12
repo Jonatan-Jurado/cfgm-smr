@@ -1,3 +1,54 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* ====== ROYAL VELVET THEME ====== */
+
+/* Headings con colores estilo syntax highlighting */
+.center h1, article h1 {
+  color: #e06c75 !important; /* Rojo coral */
+}
+
+.center h2, article h2 {
+  color: #e5c07b !important; /* Amarillo dorado */
+}
+
+.center h3, article h3 {
+  color: #98c379 !important; /* Verde menta */
+}
+
+.center h4, article h4 {
+  color: #61afef !important; /* Azul cielo */
+}
+
+.center h5, article h5 {
+  color: #c678dd !important; /* Púrpura */
+}
+
+.center h6, article h6 {
+  color: #56b6c2 !important; /* Cyan */
+}
+
+/* Enlaces con efecto hover elegante */
+a {
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+a:hover {
+  text-shadow: 0 0 8px rgba(167, 139, 250, 0.4);
+}
+
+/* Bloques de código con estilo Royal Velvet */
+pre {
+  background: #1e1726 !important;
+  border: 1px solid #3d2e4d;
+}
+
+code {
+  color: #d4bfff;
+}
+
+/* Callouts con toque púrpura */
+.callout {
+  border-left-color: #875faf;
+  background: rgba(135, 95, 175, 0.08);
+}
