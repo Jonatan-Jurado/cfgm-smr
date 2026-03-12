@@ -1,6 +1,6 @@
 ---
 
-title: 📚 Inicio - Mis Apuntes SMR
+title: "📚 Inicio - Mis Apuntes SMR"
 
 ---
 
