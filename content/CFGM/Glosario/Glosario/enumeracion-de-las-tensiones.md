@@ -1,8 +1,0 @@
----
-title: "Enumeración de las tensiones"
-aliases: ["enumeración de las tensiones"]
----
-
-# Enumeración de las tensiones
-
-proporcionadas por una fuen- te de alimentación típica Las modernas fuentes de alimentación son bastante potentes y podemos ver que existen en el mercado fuentes de alimentación de 500 W, 600 W, o incluso de 1000 W. La potencia que suministra la fuente de alimentación debe de estar relacionada con el consumo de los componentes instalados: una fuente que se quede escasa de potencia producirá que el [[ventilador]] haga ruido debido al sobreca- lentamiento, mientras que otra más potente hará que el rendimiento sea mejor. Otro de los aspectos que se debe considerar en la fuente de alimentación es la eficiencia de la fuente, un porcen- taje que dispone el fabricante que relaciona la potencia disipada frente a la desaprovechada. A partir de un 80%, es un valor aceptable. El tamaño que ocupa la fuente es otro de los aspectos a destacar, ya que, dependiendo del tamaño, puede ir en un modelo de caja u otro, como veremos más adelante. Para seguir con las características de una fuente de alimen- tación, los conectores disponibles también es un condicio- nante a la hora de adquirir un dispositivo como este. Por último, es importante el ventilador de la fuente, lo mejor es que sea lo más efectivo y no haga ruido. Conectores de una fuente de alimentación. 14 Tema 1. Medición de parámetros eléctricos

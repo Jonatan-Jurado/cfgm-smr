@@ -1,8 +1,0 @@
----
-title: "Normas seguridad"
-aliases: ["normas seguridad"]
----
-
-# Normas seguridad
-
-Esta documentación puede ser presentada en papel o de manera digitalizada. Cuando se refiere a productos informáticos, encontramos dos tipos de documentación: • Manual: características de las diferentes funciones de algún dispositivo. • [[Guía rápida]]: características básicas (en diferentes idiomas) del montaje de algún dispositivo. Estructura del manual Es recomendable que tenga una estructura sencilla: • Una página para la portada en la que aparezca el título de la guía y otros aspectos importantes. • Una segunda página con las referencias para los [[Derechos de Autor]]. • Introducción explicando qué uso se le va a dar a la guía. ¡RECUERDA! Cuando empezamos a manejar una nueva [[Aplicación]], debemos tener cerca uno de estos dos manuales para poder ejecutarla, configurarla, dar los primeros pa- sos y poder realizar las actividades básicas que ofrece el [[Software]]. • Seguidamente, una página para el índice, donde se van a referenciar todas las páginas. • Finalmente, van a aparecer varias páginas en las que aparezcan su utilización y la novedad que presenta respecto al producto anterior. Elaboración del manual El manual suele elaborarse en algún programa especificado para tal fin, como, por ejemplo: PDF Creator o Adobe Acrobat Professional entre otros. Las normas básicas que vamos a seguir para desarrollarlo van a ser:

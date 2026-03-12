@@ -1,8 +1,0 @@
----
-title: "Memorias híbridas (SSHD)"
-aliases: ["memorias híbridas (sshd)"]
----
-
-# Memorias híbridas (SSHD)
-
-El arranque del sistema es mucho más rápido y aumenta la velocidad de acceso a los datos. Al no tener los platos girando todo el tiempo, consumen menos energía, por lo que la autonomía de la [[Batería]] aumenta. Además, presentan una mayor fiabilidad gracias a la [[Memoria]] flash|Memoria flash]] del [[Búfer]]. El rendimiento de la máquina es superior para muchas aplicaciones, por ejemplo, para el almacenamiento de contenidos multimedia o para la edición de ficheros de vídeo. 3.9. [[Adaptador gráfico]] y monitor de un sistema microinformático La [[Tarjeta de expansión]] gráfica, también llamada [[Tarjeta gráfica]], es uno de los dispositivos que se debe tener en cuenta al adquirir un equipo informático, ya que es la que permite que la información se muestre en la pantalla. En el mercado hay dos tipos de adaptadores gráficos: los que vienen integrado en el propio procesador y los que se encuentran en una Tarjeta de expansión aparte del procesador. En este último caso, habría que deshabilitar el adaptador que trae de serie el procesador en la [[BIOS]] para poder conectar una Tarjeta gráfica. Es lo más normal y lo más recomendable, ya que le quitamos la carga al procesador de visualizar los datos por la pantalla y disponemos de un [[Procesador Gráfico]] solo y exclusivamente para realizar este tipo de tareas. 3.9.1. Componentes de la Tarjeta gráfica Una Tarjeta gráfica se compone de:
