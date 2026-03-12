@@ -10,7 +10,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 
 - #### 🖥️ Sistemas Operativos Monopuesto
 	- [[Tema_1_SOM|Tema 1 - Sistemas Operativos y Utilidades]] 
-	- [[Tema 2 SOM|Tema  2 - Codificación de la Información]]   
+	- [[Tema_2_SOM|Tema  2 - Codificación de la Información]]    
 	- [[Tema_3_SOM|Tema3 - Gestión de los Recursos y de la Memoria]]
 
 - #### 🤝Itinerario Personal para la Empleabilidad
