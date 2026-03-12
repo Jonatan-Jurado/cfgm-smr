@@ -1,3 +1,7 @@
+---
+title: "index"
+---
+
 # 📚 Glossary Index
 
 > Auto-generated on 2026-03-11 19:59 — do not edit manually.

@@ -1,3 +1,7 @@
+---
+title: "filtro electrico"
+---
+
 title: "[[Filtro]] Eléctrico"
 ---
 # Filtro Eléctrico

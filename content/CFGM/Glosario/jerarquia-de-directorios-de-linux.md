@@ -1,3 +1,7 @@
+---
+title: "jerarquia de directorios de linux"
+---
+
 title: "Jerarquía de [[Directorios]] de Linux"
 aliases: ["[[Árbol de Directorios|Árbol de Directorios", "Directorios de sistema"]
 ---

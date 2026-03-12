@@ -1,3 +1,7 @@
+---
+title: "asignacion de recursos"
+---
+
 title: "Asignación de Recursos"
 ---
 # Asignación de Recursos

@@ -1,3 +1,7 @@
+---
+title: "incompatibilidad de software"
+---
+
 title: "Incompatibilidad de [[Software]]"
 aliases: ["[[Incompatibilidades de Software|Incompatibilidades de Software", "Incompatibilidad lógica"]
 ---

@@ -1,3 +1,7 @@
+---
+title: "complemento a uno"
+---
+
 title: "Complemento a uno"
 aliases: ["[[Complemento a 1]]", "C1"]
 ---

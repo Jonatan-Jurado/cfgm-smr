@@ -1,3 +1,7 @@
+---
+title: "live cd"
+---
+
 title: "Live CD"
 aliases: ["Distribución live", "Live USB", "[[Sistema operativo]] autoejecutable"]
 ---

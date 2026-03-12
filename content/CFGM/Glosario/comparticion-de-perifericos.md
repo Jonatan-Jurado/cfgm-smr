@@ -1,3 +1,7 @@
+---
+title: "comparticion de perifericos"
+---
+
 title: "Compartición de [[Periféricos]]"
 ---
 # Compartición de Periféricos

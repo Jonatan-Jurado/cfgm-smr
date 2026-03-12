@@ -1,3 +1,7 @@
+---
+title: "errores comunes de arranque en virtualizacion"
+---
+
 title: "Errores Comunes de Arranque en [[Virtualización]]"
 ---
 # Errores Comunes de Arranque en Virtualización

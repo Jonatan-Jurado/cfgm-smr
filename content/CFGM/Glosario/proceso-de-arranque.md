@@ -1,3 +1,7 @@
+---
+title: "proceso de arranque"
+---
+
 title: "[[Proceso]] de arranque"
 aliases: ["Arranque del sistema", "Boot", "Secuencia de inicio"]
 ---

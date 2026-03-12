@@ -1,3 +1,7 @@
+---
+title: "proceso init"
+---
+
 title: "[[Proceso]] init"
 aliases: ["init", "PID 1", "Sistema de inicio"]
 ---

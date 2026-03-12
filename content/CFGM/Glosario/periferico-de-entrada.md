@@ -1,3 +1,7 @@
+---
+title: "periferico de entrada"
+---
+
 title: "[[Periférico]] de entrada"
 aliases: ["[[Periféricos]] de Entrada|Periféricos de entrada]]", "Dispositivos de entrada"]
 ---

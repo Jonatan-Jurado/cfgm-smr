@@ -1,3 +1,7 @@
+---
+title: "grupo de usuario"
+---
+
 title: "[[Grupo]] de [[Usuario]]"
 aliases: ["[[Grupos de Usuarios]]", "Grupo de seguridad", "Security groups"]
 ---

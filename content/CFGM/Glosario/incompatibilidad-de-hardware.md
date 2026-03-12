@@ -1,3 +1,7 @@
+---
+title: "incompatibilidad de hardware"
+---
+
 title: "Incompatibilidad de [[Hardware]]"
 aliases: ["[[Incompatibilidades de Hardware|Incompatibilidades de Hardware", "Incompatibilidad física"]
 ---

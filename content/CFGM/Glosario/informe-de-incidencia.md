@@ -1,3 +1,7 @@
+---
+title: "informe de incidencia"
+---
+
 title: "Informe de incidencia"
 aliases: ["Informes de incidencias", "[[Parte de incidencia]]", "Registro de incidencia"]
 ---

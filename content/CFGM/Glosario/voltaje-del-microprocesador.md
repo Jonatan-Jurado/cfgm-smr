@@ -1,3 +1,7 @@
+---
+title: "voltaje del microprocesador"
+---
+
 title: "[[Voltaje]] del [[Microprocesador]]"
 ---
 # Voltaje del Microprocesador

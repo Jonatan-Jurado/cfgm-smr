@@ -1,3 +1,7 @@
+---
+title: "actualizaciones criticas"
+---
+
 title: "Actualizaciones Críticas"
 ---
 # Actualizaciones Críticas

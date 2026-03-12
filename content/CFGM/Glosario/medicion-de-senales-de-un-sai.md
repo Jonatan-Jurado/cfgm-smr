@@ -1,3 +1,7 @@
+---
+title: "medicion de senales de un sai"
+---
+
 title: "Medición de Señales de un SAI"
 ---
 # Medición de Señales de un SAI

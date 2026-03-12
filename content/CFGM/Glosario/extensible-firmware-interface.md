@@ -1,3 +1,7 @@
+---
+title: "extensible firmware interface"
+---
+
 title: "Extensible [[Firmware]] Interface"
 ---
 # Extensible Firmware Interface

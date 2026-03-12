@@ -1,3 +1,7 @@
+---
+title: "configuracion de red inalambrica"
+---
+
 title: "Configuración de Red Inalámbrica"
 ---
 # Configuración de Red Inalámbrica

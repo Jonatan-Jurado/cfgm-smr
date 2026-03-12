@@ -1,3 +1,7 @@
+---
+title: "exceso a n"
+---
+
 title: "Exceso a N"
 aliases: ["Exceso a 2n-1", "Representación por exceso", "Notación de exceso"]
 ---

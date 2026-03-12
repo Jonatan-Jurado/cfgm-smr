@@ -1,3 +1,7 @@
+---
+title: "velocidad del microprocesador"
+---
+
 title: "Velocidad del [[Microprocesador]]"
 ---
 # Velocidad del Microprocesador

@@ -1,3 +1,7 @@
+---
+title: "sticky bit"
+---
+
 title: "Sticky [[Bit]]"
 aliases: ["Bit de permanencia", "Bit pegajoso"]
 ---

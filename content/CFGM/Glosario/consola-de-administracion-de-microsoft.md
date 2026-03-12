@@ -1,3 +1,7 @@
+---
+title: "consola de administracion de microsoft"
+---
+
 title: "Consola de administración de Microsoft"
 aliases: ["MMC", "Microsoft Management Console"]
 ---

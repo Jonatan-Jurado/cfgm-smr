@@ -1,3 +1,7 @@
+---
+title: "prioridad de arranque"
+---
+
 title: "Prioridad de arranque"
 aliases: ["[[Orden de Arranque]]", "Boot", "Secuencia de inicio"]
 ---
