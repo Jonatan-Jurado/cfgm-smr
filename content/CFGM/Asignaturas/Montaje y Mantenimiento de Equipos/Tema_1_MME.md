@@ -9,7 +9,7 @@ tags:
 
 ## ELECTRICIDAD
 
-*[[electricidad|Electricidad]]* = Flujo constante de [[carga-electrica|Cargas Eléctricas]]
+*Electricidad* = Flujo constante de [[carga-electrica|Cargas Eléctricas]]
 ### **Tipos**
 1. **Eléctricos**
 2. **Electromagnéticos**
@@ -19,7 +19,7 @@ tags:
    ![[Pasted-image-20260304115814.png]]
 
 ### **Análisis**
-1. **Dominio del Tiempo:** Variables Temporales / [[amplitud|Amplitud]], [[frecuencia|Frecuencia]] y Fase
+1. **Dominio del Tiempo:** Variables Temporales / [[amplitud|Amplitud]], Frecuencia y Fase
 2. **[[dominio-de-frecuencia|Dominio de Frecuencia]]:** Sinuidales (Fourer) / Frecuencia y Amplitud
 
 ### **Tipos de Corriente**
@@ -31,7 +31,7 @@ Flujo de Electrones siempre en la misma dirección por un canal.
 #### **ALTERNA (A.C)**
 Va cambiando la Polaridad en los extremos del canal.
 **Periodo:** Onda Cíclica que se repite
-- **Frecuencia:** Intervalo hasta que pasa de nuevo por [[economia-lineal|el]] primer punto
+- **Frecuencia:** Intervalo hasta que pasa de nuevo por el primer punto
 - **Amplitud:** Distancia entre el punto medio de la onda y el punto más alejado.
 ![[Pasted-image-20260305102858.png]]
 
@@ -47,7 +47,7 @@ Va cambiando la Polaridad en los extremos del canal.
 
 ### VOLTAJE
 
-**[[voltaje|Voltaje]]:** Diferencia de potencial eléctrica / La [[intensidad|Corriente eléctrica]] es el paso de electrones de un cuerpo a otro.  
+**Voltaje:** Diferencia de potencial eléctrica / La [[intensidad-de-corriente|Intensidad]] es el paso de electrones de un cuerpo a otro.  
 *[[unidad-de-medida|Unidad de Medida]]*: V (Voltio)
 *Medición:* [[voltimetro|Voltímetro]]
 
@@ -55,7 +55,7 @@ Va cambiando la Polaridad en los extremos del canal.
 
 **Intensidad:** Cantidad de corriente que pasa por un conductor en un momento determinado
 *Unidad de Medida:* A (Amperio)
-*Fórmula:*     **I=V/[[indice-de-respuesta|R]]** 
+*Fórmula:*     **I=V/R** 
 *Medición:* [[amperimetro|Amperímetro]]
 
 ### RESISTENCIA
@@ -66,16 +66,16 @@ Va cambiando la Polaridad en los extremos del canal.
 
 ### POTENCIA
 
-**[[potencia|Potencia]]:**  [[trabajo|Trabajo]] realizado durante el tiempo que se Necesita
+**[[potencia-electrica|Potencia]]:**  Trabajo realizado durante el tiempo que se Necesita
 *Unidad de Medida:* W (Wattios)
-*Fórmula:*  **[[indice-de-penalizacion|P]]=V * I**
+*Fórmula:*  **P=V * I**
 
 ## FUENTE DE ALIMENTACIÓN
 
 *[[fuente-de-alimentacion|Fuente de Alimentación]]:* Dispositivo a través del cual nos conectamos a la red eléctrica y a la placa del PC.
 
 
-**Corriente** --> **[[transformador|Transformador]]** --> **[[rectificador|Rectificador]]** --> **[[filtro|Filtro]]** --> **[[regulador|Regulador]]** 
+**Corriente** --> **Transformador** --> **Rectificador** --> **Filtro** --> **Regulador** 
 
  - **Transformador:** Modifica la Tensión
 	 - *Bobina Primaria:* Recibe [[senal|Señal]].
@@ -89,7 +89,7 @@ Va cambiando la Polaridad en los extremos del canal.
 ## SAI: SISTEMA DE ALIMENTACIÓN ININTERRUMPIDO
 
 Proporciona Electricidad a los que estén conectados si hay [[apagon|Apagón]] y filtra señal para que no haya fallos en los equipos.
-Tiene dos Salidas: *[[controlador|Controlador]] y Bateria Baja*
+Tiene dos Salidas: *Controlador y Bateria Baja*
 
  **Previene:**
  - *Apagones*
@@ -100,9 +100,9 @@ Tiene dos Salidas: *[[controlador|Controlador]] y Bateria Baja*
 **Partes:**
 - *Bateria y Cargador:* Normalmente 12V
 - *Filtro:* Limpia Señal
-- *[[conversor|Conversor]]:* de 12V --> D.C
-- *[[inversor|Inversor]]:* de D.C --> A.C
-- *[[conmutador|Conmutador]]:* Circuito que Camia de Red Eléctrica a [[sistema-de-alimentacion-ininterrumpida|SAI]]
+- *Conversor:* de 12V --> D.C
+- *Inversor:* de D.C --> A.C
+- *Conmutador:* Circuito que Camia de Red Eléctrica a [[sistema-de-alimentacion-ininterrumpida|SAI]]
 
 ### **Tipos:**
 #### **SAI Standby u Offline Pasivo:** 
@@ -132,10 +132,10 @@ La conversión no depende de la entrada sinó de otro inversor.
 ### EN SERIE
 - Un único Camino
 - La *intensidad total* de los elementos conectados en serie es la misma en cada una de las tensiones en cada elemento
-	- **[[prestacion-por-incapacidad-temporal|It]] = I1 = I2 = I3 = ...**
+	- **It = I1 = I2 = I3 = ...**
 - La *tensión* total de los elementos conectados en serie es la suma de cada una de las tensiones en cada elemento.
 	- **Vt = V1 + V2 + V3 + ...**
-- La *[[resistencia|Resistencia]] total* de todos los receptores conectados en serie es la suma de la resistencia de cada receptor.
+- La *[[resistencia-electrica|Resistencia]] total* de todos los receptores conectados en serie es la suma de la resistencia de cada receptor.
 	- **Rt = R1 + R2 + R3 + ...**
 
 ![[Pasted-image-20260305110642.png]]

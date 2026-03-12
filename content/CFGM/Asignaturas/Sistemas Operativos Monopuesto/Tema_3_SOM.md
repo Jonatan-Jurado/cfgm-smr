@@ -10,26 +10,26 @@ tags:
 
 ## GESTIÓN DE ARCHIVOS
 **[[archivo|Archivo]]**: 
-- Conjunto de [[bit|bits]] almacenados tratados como una sola unidad.
-- Tienen una [[extension-de-archivo|Extensión]] y un Tamaño ([[byte|bytes]])
+- Conjunto de bits almacenados tratados como una sola unidad.
+- Tienen una [[extension-de-archivo|Extensión]] y un Tamaño ([[unidad-de-medida-de-informacion|Byte]])
 - *Operaciones:*
 	- *Ceración*
 	- *Apertura*
 	- *Cierre*
 
-**[[directorio|Directorio]]:** 
+**Directorio:** 
 - Archivo que almacena otros archivos y subdirectorios
-- Guarda la [[ruta|Ruta]] y [[atributo|atributos]] de un directorio
+- Guarda la [[ruta-de-archivo|Ruta]] y [[atributo-de-archivo|atributos]] de un directorio
 
 **Atributo:** Características de un Archivo
 
-**[[permisos|Permisos]]:**  Reglas de acceso para las operaciones
+**[[permiso-de-archivo|Permisos]]:**  Reglas de acceso para las operaciones
 - *lectura*
 - *escritura*
 - *ejecución*
 
 ## GESTIÓN DE LA MEMORIA
-En los S.O multiproceso, la [[ram|RAM]] no suele tener [[capacidades|capacidad]] suficiente para todos los [[proceso|procesos]]. Por eso se debe distribuir la Memoria entre varios procesos.
+En los S.O multiproceso, la [[memoria-ram|RAM]] no suele tener capacidades suficiente para todos los procesos. Por eso se debe distribuir la Memoria entre varios procesos.
 ### SOLAPAMIENTO o OVERLAY
 Divide [[economia-lineal|el]] [[software-y-algoritmo|Programa]] Virtualmente en procesos para que se ejecuten en diferentes partes de la RAM.
 Fue inviable porqué cada sistema tiene características diferentes y necesitaba una programación diferente para todas las [[aplicacion|aplicaciones]]
@@ -46,14 +46,14 @@ Fue inviable porqué cada sistema tiene características diferentes y necesitaba
 - Problemas!
 	- *[[fragmentacion-interna|Fragmentación Interna]]*: procesos ocupan espacio menor que el que tienen asignado
 	- *[[fragmentacion-externa|Fragmentación Externa]]*: Procesos ocupan espacio mayor y la partición queda libre
-	- ![[internapng|interna.png]]
-	- ![[externapng|externa.png]]
+	- ![[interna.png]]
+	- ![[externa.png]]
 
 - *Asignar Procesos*: 
 	- *Cola única*: 
-	  ![[cola-unicapng|cola unica.png]]
+	  ![[cola-unica.png]]
 	- *Cola por Partición*:
-	- ![[cola-por-particionpng|cola por particion.png]]
+	- ![[cola-por-particion.png]]
 - *Asignar Memoria*:
 	- Primer Proceso de la cola a un espacio según quede libre (Si proceso > Espacio libre. No se ejecuta)
 	- Primer Proceso de la cola que quepa en el espacio que ha quedado libre.
@@ -61,18 +61,18 @@ Fue inviable porqué cada sistema tiene características diferentes y necesitaba
 
 #### PARTICIONES VARIABLES
 Se particiona según la ejecución de los procesos, , un proceso solo ocupa en memoria el espacio que necesita.
-![[part-variablespng|part variables.png]]
+![[part-variables.png]]
 
 
 **Uso**
 1. Cuando un proceso termina, se combina el hueco con el que hay disponible al lado
-![[mem-var-1png|mem var 1.png]]
+![[mem-var-1.png]]
 2. Cuando un proceso termina, se compactan los espacios ocupados de la memoria, por lo que al principio está toda la memoria ocupada y después toda la memoria libre.
 	- *Primer Ajuste*:  asigna al primer proceso de la cola el primer hueco 
 	- *Siguiente Ajuste*: asignan los procesos por orden de cola
 	- *Mejor Ajuste*: asigna el hueco más pequeño al proceso que mejor se adapte al espacio
 	- *Peor Ajuste*: asigna el hueco más grande al primer proceso de la cola.
-	![[mem-var-2png|mem var 2.png]]
+	![[mem-var-2.png]]
 	
 
 #### MEMORIA VIRTUAL
@@ -81,9 +81,9 @@ Se usa el [[disco-duro|Disco duro]] como RAM.
 - *Capa Activa*: Procesos en ejecución en la memoria principal
 - *Capa inactiva*: Procesos en la [[almacenamiento-secundario|memoria secundaria]].
 
-*[[swapping|Swapping]]*:  Mueve el proceso de la memoria principal al disco duro y viceversa.
+*[[intercambio-de-memoria|Swapping]]*:  Mueve el proceso de la memoria principal al disco duro y viceversa.
 Problema! Ralentiza el sistema.
-![[swapingpng|swaping.png]]
+![[swaping.png]]
 
 
 *Técnicas para la [[virtualizacion|Virtualización]]*:
@@ -95,7 +95,7 @@ Problema! Ralentiza el sistema.
 
 ## GESTIÓN DE LOS PROCESOS
 
-*Proceso*: es un conjunto de instrucciones que se ejecutan en la [[microprocesador|CPU]]
+*Proceso*: es un conjunto de instrucciones que se ejecutan en la CPU
 ### ESTADO DE LOS PROCESOS
 Todos los procesos tienen un ID que define sus situación respecto a su funcionamiento
 #### INDICADOR
@@ -115,11 +115,11 @@ Todos los procesos tienen un ID que define sus situación respecto a su funciona
 - *[[fin-de-bloqueo|Fin de bloqueo]]*: está esperando a que acabe la operación que lo bloqueó
 
 
-![[estado1png|estado1.png]]
+![[estado1.png]]
 
 
 *Solo en Unix*
-![[estado2png|estado2.png]]
+![[estado2.png]]
 
 
 
@@ -127,17 +127,17 @@ Todos los procesos tienen un ID que define sus situación respecto a su funciona
 #### ASPECTOS PRINCIPALES
 - *Imparcialidad*: cada proceso tenga la fracción de tiempo de procesador que le corresponde.
 - *Repetitividad*: con [[carga-de-trabajo|cargas de trabajo]] similares -> comportamientos similares
-- *Predecibilidad*: tiempo y coste de procesamiento -> con cualquier carga de [[trabajo|Trabajo]]
+- *Predecibilidad*: tiempo y coste de procesamiento -> con cualquier carga de Trabajo
 - *Eficiencia*: CPU y demás recursos trabajen el mayor tiempo posible
 - *Productividad*: Cantidad de trabajo por unidad de tiempo
 - *Economía*: Reducir gastos al mínimo
 - *Equilibrio*: Aprovechar recursos manteniendo ocupados todos los [[componentes-del-hardware|componentes]] posibles
 - *Recursos Críticos*: preferencia a aquellos procesos que están ocupando recursos críticos, para que terminen lo antes posible y los liberen.
 - *Degradación progresiva*: degradación uniforme al incrementar el trabajo
-- *Tiempos Aceptables*:grado de satisfacción que tienen los [[usuario|usuarios]] respecto al tiempo que deben esperar
+- *Tiempos Aceptables*:grado de satisfacción que tienen los usuarios respecto al tiempo que deben esperar
 
 ### REFERENCIAS NUMÉRICAS
-- *Tiempo de ejecución (t)*: es el tiempo de [[servicio|Servicio]] que necesita un proceso. 
+- *Tiempo de ejecución (t)*: es el tiempo de Servicio que necesita un proceso. 
 - *Tiempo de terminación o de retorno (T)*: es el tiempo entre la hora de llegada del trabajo y su hora de finalización. 
 	- Mide el tiempo que un proceso está presente en el equipo
 	- **T = Ht – Hn** 
@@ -157,7 +157,7 @@ Todos los procesos tienen un ID que define sus situación respecto a su funciona
 #### NO APROPIATIVOS
 Una vez asignado el procesador a un proceso, ya no se puede quitar.
 ##### FCFS 
-**[[fcfs|First Come First Served]]**: EL primero que llega se le asigna.
+**[[first-come-first-served|FCFS]]**: EL primero que llega se le asigna.
 - *Trabajos*: En orden de llegada
 - *Proceso*: se añade al final de la cola y se ejecuta en orden de incorporación.
 

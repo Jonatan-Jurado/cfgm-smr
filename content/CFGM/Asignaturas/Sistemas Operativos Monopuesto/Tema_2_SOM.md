@@ -16,7 +16,7 @@ tags:
 | `110`                | **6**     |
 | `111`                | **7**     |
 #### BINARIO A OCTAL
-Agrupar de 3 en 3 [[economia-lineal|el]] Binario y cambiar por su correspondiente en Octal. 
+Agrupar de 3 en 3 el Binario y cambiar por su correspondiente en Octal. 
 **(Siempre separar de derecha a Izquierda!!)**
 Ejemplo: 011101 -->  011 101 --> 35
 
@@ -76,7 +76,7 @@ Ejemplo: 3C6 -->> 0011 1100 0110 (Ahora agrupamos de 3 en 3) -->> 001 111 000 11
 | $0 + 1$       | **1**         | 0                     |                                                   |
 | $1 + 0$       | **1**         | 0                     |                                                   |
 | 1 + 1         | **0**         | **1**                 | Se pone 0 y "te llevas 1" a la siguiente columna. |
-1 1 1      <-- (Acarreos[[directorio-raiz|/]]Lo que me llevo)
+1 1 1      <-- (Acarreos/Lo que me llevo)
       1 1 0 1    (13)
     + 0 1 1 1    (7)
     ----------
@@ -97,12 +97,12 @@ Ejemplo: 3C6 -->> 0011 1100 0110 (Ahora agrupamos de 3 en 3) -->> 001 111 000 11
 **Resultado: `10100`**
 
 ### SUSTRACCIÓN (-)
-|**Operación**|**Resultado**|**Prestado (Borrow)**|**Nota**|
-|---|---|---|---|
-|$0 - 0$|**0**|0||
-|$1 - 1$|**0**|0||
-|$1 - 0$|**1**|0||
-|**$0 - 1$**|**1**|**1**|El resultado es 1 y **pides prestado 1** a la izquierda.|
+| **Operación** | **Resultado** | **Prestado (Borrow)** | **Nota**                                                 |
+| ------------- | ------------- | --------------------- | -------------------------------------------------------- |
+| $0 - 0$       | **0**         | 0                     |                                                          |
+| $1 - 1$       | **0**         | 0                     |                                                          |
+| $1 - 0$       | **1**         | 0                     |                                                          |
+| **$0 - 1$**   | **1**         | **1**                 | El resultado es 1 y **pides prestado 1** a la izquierda. |
 1 1 1      <-- (Prestados/Lo que pido a la izquierda)
        1 1 0 1    (13)
      - 0 1 1 1    (7)
@@ -145,7 +145,7 @@ Ejemplo: 3C6 -->> 0011 1100 0110 (Ahora agrupamos de 3 en 3) -->> 001 111 000 11
 | $0 \div 0$    | **Error**     | Indeterminado.                                       |
 
 
-![[divisionpng|division.png]]
+![[division.png]]
 
 
 ## REPRESENTACIÓN DE NÚMEROS ENTEROS (Positivos y Negativos)
@@ -156,7 +156,7 @@ En binario, no existe el símbolo "$-$". Por eso, los ordenadores usan el Bit m�
 
 - **Regla**: El primer bit es el signo (**0 = +**, **1 = -**). El resto es el número normal.
     
-- **Problema**: El cero tiene dos nombres ($+0$ y $-0$), lo cual confunde a la [[microprocesador|CPU]].
+- **Problema**: El cero tiene dos nombres ($+0$ y $-0$), lo cual confunde a la [[unidad-central-de-procesamiento|CPU]].
     
 - **Ejemplo (8 bits)**:
     

@@ -11,10 +11,10 @@ tags:
 
 ## 2.1. El Trabajo y la Salud: Riesgos Profesionales
 
-*Riesgo Laboral*: Posibilidad de que un trabajador sufra daño debido al [[trabajo|Trabajo]].
+*Riesgo Laboral*: Posibilidad de que un trabajador sufra daño debido al trabajo.
 *[[factor-de-riesgo|Factor de Riesgo]]*: Objeto, sustancia o característica que puede provocar daño. Surgen de:
 - Características del centro de trabajo (máquinas, instalaciones...)
-- Condiciones medioambientales (temperatura, agentes físicos[[directorio-raiz|/]]químicos/biológicos)
+- Condiciones medioambientales (temperatura, agentes físicos/químicos/biológicos)
 - [[carga-de-trabajo|Carga de trabajo]] y condiciones psicofísicas (malas posturas, esfuerzo excesivo...)
 - Circunstancias personales del trabajador (edad, estado de salud...)
 
@@ -54,7 +54,7 @@ Deterioro gradual y lento de la salud por exposición crónica a condiciones adv
 
 ## 2.3. Marco Normativo (LPRL - Ley 31/1995)
 
-Regula [[derecho|derechos]] y obligaciones. [[economia-lineal|El]] incumplimiento genera responsabilidades administrativas, civiles y penales. La [[prevencion|Prevención]] recae fundamentalmente sobre el **empresario**.
+Regula derechos y obligaciones. El incumplimiento genera responsabilidades administrativas, civiles y penales. La [[prevencion|Prevención]] recae fundamentalmente sobre el **empresario**.
 
 ### Derechos del Trabajador
 - Recibir *EPI* ([[equipo-de-proteccion-individual|Equipos de Protección Individual]]) adecuados y gratuitos
@@ -122,10 +122,10 @@ Clases de fuego:
 Principal causa de [[enfermedad-profesional|enfermedades profesionales]].
 
 ### Agentes Físicos
-- *[[ruido|Ruido]]*: medido en decibelios (dB). Límite: 87 dB en 8h / máx. 140 dB de corta duración. Se mide con sonómetro o dosímetro.
-- *[[vibraciones|Vibraciones]]*: medidas en Hz. Límite mano/brazo: 5 [[tiempo-perdido|m]]/s². Límite cuerpo entero: 1,15 m/s²
+- *|Ruido*: medido en decibelios (dB). Límite: 87 dB en 8h / máx. 140 dB de corta duración. Se mide con sonómetro o dosímetro.
+- *Vibraciones*: medidas en Hz. Límite mano/brazo: 5m/s². Límite cuerpo entero: 1,15 m/s²
 - *[[iluminacion|Iluminación]]*: debe garantizar confort visual adecuado
-- Temperaturas extremas, [[radiaciones|Radiaciones]]...
+- Temperaturas extremas, Radiaciones...
 
 ### Agentes Químicos
 Contaminantes en forma de polvo, gases, vapores o aerosoles. Vías de entrada: inhalatoria, dérmica, digestiva.
@@ -173,10 +173,10 @@ Consecuencias:
 - Señalización de riesgos
 
 ### EPI - Equipos de Protección Individual
-Protegen al trabajador de riesgos específicos. Deben estar **homologados con marcado [[constitucion-espanola-de-1978|CE]]** y son **gratuitos** a cargo del empresario.
+Protegen al trabajador de riesgos específicos. Deben estar **homologados con marcado CE** y son **gratuitos** a cargo del empresario.
 
 Categorías:
-- **[[comando-cat|Cat]]. 1**: riesgos mínimos (guantes jardín, gafas de sol, zapatos normales)
+- **Cat. 1**: riesgos mínimos (guantes jardín, gafas de sol, zapatos normales)
 - **Cat. 2**: riesgos elevados con consecuencias graves (protección auditiva, casco, calzado de seguridad...)
 - **Cat. 3**: riesgos mortales o irreversibles (protección respiratoria, anticaídas, protección eléctrica...)
 
@@ -241,7 +241,7 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 - #### Etapa de Organización: 
 	- Organiza: trabajadores, empresa, emergencias, org. mixta
 - #### Etapa de Control:
-	- [[documentacion-tecnica|Documentación]] / Auditorías / Lista de Seguimiento de [[metas-y-objetivos|Objetivos]].
+	- [[documentacion-tecnica|Documentación]] / Auditorías / Lista de Seguimiento de Objetivos.
 - #### Etapa de Seguimiento:
 	- Planifica la actividad preventiva y evalúa los Riesgos
 - #### Etapa de Ejecución
@@ -307,13 +307,13 @@ Protocolo **[[protocolo-pas|PAS]]**: **Proteger → Avisar → Socorrer**
 | Negro | IV - Sin atención | Fallecidos o sin posibilidades de supervivencia |
 
 ### Soporte Vital Básico
-- Inconsciente + respira → *[[pls|PLS]]* ([[posicion-lateral-de-seguridad|Posición Lateral de Seguridad]])
+- Inconsciente + respira → *[[posicion-lateral-de-seguridad|PLS]]* ([[posicion-lateral-de-seguridad|Posición Lateral de Seguridad]])
 - Inconsciente + no respira → *RCP* ([[reanimacion-cardiopulmonar|Reanimación Cardiopulmonar]]): 30 compresiones + 2 ventilaciones
 - *DESA*: Desfibrilador Semiautomático → analiza ritmo cardíaco y aplica descarga si necesario
 
 ### Hemorragias
-- *Externa*: compresión directa → si no cede, compresión arterial → [[torniquete|Torniquete]] (última medida, sobre ropa, anotar hora)
-- *Interna*: signos ([[subsidio-extraordinario-por-desempleo|sed]], pulso débil, sudor frío) → trasladar urgentemente
+- *Externa*: compresión directa → si no cede, compresión arterial → Torniquete (última medida, sobre ropa, anotar hora)
+- *Interna*: signos sed, pulso débil, sudor frío) → trasladar urgentemente
 - *Nariz*: sentado con cabeza hacia adelante, comprimir orificio 5 min
 - *Oído*: no taponar, cubrir con gasa, posición lateral hacia el lado que sangra
 

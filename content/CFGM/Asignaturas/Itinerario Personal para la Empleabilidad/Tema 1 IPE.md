@@ -13,27 +13,27 @@ tags:
 
 ### El Sector Productivo
 
-Actividades económicas que implican la producción de bienes y [[servicio|servicios]]. Se divide en subsectores: agrícola, industrial y de servicios.
+Actividades económicas que implican la producción de bienes y servicios. Se divide en subsectores: agrícola, industrial y de servicios.
 
 Aspectos clave del análisis:
 
-- _Tamaño del mercado_: dimensión y [[capacidades|capacidad]] en términos de producción y consumo
-- _Competencia_: número y tipo de competidores, barreras de entrada[[directorio-raiz|/]]salida
+- _Tamaño del mercado_: dimensión y capacidades en términos de producción y consumo
+- _Competencia_: número y tipo de competidores, barreras de entrada y salida
 - _Tecnología_: nivel de innovación y adopción tecnológica
 - _Factores económicos_: inflación, tipo de cambio, políticas gubernamentales
-- _Tendencias y oportunidades_: productos sostenibles, [[digitalizacion|Digitalización]]...
+- _Tendencias y oportunidades_: productos sostenibles, [[digitalizacion|Digitalización]].
 
 ### El Perfil Profesional
 
-Describe las [[competencias|Competencias]], habilidades y conocimientos necesarios para un rol específico.
+Describe las competencias, habilidades y conocimientos necesarios para un rol específico.
 
 [[componentes-del-hardware|Componentes]]:
 
-- _Competencias técnicas_: conocimientos específicos del [[trabajo|Trabajo]] (maquinaria, programación...)
-- _Habilidades blandas_: comunicación, [[trabajo-en-equipo|Trabajo en equipo]], [[liderazgo|Liderazgo]], resolución de [[conflicto|conflictos]]
+- _Competencias técnicas_: conocimientos específicos del Trabajo (maquinaria, programación...)
+- _Habilidades blandas_: comunicación, [[trabajo-en-equipo|Trabajo en equipo]], |Liderazgo, resolución de conflictos
 - _Experiencia laboral_: trayectoria y prácticas previas
 - _Formación académica_: títulos, certificaciones y cursos
-- _Adaptabilidad_: capacidad de aprender continuamente conforme evoluciona [[economia-lineal|el]] [[sector|Sector]]
+- _Adaptabilidad_: capacidad de aprender continuamente conforme evoluciona el Sector
 
 [[analisis-del-perfil-profesional|Análisis del perfil profesional]]:
 
@@ -185,7 +185,7 @@ Mecanismo del sistema para:
 Estructura del [[catalogo-nacional-de-cualificaciones-profesionales|CNCP]]:
 
 - **26 familias profesionales** (756 cualificaciones a noviembre 2022)
-- **3 niveles de cualificación** según grado de iniciativa, conocimiento, [[responsabilidad|Responsabilidad]] y autonomía:
+- **3 niveles de cualificación** según grado de iniciativa, conocimiento, Responsabilidad y autonomía:
     - _Nivel 1_: Básico
     - _Nivel 2_: Medio
     - _Nivel 3_: Superior
