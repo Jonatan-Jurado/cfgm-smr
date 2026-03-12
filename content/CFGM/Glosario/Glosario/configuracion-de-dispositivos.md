@@ -1,0 +1,13 @@
+---
+title: "Configuración de dispositivos"
+aliases: ["configuración de dispositivos"]
+---
+
+# Configuración de dispositivos
+
+periféricos en diferentes sistemas operativos Asistentes y consolas Cuando se quiere añadir un nuevo periférico al equipo, así como las configuraciones iniciales de los mismos, es necesario instalar el con- trolador específico de cada uno de los dispositivos para asegurar su correcto funcionamiento. Para la instalación de estos controladores, Windows ofrece diferentes posibilidades: • Usar la tecnología Plug and Play: si se tiene una conexión a inter- net y conectamos un dispositivo PCI, [[el sistema operativo]] buscará de forma automática a través de Windows Update su controlador asociado. • Uso del CD de instalación: la mayor parte de los dispositivos periféricos traen consigo un CD de instalación del controlador con algunas utilidades adicionales de los mismos. Esta opción garantiza su correcto funciona- miento, aunque es posible que requiera una actualización posterior. Siempre que se conecta un nuevo dispositivo periférico, es importante determinar si es compatible con nuestro sistema operativo. En caso contrario, no se podrá asegurar una configuración adecuada. Es la opción por defecto del sistema operativo, pero el usuario puede activarla y desactivarla siempre que quiera. Para + info Tema 6. Realización de tareas básicas de configuración y mantenimiento sobre los sistemas operativos propietarios 100
+
+---
+### Continuación (Tema: 9.8.  Configuración de dispositivos)
+
+periféricos en diferentes sistemas operativos Linux tiene varios ficheros de carácter especial en la ruta /dev que re- ciben el nombre de ficheros de dispositivos, los cuales permiten la comunicación con el controlador correspondiente a cada dispositivo y establecer una configuración para poder usarlo correctamente. No obstante, esta configuración se realiza automáticamente en las últimas versiones de Ubuntu. Una vez el sistema detecta la conexión del dispositivo, muestra la ventana del asistente que presentará las instrucciones a seguir durante el proceso. Después de la instalación del controlador correcto, es recomendable comprobar su funcionamiento verificando que en la ruta correspondiente existe la carpeta creada para el tipo de dispositivo instalado. Tanto la instalación como la configuración de un dispositivo se puede hacer a través de la terminal de Linux. En este caso, es necesario, en primer lugar, montar el dispositivo, es decir, crear en el fichero de dis- positivos el directorio asociado a dicho periférico. Después, desde la terminal se escribe: ej: sudo mkdir /media/usb. Es necesario conocer el nombre que tiene el dispositivo, para lo que hay que listar todos los dispositivos conectados al equipo mediante la orden:

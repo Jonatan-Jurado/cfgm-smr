@@ -1,0 +1,8 @@
+---
+title: "Sistemas de codificación"
+aliases: ["sistemas de codificación"]
+---
+
+# Sistemas de codificación
+
+alfanumérica Para la representación de los datos no numéricos o alfanuméricos se emplean códigos como el ASCII, el EBCDIC o el [[Unicode]]. El [[Código ASCII]] es el más usado entre los sistemas informáticos actuales. El ASCII se utiliza para representar caracteres. Se trata de un código estándar, independiente del lenguaje que usemos y de la computadora utilizada. Además, está formado por 8 bits, de manera que cada carác- ter se expresa por un número comprendido entre 0 y 255. Por otra parte, cabe mencionar que la información se guarda en 7 bits y el octavo se reserva para comprobar la paridad y prevenir errores. En este sistema podemos distinguir dos grupos: los primeros 128 caracteres se denominan Código ASCII estándar y representan los caracteres que aparecen en una máquina de escribir convencional. De estos, los primeros 32 son caracteres de control. Este tipo se refiere a aquellos códigos que no representan información imprimible. Por otro lado, los 128 restantes se denominan Código ASCII ampliado, que son asociados a un número de caracteres que no aparecen en la máquina de escribir y que son muy utilizados en la computadora, como pueden ser operadores matemáticos o caracteres gráficos. El sistema de [[Codificación]] Unicode es un sistema de 16 bits que se emplea en otros sistemas de escritura como, por ejemplo, el arabe, el griego o el japones, entre otros. Esto se debe a su mayor capacidad con respecto a otros sistemas. Fuente: elcodigoascii.com.ar [[Tema]] 2. Codificación de la información en diferentes [[Sistemas de Representación]] 32
