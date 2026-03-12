@@ -1,6 +1,6 @@
 ---
 title: "Parámetro de ejecución"
-aliases: ["Parámetros", "Argumentos de comandos", "%"]
+aliases: ["Parámetros", "Argumentos de comandos", "simbolo-porcentaje"]
 ---
 # Parámetro de ejecución
 
