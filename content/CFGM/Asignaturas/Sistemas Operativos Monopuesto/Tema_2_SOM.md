@@ -1,5 +1,5 @@
 ---
-title: Codificación de la información en los Diferentes Sistemas
+title: Tema 2
 tags:
   - Codificacion
   - Binario

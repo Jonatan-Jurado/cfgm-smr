@@ -1,5 +1,5 @@
 ---
-title: Tema 2 - Prevención de Riesgos Laborales
+title: Tema 2
 tags:
   - PRL
   - Seguridad
@@ -9,7 +9,7 @@ tags:
 ---
 # Tema 2 - Prevención de Riesgos Laborales
 
-## 2.1. El Trabajo y la Salud: Riesgos Profesionales
+## 1. El Trabajo y la Salud: Riesgos Profesionales
 
 *Riesgo Laboral*: Posibilidad de que un trabajador sufra daño debido al trabajo.
 *[[factor-de-riesgo|Factor de Riesgo]]*: Objeto, sustancia o característica que puede provocar daño. Surgen de:
@@ -28,7 +28,7 @@ Pasos: 1. Identificar riesgos → 2. Establecer nivel de deficiencia → 3. Eval
 
 ---
 
-## 2.2. Daños, Accidentes y Patologías
+## 2. Daños, Accidentes y Patologías
 
 ### Accidente de Trabajo
 Suceso anormal, no deseado, brusco e inesperado que interrumpe el trabajo.
@@ -52,7 +52,7 @@ Deterioro gradual y lento de la salud por exposición crónica a condiciones adv
 
 ---
 
-## 2.3. Marco Normativo (LPRL - Ley 31/1995)
+## 3. Marco Normativo (LPRL - Ley 31/1995)
 
 Regula derechos y obligaciones. El incumplimiento genera responsabilidades administrativas, civiles y penales. La [[prevencion|Prevención]] recae fundamentalmente sobre el **empresario**.
 
@@ -78,7 +78,7 @@ Regula derechos y obligaciones. El incumplimiento genera responsabilidades admin
 
 ---
 
-## 2.4. Riesgos Ligados a las Condiciones de Seguridad
+## 4. Riesgos Ligados a las Condiciones de Seguridad
 
 ### Puestos de Trabajo
 Área donde el trabajador permanece o accede. Incluye zonas de descanso, lavabos, comedores...
@@ -118,7 +118,7 @@ Clases de fuego:
 
 ---
 
-## 2.5. Riesgos Ligados al Medio Ambiente de Trabajo
+## 5. Riesgos Ligados al Medio Ambiente de Trabajo
 Principal causa de [[enfermedad-profesional|enfermedades profesionales]].
 
 ### Agentes Físicos
@@ -139,7 +139,7 @@ Contaminantes en forma de polvo, gases, vapores o aerosoles. Vías de entrada: i
 
 ---
 
-## 2.6. Carga de Trabajo, Fatiga e Insatisfacción
+## 6. Carga de Trabajo, Fatiga e Insatisfacción
 
 *Carga de trabajo*: esfuerzo para realizar la actividad laboral → puede generar fatiga física o mental.
 Cuando la fatiga se vuelve crónica: descenso del rendimiento y deterioro de la salud.
@@ -156,7 +156,7 @@ Consecuencias:
 
 ---
 
-## 2.7. Sistemas de Control de Riesgos
+## 7. Sistemas de Control de Riesgos
 
 ### Medidas de Prevención (actúan sobre el origen del riesgo)
 - *[[seguridad-en-el-trabajo|Seguridad en el trabajo]]*: evitar accidentes actuando sobre sus causas
@@ -181,20 +181,20 @@ Categorías:
 - **Cat. 3**: riesgos mortales o irreversibles (protección respiratoria, anticaídas, protección eléctrica...)
 
 ### Señalización de Seguridad (RD 485/1997)
-| Tipo | Forma/Color | Significado |
-|---|---|---|
-| Prohibición | Círculo rojo, fondo blanco, pictograma negro | Prohíbe comportamiento peligroso |
-| Advertencia | Triángulo amarillo, pictograma negro | Advierte de riesgo |
-| Obligación | Círculo azul, pictograma blanco | Obliga a comportamiento |
-| Salvamento | Rectángulo verde, pictograma blanco | Salidas/[[primeros-auxilios|Primeros Auxilios]] |
-| [[incendio|Incendios]] | Rectángulo rojo, pictograma blanco | Equipos contra incendio |
-| Luminosas | Materiales translúcidos iluminados desde dentro | — |
-| Acústicas | [[senal|Señal]] sonora codificada | — |
-| Gestuales | Movimiento de manos/brazos codificado | — |
+| Tipo        | Forma/Color                                     | Significado                        |                         |
+| ----------- | ----------------------------------------------- | ---------------------------------- | ----------------------- |
+| Prohibición | Círculo rojo, fondo blanco, pictograma negro    | Prohíbe comportamiento peligroso   |                         |
+| Advertencia | Triángulo amarillo, pictograma negro            | Advierte de riesgo                 |                         |
+| Obligación  | Círculo azul, pictograma blanco                 | Obliga a comportamiento            |                         |
+| Salvamento  | Rectángulo verde, pictograma blanco             | Salidas/primeros-auxilios          | Primeros Auxilios       |
+| incendio    | Incendios                                       | Rectángulo rojo, pictograma blanco | Equipos contra incendio |
+| Luminosas   | Materiales translúcidos iluminados desde dentro | —                                  |                         |
+| Acústicas   | Señal sonora codificada                         | -                                  | —                       |
+| Gestuales   | Movimiento de manos/brazos codificado           | —                                  |                         |
 
 ---
 
-## 2.8. Planes de Emergencia y Evacuación
+## 8. Planes de Emergencia y Evacuación
 
 ### Plan de Emergencia (art. 20 LPRL - Ley 31/1995)
 Obligatorio para todas las empresas con trabajadores por cuenta ajena. Documento de uso interno.
@@ -216,14 +216,14 @@ Para empresas con actividades generadoras de riesgos. Más complejo que el plan 
 
 ---
 
-## 2.9. Control de la Salud de los Trabajadores
+## 9. Control de la Salud de los Trabajadores
 
 La vigilancia de la salud es un **[[derechos-del-trabajador-en-prevencion-de-riesgos-laborales|derecho del trabajador]]** y una **[[obligaciones-del-empresario|obligación del empresario]]**.
 Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y realizada por personal sanitario.
 
 ---
 
-## 2.11. Organismos Públicos
+## 11. Organismos Públicos
 
 - *OIT* (Organización Internacional del Trabajo): elabora y supervisa normativas internacionales del trabajo
 - *INSST* (Instituto Nacional de Seguridad y Salud en el Trabajo): asesoramiento técnico y científico
@@ -233,7 +233,7 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 
 ---
 
-## 2.12. Organización del Trabajo Preventivo
+## 12. Organización del Trabajo Preventivo
 
 
 ### Etapas de Prevenció
@@ -259,17 +259,17 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 ### Delegados de Prevención
 Representantes de los trabajadores en materia preventiva. Número según [[plantilla-de-simulacion|plantilla]]:
 
-| Número de Trabajadores   | [[delegado-de-personal|Delegados de Personal]] |
-| :----------------------- | :-------------------- |
-| 11 - 49 trabajadores     | 1 delegado            |
-| 50 - 100 trabajadores    | 1 [[delegados-de-prevencion|delegados]]           |
-| 101 - 250 trabajadores   | 2 delegados           |
-| 251 - 500 trabajadores   | 3 delegados           |
-| 501 - 1000 trabajadores  | 4 delegados           |
-| 1001 - 2000 trabajadores | 5 delegados           |
-| 2001 - 3000 trabajadores | 6 delegados           |
-| 3001-4000 trabajadores   | 7 delegados           |
-| >4000 trabajadores       | 8 delegados           |
+| Número de Trabajadores   | delegado-de-personal      |
+| :----------------------- | :------------------------ |
+| 11 - 49 trabajadores     | 1 delegado                |
+| 50 - 100 trabajadores    | 1 delegados-de-prevencion |
+| 101 - 250 trabajadores   | 2 delegados               |
+| 251 - 500 trabajadores   | 3 delegados               |
+| 501 - 1000 trabajadores  | 4 delegados               |
+| 1001 - 2000 trabajadores | 5 delegados               |
+| 2001 - 3000 trabajadores | 6 delegados               |
+| 3001-4000 trabajadores   | 7 delegados               |
+| >4000 trabajadores       | 8 delegados               |
 
 
 ### Comité de Seguridad y Salud
@@ -277,7 +277,7 @@ Representantes de los trabajadores en materia preventiva. Número según [[plant
 
 ---
 
-## 2.13. Documentación Preventiva
+## 13. Documentación Preventiva
 
 ### Plan de Prevención de Riesgos Laborales
 Herramienta para integrar la actividad preventiva en la gestión de la empresa. **Obligatorio para toda empresa con al menos 1 trabajador por cuenta ajena**.
@@ -299,12 +299,12 @@ Proceso:
 Protocolo **[[protocolo-pas|PAS]]**: **Proteger → Avisar → Socorrer**
 
 ### Triaje (múltiples víctimas)
-| Color | Prioridad | Características |
-|---|---|---|
-| Rojo | I - Urgente | Graves pero recuperables (parada cardiorrespiratoria presenciada) |
-| Amarillo | II - Demorable | Graves pero estables, pueden esperar |
-| Verde | III - Leve | No urgentes, [[contusion|contusiones]], [[esguince|esguinces]], [[fractura|fracturas]] cerradas |
-| Negro | IV - Sin atención | Fallecidos o sin posibilidades de supervivencia |
+| Color    | Prioridad         | Características                                                   |
+| -------- | ----------------- | ----------------------------------------------------------------- |
+| Rojo     | I - Urgente       | Graves pero recuperables (parada cardiorrespiratoria presenciada) |
+| Amarillo | II - Demorable    | Graves pero estables, pueden esperar                              |
+| Verde    | III - Leve        | No urgentes                                                       |
+| Negro    | IV - Sin atención | Fallecidos o sin posibilidades de supervivencia                   |
 
 ### Soporte Vital Básico
 - Inconsciente + respira → *[[posicion-lateral-de-seguridad|PLS]]* ([[posicion-lateral-de-seguridad|Posición Lateral de Seguridad]])

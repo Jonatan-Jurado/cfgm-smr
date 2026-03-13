@@ -1,5 +1,5 @@
 ---
-title: Gestión de Recursos y Memoria
+title: Tema 3
 tags:
   - Memoria
   - Procesos

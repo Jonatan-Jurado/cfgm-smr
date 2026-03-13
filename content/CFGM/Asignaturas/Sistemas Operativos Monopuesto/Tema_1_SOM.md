@@ -1,5 +1,5 @@
 ---
-title: Caracterización de los S.O y Aplicaciones
+title: Tema 1
 tags:
   - SistemaOperativo
   - Hardware
