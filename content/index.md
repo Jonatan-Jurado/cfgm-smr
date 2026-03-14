@@ -48,7 +48,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 	- [[CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 2|Tema 2 - RA2]]  
 
 - #### **Digitalización Aplicada a los Sectores Productivos GM** 
-	- [[content/CFGM/Tests/Digitalización Aplicada a los Sectores Productivos GM/Tema 1|Tema 1 - RA1]] 
+	- [[CFGM/Tests/Digitalización Aplicada a los Sectores Productivos GM/Tema 1|Tema 1]] 
 
 ### 📚 GLOSARIO
 
