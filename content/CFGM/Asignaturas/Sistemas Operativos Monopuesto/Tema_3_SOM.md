@@ -7,7 +7,7 @@ tags:
   - Almacenamiento
   - CPU
 ---
-
+# Tema 3- Gestión de Archivos - Memoria - Procesos
 ## GESTIÓN DE ARCHIVOS
 **[[archivo|Archivo]]**: 
 - Conjunto de bits almacenados tratados como una sola unidad.

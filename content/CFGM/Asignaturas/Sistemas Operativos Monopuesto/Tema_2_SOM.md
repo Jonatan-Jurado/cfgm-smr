@@ -5,6 +5,7 @@ tags:
   - Binario
   - Almacenamiento
 ---
+# Tema 2 - Codificación
 
 | `000`                | **0**     |
 | :------------------- | --------- |

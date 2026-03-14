@@ -8,8 +8,7 @@ tags:
   - Memoria
   - Arquitectura
 ---
-
-#  Sistemas Operativos y Utilidades
+#  Tema 1 - Sistemas Operativos y Utilidades
 ## **Sistema Informático: Componentes Físicos** 
 aquel que nos permite almacenar y procesar información.
 
@@ -32,6 +31,7 @@ aquel que nos permite almacenar y procesar información.
 	- *[[arquitectura-simd|SIMD]]:* Una Instrucción Múltiples Instrucciones
 	- *[[arquitectura-sisd|SISD]]:* Una Instrucción Un Dato
 	- *[[arquitectura-misd|MISD]]:* Múltiples  Instrucciones Un Dato
+
 
 ## **Hardware:**
 - *Componentes:* Forman parte del PC
