@@ -31,7 +31,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 
 - #### Montaje y Mantenimiento
 	- [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 1|Tema 1 - RA3]]    
-	- [[content/CFGM/Tests/Montaje-y-Mantenimiento/Tema 2|Tema 2 - RA8]] 
+	- [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 2|Tema 2 - RA8]] 
 
 - #### Sistemas Operativos
 	- [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 1|Tema 1 - RA1]] 
