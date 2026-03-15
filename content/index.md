@@ -11,11 +11,13 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 
 - ####  🛠️ **Montaje y Mantenimiento**
 	- [[Tema_1_MME|Tema 1 - RA3]]  
+	- [[Tema_2_MME|Tema 2 - RA8]]
+	- [[Tema_2_MME|Tema 4 - RA8]]
 
 - #### 🖥️ **Sistemas Operativos Monopuesto**
 	- [[Tema_1_SOM|Tema 1 - RA1]] 
-	- [[Tema_2_SOM|Tema  2 - RA1]]     
-	- [[Tema_3_SOM|Tema3 - RA1]]
+	- [[Tema_2_SOM|Tema 2 - RA1]]     
+	- [[Tema_3_SOM|Tema 3 - RA1]]
 
 - #### 🤝**Itinerario Personal para la Empleabilidad**
 	- [[Tema 1 IPE|Tema 1 - RA1 ]]
@@ -29,6 +31,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 
 - #### Montaje y Mantenimiento
 	- [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 1|Tema 1 - RA3]]    
+	- [[content/CFGM/Tests/Montaje-y-Mantenimiento/Tema 2|Tema 2 - RA8]] 
 
 - #### Sistemas Operativos
 	- [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 1|Tema 1 - RA1]] 
