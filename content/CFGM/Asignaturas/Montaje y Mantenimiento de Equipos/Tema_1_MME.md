@@ -14,8 +14,10 @@ tags:
 1. **Eléctricos**
 2. **Electromagnéticos**
 3. **Analógicos:** Varían / Discreta  
+
    ![[Pasted-image-20260304115653.png]] 
 4. **Digitales:** Constantes[[directorio-raiz|/]]Determinada 
+
    ![[Pasted-image-20260304115814.png]]
 
 ### **Análisis**
@@ -26,6 +28,7 @@ tags:
 
 #### CONTINUA (C.C) o (D.C)
 Flujo de Electrones siempre en la misma dirección por un canal.
+
 ![[Pasted-image-20260305102832.png]]
 
 #### **ALTERNA (A.C)**
@@ -33,6 +36,7 @@ Va cambiando la Polaridad en los extremos del canal.
 **Periodo:** Onda Cíclica que se repite
 - **Frecuencia:** Intervalo hasta que pasa de nuevo por el primer punto
 - **Amplitud:** Distancia entre el punto medio de la onda y el punto más alejado.
+
 ![[Pasted-image-20260305102858.png]]
 
 

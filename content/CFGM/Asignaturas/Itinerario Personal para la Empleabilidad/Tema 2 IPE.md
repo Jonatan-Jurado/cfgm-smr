@@ -112,6 +112,7 @@ Clases de fuego:
 - *C*: gases (metano, propano, butano)
 - *D*: metales combustibles (magnesio, sodio)
 - *F*: grasas/aceites de cocina
+
 ![[Pasted-image-20260310224908.png]]
 
 

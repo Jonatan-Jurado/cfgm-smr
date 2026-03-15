@@ -3,7 +3,7 @@ title: Tema 2
 tags:
   - TransformacionDigital
 ---
-# Tema 2- Cuarta Revolución Industrial
+# Tema 2: Cuarta Revolución Industrial
 
 ### Evolución de la Industria
 - *1ª Revolución Industrial:*
