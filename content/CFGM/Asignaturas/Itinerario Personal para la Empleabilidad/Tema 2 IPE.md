@@ -195,18 +195,18 @@ Categorías:
 
 ---
 
-## 8. Planes de Emergencia y Evacuación
+## 8. Plan de Emergencia y Plan de Autoprotección
 
 ### Plan de Emergencia (art. 20 LPRL - Ley 31/1995)
 Obligatorio para todas las empresas con trabajadores por cuenta ajena. Documento de uso interno.
 Debe contener: formación periódica, simulacros (mínimo 1/año), mantenimiento de instalaciones, vías de evacuación.
 
-Tipos de emergencia según gravedad:
+**Tipos de emergencia según gravedad:**
 - *Conato de emergencia*: afecta zona concreta, se controla con medios propios
 - *Emergencia parcial*: requiere equipos de intervención del sector afectado
 - *Emergencia general/total*: requiere todos los medios + ayuda exterior, posible evacuación total
 
-Elementos del plan de evacuación:
+**Elementos del plan de evacuación:**
 - *Equipo de evacuación*: guía a las personas, controla flujo de salida
 - *Vías de evacuación*: visibles, iluminadas y señalizadas
 - *Punto de reunión*: control de ausencias/bajas
@@ -214,6 +214,47 @@ Elementos del plan de evacuación:
 
 ### Plan de Autoprotección (RD 393/2007)
 Para empresas con actividades generadoras de riesgos. Más complejo que el plan de emergencia. Requiere registro administrativo.
+
+**Objetivos y Obligatoriedad:**
+
+- **Finalidad**: Controlar riesgos en la zona de responsabilidad del titular e integrarse en el sistema público de protección civil.
+- **Empresas obligadas**: Aquellas que desarrollan actividades generadoras de riesgos o susceptibles de emergencias, según el **Anexo I del RD 393/2007**.
+
+**Gestión Administrativa:**
+
+- **Registro**: Debe inscribirse en el órgano competente de la comunidad autónoma al inicio de la actividad.
+- **Revisión**: Es obligatorio revisarlo como mínimo cada **3 años**.
+- **Mantenimiento**: La empresa debe desarrollar actuaciones para mantener la eficacia del plan de forma permanente.
+
+**Requisitos del Documento:**
+
+- **Documento único**: Su estructura y contenido mínimo están regulados por el Anexo II del citado Real Decreto.
+- **Firmas obligatorias**:
+    - Redactado y firmado por un **técnico competente** capacitado.
+    - Suscrito y firmado por el **titular de la actividad**.
+
+**Estructura Organizativa:**
+
+- **Jerarquía**: Establece una organización interna para el personal existente.
+- **Responsabilidades**: Fija funciones claras para cada miembro de la organización en situaciones críticas.
+
+**Implantación y Recursos:**
+
+- **Capacitación**: Incluye la formación obligatoria del personal sobre los contenidos del plan.
+- **Información**: Establece mecanismos para informar al público sobre las medidas de seguridad.
+- **Medios materiales**: Garantiza la provisión de recursos necesarios para que el plan sea aplicable.
+
+### DIFERENCIAS ENTRE EL PLAN DE EMRGENCIA Y EL DE AUTOPROTECCIÓN
+
+| Característica               | Plan de Emergencia                                                                                                   | Plan de Autoprotección                                                                                                          |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Base Legal**               | Artículo 20 de la **Ley 31/1995 (LPRL)**.                                                                            | **Real Decreto 393/2007** (Norma Básica de Autoprotección).                                                                     |
+| **Obligatoriedad**           | **Todas las empresas** que tengan contratados trabajadores por cuenta ajena.                                         | Empresas con actividades **generadoras de riesgos** o susceptibles de emergencias (según Anexo I del RD).                       |
+| **Objetivo Principal**       | Prever la organización de la respuesta para el **control inicial** de una emergencia (alarma, evacuación y socorro). | Prevenir y controlar riesgos sobre personas y bienes, integrando las actuaciones en el **sistema público de protección civil**. |
+| **Naturaleza del documento** | Documento de **uso interno** de la empresa.                                                                          | Documento único, más complejo y de **carácter administrativo**.                                                                 |
+| **Registro**                 | **No requiere registro** en ningún órgano administrativo.                                                            | Debe ser **registrado obligatoriamente** en el órgano competente de la comunidad autónoma.                                      |
+| **Elaboración y Firma**      | Responsabilidad del empresario; no exige un técnico externo específico.                                              | Debe estar redactado y firmado por un **técnico competente** y suscrito por el titular de la actividad.                         |
+| **Revisión**                 | Se actualiza según las necesidades del plan preventivo de la empresa.                                                | Debe revisarse como mínimo **cada 3 años**.                                                                                     |
 
 ---
 
@@ -224,17 +265,35 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 
 ---
 
-## 11. Organismos Públicos
+## 10. Organismos Públicos
 
-- *OIT* (Organización Internacional del Trabajo): elabora y supervisa normativas internacionales del trabajo
-- *INSST* (Instituto Nacional de Seguridad y Salud en el Trabajo): asesoramiento técnico y científico
-- *Agencia Europea para la Seguridad y Salud en el Trabajo*
-- *Comisión Nacional de Seguridad y Salud en el Trabajo*
-- *Inspección de Trabajo y SS*: vigila el cumplimiento de la normativa, puede ordenar paralización inmediata ante riesgo grave
+- **OIT (Org. Internacional del Trabajo):**
+    - Es un organismo especializado de la ONU.
+    - Dicta **Convenios** (que son obligatorios si el país los ratifica) y **Recomendaciones** (que no son vinculantes).
+- **Agencia Europea para la Seguridad y Salud:**
+    - Muy importante: su sede está en **Bilbao**.
+    - Su labor es principalmente recopilar y dar información útil a los países miembros.
+- **INSST (Inst. Nacional de Seguridad y Salud en el Trabajo):**
+    - Es el "cerebro" técnico en España.
+    - Si tienes dudas técnicas sobre cómo usar una máquina o evaluar un riesgo, acudes a sus guías y manuales.
+- **Comisión Nacional de Seguridad y Salud:**
+    - Es un órgano **paritario** (formado por Administraciones, sindicatos y empresarios).
+    - Participa en la creación de las leyes y planes nacionales de salud laboral.
+- **Inspección de Trabajo y Seguridad Social:**
+    - Es la "policía" del trabajo.
+    - **Poderes especiales:** Tienen la autoridad para **ordenar la paralización inmediata** de cualquier obra o tarea si detectan un riesgo grave e inminente para los trabajadores
+
+| Organismo                 | Ámbito        | Capacidad   | Función Principal                                                      |
+| ------------------------- | ------------- | ----------- | ---------------------------------------------------------------------- |
+| **OIT**                   | Internacional | Normativa   | Elaborar y supervisar normas mundiales (Convenios vinculantes).        |
+| **Agencia Europea**       | Europeo       | Informativa | Aportar información técnica y científica a la UE (Sede en **Bilbao**). |
+| **INSST**                 | Nacional      | Técnica     | **Asesoramiento**, estudio y formación técnica (depende de Trabajo).   |
+| **Comisión Nacional**     | Autonómico    | Consultiva  | Órgano colegiado que asesora a las AAPP en **políticas preventivas**.  |
+| **Inspección de Trabajo** | --            | Ejecutiva   | **Vigilar, controlar** y sancionar el cumplimiento de la ley           |
 
 ---
 
-## 12. Organización del Trabajo Preventivo
+## 11. Organización del Trabajo Preventivo
 
 
 ### Etapas de Prevenció
@@ -257,24 +316,37 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 	- [[equipo-de-trabajo|Equipos de trabajo]] y EPI's. 
 	- Plan de prevención. 
 	- Investigación de accidentes.
-### Delegados de Prevención
-Representantes de los trabajadores en materia preventiva. Número según [[plantilla-de-simulacion|plantilla]]:
 
-| Número de Trabajadores   | delegado-de-personal      |
-| :----------------------- | :------------------------ |
-| 11 - 49 trabajadores     | 1 delegado                |
-| 50 - 100 trabajadores    | 1 delegados-de-prevencion |
-| 101 - 250 trabajadores   | 2 delegados               |
-| 251 - 500 trabajadores   | 3 delegados               |
-| 501 - 1000 trabajadores  | 4 delegados               |
-| 1001 - 2000 trabajadores | 5 delegados               |
-| 2001 - 3000 trabajadores | 6 delegados               |
-| 3001-4000 trabajadores   | 7 delegados               |
-| >4000 trabajadores       | 8 delegados               |
+## 12. Representación de los Trabajadores en Prevención
 
+Los trabajadores participan en la gestión de la seguridad a través de sus representantes. Existen dos figuras clave dependiendo del tamaño de la empresa.
 
-### Comité de Seguridad y Salud
-Órgano paritario (delegados de prevención + empresario en igual número). Se constituye en empresas con **50 o más trabajadores**. Reunión trimestral mínima.
+### **1. Delegados de Prevención**
+
+Son los representantes de los trabajadores con funciones específicas en prevención de riesgos laborales. Su función principal es colaborar con la dirección, ser consultados sobre decisiones de planificación y acompañar a los inspectores de trabajo.
+
+**Número de Delegados según la plantilla (Tabla Corregida):**
+
+|Número de Trabajadores|Delegados de Prevención|
+|---|---|
+|**11 a 30**|**1** (es el Delegado de Personal)|
+|**31 a 49**|**1** (elegido entre los Delegados de Personal)|
+|**50 a 100**|**2** (aquí es donde cambia respecto a tu nota)|
+|**101 a 500**|**3**|
+|**501 a 1.000**|**4**|
+|**1.001 a 2.000**|**5**|
+|**2.001 a 3.000**|**6**|
+|**3.001 a 4.000**|**7**|
+|**Más de 4.000**|**8**|
+
+### **2. Comité de Seguridad y Salud**
+
+Es el órgano **paritario** (igual número de representantes de cada lado) y colegiado destinado a la consulta periódica de las actuaciones preventivas.
+
+- **¿Cuándo se crea?**: Es obligatorio en empresas de **50 o más trabajadores**.
+- **Composición**: Está formado por los Delegados de Prevención (parte social) y el empresario o sus representantes (parte empresarial) en número igual.
+- **Reuniones**: Se debe reunir de forma **trimestral** como mínimo, o siempre que una de las partes lo solicite.
+- **Voz pero no voto**: Los delegados sindicales y los técnicos de prevención pueden asistir a las reuniones para asesorar, pero no tienen voto en las decisiones
 
 ---
 
@@ -295,7 +367,7 @@ Proceso:
 
 ---
 
-## 2.14. Primeros Auxilios
+## 14. Primeros Auxilios
 
 Protocolo **[[protocolo-pas|PAS]]**: **Proteger → Avisar → Socorrer**
 
