@@ -26,7 +26,8 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 
 - #### 🤝**Itinerario Personal para la Empleabilidad**
 	- [[Tema 1 IPE|Tema 1 - RA1 ]]
-	- [[Tema 2 IPE|Tema 2 - RA1]]   
+	- [[Tema 2 IPE|Tema 2 - RA2]] 
+	- [[Tema 3 IPE|Tema 3 - RA3]]
 
 - #### 💻 **Digitalización Aplicada a los Sectores Productivos GM**
 	- [[Tema_1_DASP|Tema 1 - RA1 ]]  
@@ -53,6 +54,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 - #### **Itinerario para la Empleabilidad**
 	- [[CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 1|Tema 1 - RA1]]
 	- [[CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 2|Tema 2 - RA2]]  
+	- [[CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 3|Tema 3 - RA3]]
 
 - #### **Digitalización Aplicada a los Sectores Productivos GM** 
 	- [[CFGM/Tests/Digitalización Aplicada a los Sectores Productivos GM/Tema 1|Tema 1 - RA1]] 
