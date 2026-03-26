@@ -327,17 +327,17 @@ Son los representantes de los trabajadores con funciones específicas en prevenc
 
 **Número de Delegados según la plantilla (Tabla Corregida):**
 
-|Número de Trabajadores|Delegados de Prevención|
-|---|---|
-|**11 a 30**|**1** (es el Delegado de Personal)|
-|**31 a 49**|**1** (elegido entre los Delegados de Personal)|
-|**50 a 100**|**2** (aquí es donde cambia respecto a tu nota)|
-|**101 a 500**|**3**|
-|**501 a 1.000**|**4**|
-|**1.001 a 2.000**|**5**|
-|**2.001 a 3.000**|**6**|
-|**3.001 a 4.000**|**7**|
-|**Más de 4.000**|**8**|
+| Número de Trabajadores | Delegados de Prevención                         |
+| ---------------------- | ----------------------------------------------- |
+| **11 a 30**            | **1** (es el Delegado de Personal)              |
+| **31 a 49**            | **1** (elegido entre los Delegados de Personal) |
+| **50 a 100**           | **2** (aquí es donde cambia respecto a tu nota) |
+| **101 a 500**          | **3**                                           |
+| **501 a 1.000**        | **4**                                           |
+| **1.001 a 2.000**      | **5**                                           |
+| **2.001 a 3.000**      | **6**                                           |
+| **3.001 a 4.000**      | **7**                                           |
+| **Más de 4.000**       | **8**                                           |
 
 ### **2. Comité de Seguridad y Salud**
 

@@ -23,6 +23,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 	- [[Tema_2_SOM|Tema 2 - RA1]]     
 	- [[Tema_3_SOM|Tema 3 - RA1]]
 	- [[Tema_4_SOM|Tema 4 - RA5]]
+	- [[Tema_5_SOM|Tema 5 - RA2]]
 
 - #### 🤝**Itinerario Personal para la Empleabilidad**
 	- [[Tema 1 IPE|Tema 1 - RA1 ]]
@@ -49,6 +50,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 	- [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 2|Tema 2 - RA1]] 
 	- [[Tema 3|Tema 3 - RA1]] 
 	- [[Tema 4|Tema 4 - RA5]]
+	- [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 5|Tema 5 - RA2]] 
 
 
 - #### **Itinerario para la Empleabilidad**
