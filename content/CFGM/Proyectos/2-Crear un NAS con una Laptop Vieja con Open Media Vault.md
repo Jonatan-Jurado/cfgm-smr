@@ -1,46 +1,15 @@
 # 🖥️ NAS Casera — Guía Completa Paso a Paso
 
 
-```insta-toc
----
-title:
-  name: INDEX
-  level: 2
-  center:
-exclude:
-style:
-  listType:
-omit:
-levels:
-  min: 1
-  max: 2
----
-
-## INDEX
-
-- 🖥️ NAS Casera — Guía Completa Paso a Paso
-    - Preparación
-    - Instalar DEBIAN + OMV
-    - Primeras configuraciones en OMV
-    - Discos
-    - Usuarios
-    - Carpetas
-    - Compartir en red (SMB)
-    - Conectar desde Windows
-    - Docker y Compose (La Base)
-    - Herramientas de Gestión (Local)
-    - Infraestructura de Red y Proxy
-    - Instalación de Aplicaciones
-    - Pruebas, Solución de Problemas y Conexión
-    - Resúmenes y Credenciales
-```
-
-
 ---
 
 ## Preparación
 
 > Esta guía cubre TODOS los pasos desde cero hasta tener una NAS funcionando con apps, proxy inverso, HTTPS y acceso remoto. Sigue el orden exacto. No te saltes ningún paso.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ImNxlByidVw?si=G1-pf-Vk9QXtNtUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Requisitos antes de empezar
 
