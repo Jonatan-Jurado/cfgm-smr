@@ -3,6 +3,7 @@ title: Tema 4
 tags:
   - Virtualización
   - Software
+  - SistemaOperativo
 ---
 # Tema 4 - Máquinas Virtuales
 

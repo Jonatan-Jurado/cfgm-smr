@@ -3,6 +3,8 @@ title: Tema 5
 tags:
   - Windows
   - Particiones
+  - SistemaArchivos
+  - SistemaOperativo
 ---
 # INSTALACIÓN DE LOS SISTEMAS OPERATIVOS PROPIETARIO
 
@@ -42,6 +44,7 @@ Es necesario tener al menos 1 partición
 - *Actualización del Sistema*
 - *Recuperación del Sistema*
 - *Copia de Seguridad*
+- *Documentación*: Cuaderno de Bitácora
 
 ## INSTALACIÓN DEL S.O Y CONFIGURACIÓN DE PARÁMETROS BÁSICOS
 - *Planificación*: instrucciones a seguir / conocer el estado actual / Actualizar o Formatear?
