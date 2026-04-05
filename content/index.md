@@ -69,3 +69,4 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 ### ⚙️ PROJECTOS
 
 - [[1-conectar-obsidian-con-github-page|Pasar de Obsidian a Web con Quartz 4 y GitHub]]
+- [[2-Crear un NAS con una Laptop Vieja con Open Media Vault|Crear un NAS en una Laptop Vieja por menos de 100€]] 
