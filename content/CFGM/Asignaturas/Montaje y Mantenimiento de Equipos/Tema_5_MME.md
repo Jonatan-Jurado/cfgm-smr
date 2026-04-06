@@ -1,5 +1,7 @@
 ---
 title: Tema 5
+tags:
+  - Hardware
 ---
 # Tema 5 - Herramientas
 **Obligado**
