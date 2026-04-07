@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES", // Cambiado a español para tus apuntes
-    baseUrl: "cfgm-smr", // Asegúrate de que NO tenga '/' al final
+    baseUrl: "jonatan-jurado.github.io/cfgm-smr", // Asegúrate de que NO tenga '/' al final
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
