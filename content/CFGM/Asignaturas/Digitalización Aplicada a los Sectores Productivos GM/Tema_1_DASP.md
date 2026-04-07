@@ -2,6 +2,8 @@
 title: Tema 1
 tags:
   - TransformacionDigital
+  - Sostenibilidad
+  - Tendencias
 ---
 # Tema 1: Relación entre Digitalización y Sostenibilidad
 

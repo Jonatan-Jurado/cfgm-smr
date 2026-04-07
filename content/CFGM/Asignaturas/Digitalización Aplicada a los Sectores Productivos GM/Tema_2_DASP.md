@@ -2,6 +2,8 @@
 title: Tema 2
 tags:
   - TransformacionDigital
+  - Automatizacion
+  - Tendencias
 ---
 # Tema 2: Cuarta Revolución Industrial
 
