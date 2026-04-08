@@ -32,6 +32,10 @@ Se puede usar de forma gráfica o mediante comandos:
 ## OPERACIONES CON ARCHIVOS
 Los archivos tienen éste formato -> nombre.extensión -  Ejemplo -> mi_archivo.txt
 
+### USO BÁSICO DE GLI - CMD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQXbYVPEx9c?si=SxbfSXPTDaRY9owI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 #### Comando de cambio de nombre
 
 Para realizar esta acción en la consola se utiliza: `rename archivo_actual.txt archivo_nuevo.bat`
