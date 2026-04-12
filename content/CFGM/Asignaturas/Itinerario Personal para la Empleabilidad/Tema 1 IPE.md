@@ -33,7 +33,7 @@ Describe las competencias, habilidades y conocimientos necesarios para un rol es
 - _Habilidades blandas_: comunicación, [[trabajo-en-equipo|Trabajo en equipo]], |Liderazgo, resolución de conflictos
 - _Experiencia laboral_: trayectoria y prácticas previas
 - _Formación académica_: títulos, certificaciones y cursos
-- _Adaptabilidad_: capacidad de aprender continuamente conforme evoluciona el Sector
+- _Adaptabilidad_: capacidad de aprender continuamente conforme evoluciona el [[sector-de-disco|Sector]]
 
 [[analisis-del-perfil-profesional|Análisis del perfil profesional]]:
 
@@ -116,7 +116,7 @@ Pasos del proceso de búsqueda:
 
 ## 1.5. Perfil Profesional Exigible del Sector Público y Privado
 
-_Itinerario formativo_: trayectoria de [[aprendizaje|Aprendizaje]] ordenada de menor a mayor dificultad. Empieza con la formación inicial pero **nunca termina**, ya que la formación es continua a lo largo de toda la vida laboral.
+_Itinerario formativo_: trayectoria de [[Aprendizaje]] ordenada de menor a mayor dificultad. Empieza con la formación inicial pero **nunca termina**, ya que la formación es continua a lo largo de toda la vida laboral.
 
 Está compuesto por:
 

@@ -71,7 +71,7 @@ Regula derechos y obligaciones. El incumplimiento genera responsabilidades admin
 
 ### Obligaciones del Empresario
 - Asumir los costes de las medidas preventivas
-- Planificar la [[evaluacion-de-riesgos|Evaluación de riesgos]] y la acción preventiva
+- Planificar la [[evaluacion-de-riesgos|Evaluación de riesgos]] y la [[medida-de-prevencion|acción preventiva]]
 - Garantizar formación, información y EPI gratuitos a los [[seccion-trabajadores|trabajadores]]
 - Elaborar el *[[plan-de-prevencion-de-riesgos-laborales|Plan de Prevención]]*
 - Proteger colectivos sensibles: trabajadores sensibles a riesgos, menores, temporales, embarazadas/lactancia
@@ -124,8 +124,8 @@ Principal causa de [[enfermedad-profesional|enfermedades profesionales]].
 
 ### Agentes Físicos
 - *|Ruido*: medido en decibelios (dB). Límite: 87 dB en 8h / máx. 140 dB de corta duración. Se mide con sonómetro o dosímetro.
-- *Vibraciones*: medidas en Hz. Límite mano/brazo: 5m/s². Límite cuerpo entero: 1,15 m/s²
-- *[[iluminacion|Iluminación]]*: debe garantizar confort visual adecuado
+- *Vibraciones*: medidas en Hz. Límite mano/brazo: 5m/s². Límite cuerpo entero: 1,15 [[tiempo-perdido|m]]/s²
+- *Iluminación*: debe garantizar confort visual adecuado
 - Temperaturas extremas, Radiaciones...
 
 ### Agentes Químicos
@@ -162,8 +162,8 @@ Consecuencias:
 ### Medidas de Prevención (actúan sobre el origen del riesgo)
 - *[[seguridad-en-el-trabajo|Seguridad en el trabajo]]*: evitar accidentes actuando sobre sus causas
 - *[[higiene-industrial|Higiene industrial]]*: técnicas no médicas que analizan agentes físicos/químicos/biológicos
-- *[[ergonomia|Ergonomía]]*: adaptar el [[puesto-de-trabajo|Puesto de trabajo]] al trabajador para evitar daños físicos
-- *Psicosociología*: combatir la insatisfacción generada por la [[organizacion-del-trabajo|Organización del trabajo]]
+- *[[ergonomia|Ergonomía]]*: adaptar el [[entorno-de-trabajo|Puesto de trabajo]] al trabajador para evitar daños físicos
+- *[[psicosociologia-laboral|Psicosociología]]*: combatir la insatisfacción generada por la [[organizacion-del-trabajo|Organización del trabajo]]
 - *Medicina Laboral*: función preventiva, reparadora y rehabilitadora
 
 ### Medidas de Protección Colectiva (protegen a más de un trabajador)
@@ -174,10 +174,10 @@ Consecuencias:
 - Señalización de riesgos
 
 ### EPI - Equipos de Protección Individual
-Protegen al trabajador de riesgos específicos. Deben estar **homologados con marcado CE** y son **gratuitos** a cargo del empresario.
+Protegen al trabajador de riesgos específicos. Deben estar **homologados con marcado [[constitucion-espanola-de-1978|CE]]** y son **gratuitos** a cargo del empresario.
 
 Categorías:
-- **Cat. 1**: riesgos mínimos (guantes jardín, gafas de sol, zapatos normales)
+- **[[comando-cat|Cat]]. 1**: riesgos mínimos (guantes jardín, gafas de sol, zapatos normales)
 - **Cat. 2**: riesgos elevados con consecuencias graves (protección auditiva, casco, calzado de seguridad...)
 - **Cat. 3**: riesgos mortales o irreversibles (protección respiratoria, anticaídas, protección eléctrica...)
 
@@ -301,7 +301,7 @@ Debe ser: voluntaria (salvo excepciones), confidencial, proporcional al riesgo y
 - #### Etapa de Organización: 
 	- Organiza: trabajadores, empresa, emergencias, org. mixta
 - #### Etapa de Control:
-	- [[documentacion-tecnica|Documentación]] / Auditorías / Lista de Seguimiento de Objetivos.
+	- [[documentacion-tecnica|Documentación]] / Auditorías / Lista de Seguimiento de [[metas-y-objetivos|Objetivos]].
 - #### Etapa de Seguimiento:
 	- Planifica la actividad preventiva y evalúa los Riesgos
 - #### Etapa de Ejecución
@@ -323,15 +323,15 @@ Los trabajadores participan en la gestión de la seguridad a través de sus repr
 
 ### **1. Delegados de Prevención**
 
-Son los representantes de los trabajadores con funciones específicas en prevención de riesgos laborales. Su función principal es colaborar con la dirección, ser consultados sobre decisiones de planificación y acompañar a los inspectores de trabajo.
+Son los representantes de los trabajadores con funciones específicas en [[prevencion-de-riesgos-laborales|prevención de riesgos laborales]]. Su función principal es colaborar con la dirección, ser consultados sobre decisiones de planificación y acompañar a los inspectores de trabajo.
 
-**Número de Delegados según la plantilla (Tabla Corregida):**
+**Número de [[delegados-de-prevencion|Delegados]] según la [[plantilla-de-simulacion|plantilla]] :**
 
 | Número de Trabajadores | Delegados de Prevención                         |
 | ---------------------- | ----------------------------------------------- |
 | **11 a 30**            | **1** (es el Delegado de Personal)              |
 | **31 a 49**            | **1** (elegido entre los Delegados de Personal) |
-| **50 a 100**           | **2** (aquí es donde cambia respecto a tu nota) |
+| **50 a 100**           | **2**                                           |
 | **101 a 500**          | **3**                                           |
 | **501 a 1.000**        | **4**                                           |
 | **1.001 a 2.000**      | **5**                                           |
@@ -346,7 +346,7 @@ Es el órgano **paritario** (igual número de representantes de cada lado) y col
 - **¿Cuándo se crea?**: Es obligatorio en empresas de **50 o más trabajadores**.
 - **Composición**: Está formado por los Delegados de Prevención (parte social) y el empresario o sus representantes (parte empresarial) en número igual.
 - **Reuniones**: Se debe reunir de forma **trimestral** como mínimo, o siempre que una de las partes lo solicite.
-- **Voz pero no voto**: Los delegados sindicales y los técnicos de prevención pueden asistir a las reuniones para asesorar, pero no tienen voto en las decisiones
+- **Voz pero no voto**: Los [[delegado-sindical|delegados sindicales]] y los técnicos de prevención pueden asistir a las reuniones para asesorar, pero no tienen voto en las decisiones
 
 ---
 
@@ -380,21 +380,21 @@ Protocolo **[[protocolo-pas|PAS]]**: **Proteger → Avisar → Socorrer**
 | Negro    | IV - Sin atención | Fallecidos o sin posibilidades de supervivencia                   |
 
 ### Soporte Vital Básico
-- Inconsciente + respira → *[[posicion-lateral-de-seguridad|PLS]]* ([[posicion-lateral-de-seguridad|Posición Lateral de Seguridad]])
+- Inconsciente + respira → *PLS* ([[posicion-lateral-de-seguridad|Posición Lateral de Seguridad]])
 - Inconsciente + no respira → *RCP* ([[reanimacion-cardiopulmonar|Reanimación Cardiopulmonar]]): 30 compresiones + 2 ventilaciones
 - *DESA*: Desfibrilador Semiautomático → analiza ritmo cardíaco y aplica descarga si necesario
 
 ### Hemorragias
 - *Externa*: compresión directa → si no cede, compresión arterial → Torniquete (última medida, sobre ropa, anotar hora)
-- *Interna*: signos sed, pulso débil, sudor frío) → trasladar urgentemente
-- *Nariz*: sentado con cabeza hacia adelante, comprimir orificio 5 min
+- *Interna*: signos [[subsidio-extraordinario-por-desempleo|sed]], pulso débil, sudor frío) → trasladar urgentemente
+- *Nariz*: sentado con cabeza hacia adelante, [[compresion-de-fichero|comprimir]] orificio 5 min
 - *Oído*: no taponar, cubrir con gasa, posición lateral hacia el lado que sangra
 
 ### Traumatismos
 - *Fractura*: pérdida de continuidad del hueso. No mover si no hay riesgo vital. Inmovilizar y llamar emergencias.
 - *Esguince*: distensión de ligamentos. Inmovilizar, elevar la zona, aplicar frío local.
 - *[[luxacion|Luxación]]*: separación de dos superficies articulares. Inmovilizar, frío local, trasladar a centro médico.
-- *Contusión*: inflamación de piel sin lesión externa. Aplicar hielo. Si grave, inmovilizar y elevar.
+- *[[contusion|Contusión]]*: inflamación de piel sin lesión externa. Aplicar hielo. Si grave, inmovilizar y elevar.
 
 ### Maniobra de Heimlich (obstrucción vía aérea)
 Objetivo: aumentar presión intratorácica para expulsar el cuerpo extraño.

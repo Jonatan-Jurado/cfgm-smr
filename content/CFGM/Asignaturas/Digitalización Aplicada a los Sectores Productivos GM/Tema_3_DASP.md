@@ -8,17 +8,17 @@ tags:
 # Tema 3: Cloud. Sistemas Conectados
 
 ## Cloud
-**[[recursos-en-la-nube|Cloud]]**: 
-- Servicio que nos permite almacenar y gestionar datos a través de Internet.
+**[[la-nube|Cloud]]**: 
+- [[proceso-del-sistema|Servicio]] que nos permite almacenar y gestionar datos a través de Internet.
 - Es un entramado de Servidores remoto ubicado en cualquier parte del mundo
-- El usuario se conecta a Internet y accede a gran variedad de recursos.
+- El [[cuenta-de-usuario|usuario]] se conecta a Internet y accede a gran variedad de recursos.
 - Normalmente los servidores son virtuales y gestionados por los proveedores de servicios.
 ### Diferentes Usos del Cloud Computing
 - Almacenamiento de Datos
 - Base de Datos
 - Apps
 - Software
-- Streaming
+- [[streaming-de-video-y-audio|Streaming]]
 - Redes Sociales
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VR8aXePkQ5M?si=qndgbc4E9ZmZNf1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -26,23 +26,23 @@ tags:
 ### Tipos
 
 Por uso:
-- *[[infraestructura-como-servicio|IaaS]] - Infraestructura como Servicio*
+- *IaaS - [[infraestructura-como-servicio|Infraestructura como Servicio]]*
 	- Nivel 1
 	- Servidores
 	- Redes
 	- Almacenamiento
 		- Ejemplos:
 			- *AWS*
-			- *Google Cloud Platform*
+			- *Google [[recursos-en-la-nube|Cloud]] Platform*
 			- *Microsoft Azure*
-- *[[plataforma-como-servicio|PaaS]] - Plataforma como Servicio*
+- *PaaS - [[plataforma-como-servicio|Plataforma como Servicio]]*
 	- Nivel 2
 	- Crear, probar desplegar
 		- Ejemplos:
 			- *Heroku*
 			- *Google App Enginer*
 			- *Microsot Azure*
-- *[[software-como-servicio|SaaS]] - Software como Servicio*
+- *SaaS - [[software-como-servicio|Software como Servicio]]*
 	- Nivel 3
 	- Se ofrece listo para usar por una subscripción al user final
 		- *Google Workspace*
@@ -50,16 +50,16 @@ Por uso:
 		- *Salesfgorce*
 
 Por Privacidad:
-- *Nube Pública*: comparte recursos a través de internet
-- *Nube Privada*: no se comparte recursos por internet, es red privada
-- *Nube Híbrida*: Es una Mezcla
+- *[[nube-publica|Nube Pública]]*: comparte recursos a través de internet
+- *[[nube-privada|Nube Privada]]*: no se comparte recursos por internet, es red privada
+- *[[nube-hibrida|Nube Híbrida]]*: Es una Mezcla
 
 ## Posibilidades de Trabajo en la Cloud
 
 ### Almacenamiento y Gestión de Datos
 - Almacenamiento de archivos:
 	- *Amazon S3*
-	- *Google Cloud Storage*
+	- *Google [[almacenamiento-en-la-nube|Cloud Storage]]*
 	- *Microsoft Azure Blob Storage*
 - Base de Datos:
 	- *Amazon RDS*
@@ -70,23 +70,23 @@ Por Privacidad:
 	- *AWS Lambda*
 	- *Google Cloud Functions*
 	- *Azure Functions*
-- CI/CD: automatiza el flujo de trabajo
+- CI/[[comando-de-directorio|CD]]: automatiza el flujo de trabajo
 	- *Jenkins*
 	- *Github Actions*
 	- *GitLab CI*
 
 ### IA y ML (Machine Learning)
 - Modelado y Entrenamiento:
-	- *Google AI Platform*
+	- *Google [[inteligencia-artificial|AI]] Platform*
 	- *AWS SageMaker*
-	- *Azure Machine Learning*
-- APIs de IA:
+	- *Azure [[aprendizaje-automatico|Machine Learning]]*
+- [[api-de-ia|APIs de IA]]:
 	- *Google Cloud*
 	- *IBM Watson*
 	- *Azure Cognitive Services*
 
 ### Aplicaciones Web y Móviles
-- Aplicaciones Web:
+- [[aplicacion|Aplicaciones]] Web:
 	- *AWS Elastic Beanstalk*
 	- *Google App Engine*
 	- *Azure App Service*
@@ -95,13 +95,13 @@ Por Privacidad:
 
 
 ### Infraestructura
-- Máquinas Virtuales
+- [[maquina-virtual|Máquinas Virtuales]]
 	- *Amazon EC2*
 	- *Google Compute Engine*
 	- *Azure Virtual Machine*
 
 ### Plataforma
-- Desarrollo de aplicaciones:
+- Desarrollo de [[software-y-algoritmo|aplicaciones]]:
 	- *Heroku*
 	- *AWS*
 	- *Elastic Beanstalk*
@@ -112,14 +112,14 @@ Por Privacidad:
 	- *Google Suite*
 	- *Office 365*
 	- *Slack*
-- CRS - Gestion de Relaciones con Clientes
+- [[gestion-de-relaciones-con-clientes|CRS]] - Gestion de Relaciones con Clientes
 	- *Salesforce*
 	- *HubSpot*
-- Backup y Recuperación
+- Backup y [[recuperacion-en-ciberseguridad|Recuperación]]
 	- *AWS Backup*
 	- *Google Cloud Storage*
 	- *Azure Backup*
-- Seguridad: cortafuegos, monitorización, cifrado.
+- [[seguridad-y-gestion-de-identidad|Seguridad]]: cortafuegos, [[monitorizacion|monitorización]], cifrado.
 	- *AWS Shield*
 	- *Google Cloud Security*
 	- *Azure Security Center*
@@ -129,10 +129,10 @@ Por Privacidad:
 	- *Google Cloud Media Solutions*
 	- *Azure Media Services*
 - Almacenamiento y distribución:
-	- *CDN*: Redes de Distribución de Contenido
+	- *CDN*: [[red-de-distribucion-de-contenido|Redes de Distribución de Contenido]]
 ### IoT
 - Gestión de Dispositivos
-	- *AWS IoT*
+	- *AWS [[internet-de-las-cosas|IoT]]*
 	- *Google Cloud IoT*
 	- *Azure IoT Hub*
 
@@ -143,18 +143,18 @@ Por Privacidad:
 - Contabilidad y Finanzas
 - Comunicaciones
 - Recursos Humanos
-- Trabajo en Equipo
+- [[trabajo-en-equipo|Trabajo en Equipo]]
 ### Desarrollo de Software y Apps
 - Colaboración
-- Herramientas de Desarrollo
+- [[herramientas-de-desarrollo-y-scripting|Herramientas de Desarrollo]]
 - Despliegue y Escalado de apps de forma sencilla
 ### Educación
-- Acceso Remoto a recursos
+- [[control-remoto|Acceso Remoto]] a recursos
 - Crear, compartir contenido
-- Gestionar sistemas de gestión de aprendizaje
+- Gestionar [[sistema-de-gestion-de-aprendizaje|sistemas de gestión de aprendizaje]]
 - Fácil comunicación estudiante-profesor
 ### Salud
-- Almacenar y gestionar registros electrónicos
+- Almacenar y gestionar [[registro-del-procesador|registros]] electrónicos
 - Facilitar telemedicina
 - Atención Remota
 - Mejorar Subministro
@@ -164,11 +164,11 @@ Por Privacidad:
 - Ejecutar simulaciones computacionales
 - Colaborar en Proyectos Internacionales
 ### Entretenimiento
-- Almacenar y Distribución de contenido
+- Almacenar y [[almacenamiento-y-distribucion-de-contenido|Distribución de contenido]]
 - Mejorar Streaming
 - Desarrollar Apps y Juegos
 ### IoT
-- *Domótica*: Automatización del hogar.
+- *Domótica*: [[automatizacion-de-procesos-productivos|Automatización]] del hogar.
 
 ## Edge Computing
 *[[edge-computing|Edge Computing]]:* 
@@ -176,17 +176,17 @@ Por Privacidad:
 - + Velocidad
 - - Latencia
 ### Relacion entre EC y Cloud
-- Edge Computing envia información a centro de datos mas cercanos y disminuye el tiempo de respuesta.
+- Edge Computing envia información a centro de datos mas cercanos y disminuye el [[tiempo-de-respuesta|tiempo de respuesta]].
 - Complementa al Cloud con capacidades de procesamiento mas cercanas al user final
-- Cloud para gran volúmen y largo plazo / Edge corto plazo, al momento (IoT para respuesta instantánea)
+- Cloud para gran volúmen y largo plazo / Edge corto plazo, al momento (IoT para [[respuesta-en-ciberseguridad|respuesta]] instantánea)
 - EC la info es diversificada en múltiples dispositivos , datos repartidos = menos ataques
 - EC reduce la cantidad de datos así que mejora el ancho de banda al mandar menos.
 ## Aplicaciones del Edge Computing
 - Iot
-- Smart Cities
-- Fábricas Inteligentes
-- Monitoreo de la Salud y Seguridad
-- Apps de Realidad Aumentada y Realidad Virtual
+- [[smart-cities|Smart Cities]]
+- [[fabricas-inteligentes|Fábricas Inteligentes]]
+- [[monitoreo-y-optimizacion|Monitoreo]] de la Salud y Seguridad
+- Apps de [[realidad-aumentada|Realidad Aumentada]] y [[realidad-virtual|Realidad Virtual]]
 - Videojuegos
 
 ## Edge - Fog - Mist

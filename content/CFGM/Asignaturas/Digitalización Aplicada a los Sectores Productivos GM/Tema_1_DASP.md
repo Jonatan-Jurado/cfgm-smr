@@ -10,19 +10,19 @@ tags:
 ## IMPACTO DE LA DIGITALIZACIÓN EN EL DESARROLLO SOSTENIBLE
 
 ### IMPACTO POSITIVO
-- *Optimización de Recursos:* Monitorea el consumo, energía, materia prima y toma medidas.
+- *[[monitoreo-y-optimizacion|Optimización]] de Recursos:* Monitorea el consumo, energía, materia prima y toma medidas.
 - *Reducción de la huella de carbono:* La Reduce
-- *Gestión de Residuos:* Los Reutiliza o Recicla
+- *[[gestion-de-residuos|Gestión de Residuos]]:* Los Reutiliza o Recicla
 
 ### IMPACTO NEGATIVO
 - *Consumo de energía y huella de carbono:* Data Centers, Servers, Redes Teleco requieren mucha energía (si no es renovable sube el efecto invernadero)
-- *Consumo de Recursos Naturales:* Minerales raros que degradan el medio ambiente
+- *[[consumo-de-recursos-naturales|Consumo de Recursos Naturales]]:* Minerales raros que degradan el [[medio-ambiente|medio ambiente]]
 - *Contaminación por desechos:* los desechos contienen sustancias tóxicas
 
 > **1987: Comisión Mundial sobre el Medio Ambiente y el Desarrollo de las Naciones Unidas ** publicó el **INFORME BRUNTLAND** para asegurar:
-> 	*Sostenibilidad Ambiental*
-> 	*Sostenibilidad Económica*
-> 	*Sostenibilidad Social*
+> 	*[[sostenibilidad-ambiental|Sostenibilidad Ambiental]]*
+> 	*[[sostenibilidad-economica|Sostenibilidad Económica]]*
+> 	*[[sostenibilidad-social|Sostenibilidad Social]]*
 
 
 ## TECNOLOGÍA SOSTENIBLE
@@ -35,15 +35,15 @@ Se enfocan en distintas Areas:
 - *Biomasa*
 
 ### Eficiencia Energética
-- *Edificios Verdes*
+- *[[edificios-verdes|Edificios Verdes]]*
 - *Electrodomésticos:* 'Energy Star'
 
 ### Transporte Sostenible
-- *Vehículos Eléctricos*
+- *[[vehiculos-electricos-e-hibridos|Vehículos Eléctricos]]*
 - *Transporte Público*
 
 ### Gestión de Residuos
-- *Reciclaje y Reutilización*
+- *[[reciclaje-y-reutilizacion|Reciclaje y Reutilización]]*
 - *Compostaje*
 - *Agua:* Purificación y Salinización
 
@@ -62,11 +62,11 @@ Se enfocan en distintas Areas:
 
 ## ODS: OBJETIVOS DE DESARROLLO SOSTENIBLE
 
-**ODS: 17 Objetivos de la Agenda 2030**
+**ODS: 17 [[metas-y-objetivos|Objetivos]] de la [[objetivos-de-desarrollo-sostenible|Agenda 2030]]**
 
-- *ODS 6:* Agua limpia y Saneamineto
-- *ODS 7*: Energía Asequible y no contaminante
-- *ODS 12:* Producción y consumo responsable
-- *ODS 13:* Acción por el clima
-- *ODS 14:* Vida Submarina
-- *ODS 15:* Vida en ecosistemas terrestres
+- *[[ods-6-agua-limpia-y-saneamiento|ODS 6]]:* Agua limpia y Saneamineto
+- *[[ods-7-energia-asequible-y-no-contaminante|ODS 7]]*: Energía Asequible y no contaminante
+- *[[ods-12-produccion-y-consumo-responsables|ODS 12]]:* Producción y consumo responsable
+- *ODS 13:* [[ods-13-accion-por-el-clima|Acción por el clima]]
+- *ODS 14:* [[ods-14-vida-submarina|Vida Submarina]]
+- *[[ods-15-vida-de-ecosistemas-terrestres|ODS 15]]:* Vida en ecosistemas terrestres

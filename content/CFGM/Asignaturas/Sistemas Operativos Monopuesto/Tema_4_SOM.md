@@ -8,28 +8,28 @@ tags:
 # Tema 4 - Máquinas Virtuales
 
 ## MÁQUINA REAL Y MÁQUINA VIRTUAL
-- **[[maquina-real|Máquina Real]]:** El Sistema informático que tenemos físicamente, tiene el S.O que es con el que trabaja el User
-- **[[maquina-virtual|Máquina Virtual]]:** Software que permite instalar nuevos S.O dentro del S.O de tu máquina real sin tener que hacer particiones de disco físicas.
+- **[[maquina-real|Máquina Real]]:** El [[sistema-informatico|Sistema informático]] que tenemos físicamente, tiene el S.O que es con el que trabaja el User
+- **[[maquina-virtual|Máquina Virtual]]:** Software que permite instalar nuevos S.O dentro del S.O de tu máquina real sin tener que hacer [[particion-de-disco|particiones de disco]] físicas.
 	- *Dos Partes*:
-		- *Anfitrión/Host*: S.O de la Máquina Real
-		- *Huésped/Guess*: S.O que instalamos en la Máquina Virtual
+		- *[[anfitrion|Anfitrión]]/[[sistema-operativo-anfitrion|Host]]*: S.O de la Máquina Real
+		- *[[huesped|Huésped]]/Guess*: S.O que instalamos en la Máquina Virtual
 	- Tipos:
 		- *De Sistema*: Permiten instalar mas de un S.O y ejecutarlos a la vez
 		- *De Proceso*:
 			- Virtualiza 1 proceso
 			- Sin S.O
-			- Se aísla su aplicación
-			- Se crea cuando se lanza aplicación y cierra cuando termina
+			- Se aísla su [[aplicacion|aplicación]]
+			- Se crea cuando se lanza [[software-y-algoritmo|aplicación]] y cierra cuando termina
 			- Requiere recursos de la Máquina Física
 			- Para crear aplicaciones Multiplataforma 
 			- Ejemplo: *JVM Java Virttual Machine* 
 
-**[[escenarios-duales|Dual-Boot o Arranque Dual]]:** 
+**[[escenarios-duales|Dual-Boot]] o [[arranque-dual|Arranque Dual]]:** 
 - Es otra forma de tener mas de un S.O en el pc pero sin virtualizar
-- Obliga a particionar el disco duro
+- Obliga a particionar el [[almacenamiento-secundario|disco duro]]
 - Entra al S.O con uno u otro, no puedes con los dos a la vez
 
-> A veces si tu PC no tiene activada la Virtualización es necesario antes de virtualizar activarla en la BIOS. Normalmente en la parte de Seguridad o Configuración
+> A veces si tu PC no tiene activada la [[tecnologia-de-virtualizacion|Virtualización]] es necesario antes de virtualizar activarla en la [[configuracion-de-la-bios|BIOS]]. Normalmente en la parte de [[seguridad-y-gestion-de-identidad|Seguridad]] o Configuración
 
 
 ### VENTAJAS Y DESVENTAJAS
@@ -40,7 +40,7 @@ tags:
 - Menos Hardwarte (Es compartido)
 - Guardar Estado
 - Crear Sistemas con una cantidad de recursos fijos
-- Compartir archivos y directorios
+- [[comparticion-de-recursos|Compartir archivos]] y directorios
 - Entornos de Prueba
 #### DESVENTAJAS
 - Ralentiza la ejecución de programas
@@ -62,18 +62,18 @@ tags:
 
 1. Descargar VirtualBox aquí : https://www.virtualbox.org/wiki/Downloads
 2. Descargar el VirtualBox Extension Pack aquí: https://download.virtualbox.org/virtualbox/7.2.6/Oracle_VirtualBox_Extension_Pack-7.2.6.vbox-extpack
-3. Descargar la ISO (Imágen de Disco) que quieras instalar (Solo busca ISO WIndows, ISO Ubuntu o la que requieras en Google, entra y descarga)
+3. Descargar la [[imagen-iso|ISO]] (Imágen de Disco) que quieras instalar (Solo busca ISO [[sistema-operativo-windows|WIndows]], [[imagen-iso|ISO]] [[sistema-operativo-ubuntu|Ubuntu]] o la que requieras en Google, entra y descarga)
 4. Instala VirtualBox
-5. Instala el Extensión Pack 
-6. **Guest Additions (Imprescindible)** :Sin esto, no podrás redimensionar la pantalla ni compartir el portapapeles.
-	- Con la MV encendida, ve al menú superior: **Dispositivos > Insertar imagen de CD de complementos del invitado.
-	- Abre el explorador de archivos en la MV, entra en la unidad de CD y ejecuta el instalador.
+5. Instala el [[extension-de-archivo|Extensión]] Pack 
+6. **[[guest-additions|Guest Additions]] (Imprescindible)** :Sin esto, no podrás redimensionar la pantalla ni compartir el portapapeles.
+	- Con la [[comando-mv|MV]] encendida, ve al menú superior: **Dispositivos > Insertar [[imagen-de-disco|imagen de CD]] de complementos del invitado.
+	- Abre el [[explorador-de-archivos|explorador de archivos]] en la MV, entra en la [[unidad-de-cd|unidad de CD]] y ejecuta el instalador.
 	- Reinicia la MV.    
-7. **Carpetas Compartidas**: Para pasar archivos entre tu PC real y la MV:
+7. **[[carpetas-compartidas|Carpetas Compartidas]]**: Para pasar archivos entre tu PC real y la MV:
 	- **Configuración de la MV > Carpetas compartidas**.
 		- Haz clic en el icono `+` (Añadir carpeta).
 		- Selecciona la ruta de tu PC real y marca **"Automontar"** y **"Hacer permanente"**.
-		- En Linux:_ Recuerda que tu usuario debe estar en el grupo `vboxsf` para verla: `sudo adduser $USER vboxsf`.
+		- En [[sistema-operativo-linux|Linux]]:_ Recuerda que tu [[cuenta-de-usuario|usuario]] debe estar en el grupo `vboxsf` para verla: `[[sudo]] [[adduser]] $USER vboxsf`.
 8. **Portapapeles y Arrastrar/Soltar**
 - Ve a **Configuración > General > Avanzado**.
 - Cambia "Compartir portapapeles" y "Arrastrar y soltar" a **Bidireccional**.
@@ -88,24 +88,24 @@ tags:
 
 
 ## REALIZACIÓN DE PRUEBAS DE RENDIMIENTO
-Una vez que tenemos nuestras máquinas virtuales nos interesa monitorizar el rendimiento, porqué de esa manera podemos comprobar si le hemos asignado los recursos suficientes comprobando la RAM/CPU/DISCO DURO etc.
-Para ello podemos dar a la tecla de Windows y escribir Monitor de Recursos y lo abrimos, o podemos crear un archivo .bat que se ejecute al hacer click y se abra (Más Cómodo)
+Una vez que tenemos nuestras máquinas virtuales nos interesa monitorizar el rendimiento, porqué de esa manera podemos comprobar si le hemos asignado los recursos suficientes comprobando la [[memoria-ram|RAM]]/[[unidad-central-de-procesamiento|CPU]]/[[disco-duro|DISCO DURO]] [[directorio-etc|etc]].
+Para ello podemos dar a la tecla de Windows y escribir [[monitor-de-recursos|Monitor de Recursos]] y lo abrimos, o podemos crear un archivo .bat que se ejecute al hacer click y se abra (Más Cómodo)
 Para crear el archivo bat lo haremos así:
 1. Abrimos el bloc de notas
 2. Escribimos el siguiente código
 ```
 @echo off
-start resmon.exe
+start resmon[[archivo-ejecutable|.exe]]
 exit
 ```
-3. Lo guardamos con el nombre que queramos y con extension .bat (nombre.bat)
+3. Lo guardamos con el nombre que queramos y con extension .bat (nombre[[fichero-por-lotes|.bat]])
 4. Cada vez que queramos acceder al monitor de recursos solo abrimos el bat y listo!
 
 ## ERRORES COMUNES
-**Operating System not Found**: Suele deberse a que no se indicó bien la ruta hacia el archivo ISO
-**Unable to Open Kernel Device**: Revisa el atrchivo de configuración de la VM comprueba que:
+**[[error-de-arranque|Operating System not Found]]**: Suele deberse a que no se indicó bien la ruta hacia el archivo ISO
+**Unable to Open [[nucleo-del-sistema-operativo|Kernel]] Device**: Revisa el atrchivo de configuración de la VM comprueba que:
 	``` vmci0.present ="TRUE" ```
-**This kernel requires an X86-64 cpu**: como indica el sistema que quieres instalar es de 64bits y seguramente tengas un S.O Anfitrión de 32bits 
+**This [[nucleo|kernel]] requires an [[arquitectura-x64|X86-64]] cpu**: como indica el sistema que quieres instalar es de 64bits y seguramente tengas un S.O Anfitrión de 32bits 
 
 
 ## DOCUMENTACIÓN DEL PROCESO DE INSTALACIÓN E INCIDENCIAS
@@ -114,24 +114,24 @@ exit
 
 ### 💻 1. Especificaciones del Sistema Anfitrión (Host)
 
-_Datos del ordenador físico donde se instala el software de virtualización._
+_Datos del ordenador físico donde se instala el software de [[virtualizacion|virtualización]]._
 
 #### 🛠️ Hardware Real
 
 - **Procesador:** (Ej: Intel Core i5-12400 / AMD Ryzen 5)
     
-- **Memoria RAM Total:** (Ej: 16 GB DDR4)
+- **Memoria RAM Total:** (Ej: 16 [[unidad-de-medida-de-informacion|GB]] DDR4)
     
-- **Almacenamiento Total:** (Ej: 500 GB SSD NVMe)
+- **Almacenamiento Total:** (Ej: 500 GB [[memoria-de-estado-solido|SSD]] NVMe)
     
 
 #### 💿 Software Anfitrión
 
-- **Sistema Operativo:** (Ej: Windows 11 / Ubuntu Desktop)
+- **[[sistema-operativo|Sistema Operativo]]:** (Ej: Windows 11 / Ubuntu Desktop)
     
 - **Versión:** (Ej: 23H2)
     
-- **Arquitectura:** (Ej: x64)
+- **Arquitectura:** (Ej: [[arquitectura-de-procesador-x64|x64]])
     
 - **Software de Virtualización:** (Ej: VirtualBox 7.0.12 / VMware Player)
     

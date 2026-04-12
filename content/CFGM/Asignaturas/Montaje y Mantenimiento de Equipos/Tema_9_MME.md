@@ -9,12 +9,12 @@ tags:
 ## NOVEDADES
 
 ### Overclocking
-- Es un incremento en la frecuencia del reloj del procesador.
-- Se lleva a cabo a través de la BIOS
+- Es un incremento en la frecuencia del reloj del [[unidad-central-de-procesamiento|procesador]].
+- Se lleva a cabo a través de la [[configuracion-de-la-bios|BIOS]]
 - + Calor = + Refrigeración
 	- Otro Ventilador
-	- Refrigeración Líquida
-- Se debe comprobar que la Fuente de Alimentación nos proporcione 12V estables.
+	- [[refrigeracion-liquida|Refrigeración Líquida]]
+- Se debe comprobar que la [[fuente-de-alimentacion|Fuente de Alimentación]] nos proporcione 12V estables.
 
 ### Refrigeración Líquida
 *Wattercooling* : Se usa agua en vez de aire para refrigerar.
@@ -25,19 +25,19 @@ Partes y Funcionamiento:
 - *Radiador*: Enfría el líquido que se ha calentado en el proceso para después devolverlo al circuito
 
 ### Doble Tarjeta Gráfica
-En el Gaming se necesitan muchos recursos para obtener las máximas prestaciones por eso es apropiado duplicar la gráfica.
+En el Gaming se necesitan muchos recursos para obtener las máximas [[prestacion|prestaciones]] por eso es apropiado duplicar la gráfica.
 Doblar la gráfica no significa que tengas el doble de procesamiento., pero si que ganas entre un 30 y un 50% mas.
-Antes de instalar 2 gráficas hay que comprobar que la placa base y la fuente de alimentación la soportarían.
+Antes de instalar 2 gráficas hay que comprobar que la [[placa-base|placa base]] y la fuente de alimentación la soportarían.
 - **NVIDIA** -> **SLI**  
 	- Su proceso de duplicación es mediante puentear para sincronizar
 - **AMD** -> **Crossfire**
-	- Su proceso de duplicación es mediante PCI-E
+	- Su proceso de duplicación es mediante [[interfaz-pci|PCI]]-E
 
 ## BAREBONES
-- Equipos entre PC's de sobremesa y Portátiles
+- Equipos entre PC's de [[caja-de-sobremesa|sobremesa]] y [[ordenador-portatil|Portátiles]]
 - Minimizan las características y costes
-- Quitan las tarjetas y aplicaciones para abaratar costes
-- La caja y la F.A tienen dimensiones y características especiales
+- Quitan las tarjetas y [[aplicacion|aplicaciones]] para abaratar costes
+- [[la-caja|La caja]] y la F.A tienen dimensiones y características especiales
 
 ## CARACTERÍSTICAS DE ORDENADORES DE APLICACIONES ESPECÍFICAS Y MULTIMEDIA
 
@@ -50,7 +50,7 @@ Características:
 - Silenciosos
 Ejemplos:
 - Google ChromeCast
-- Android TV
+- [[android-tv|Android TV]]
 
 ## INFORMÁTICA MÓVIL
 Según las necesidades en un tiempo determinado fueron surgiendo diferentes dispositivos:
@@ -58,7 +58,7 @@ Según las necesidades en un tiempo determinado fueron surgiendo diferentes disp
 - Laptop
 - Tablet
 - Smartphones
-- E-Books
+- [[libro-electronico|E-Books]]
 - GPS
 
 ## PERSONALIZACIÓN - MOODING
@@ -69,14 +69,14 @@ Según las necesidades en un tiempo determinado fueron surgiendo diferentes disp
 - Ventiladores Extra 
 - Monitores Extra
 - Sensores de Temperatura
-Herramientas usadas: Dremel, Caladora, Tornabís, Alicates, Soldador.. 
+[[herramientas-para-el-montaje|Herramientas]] usadas: Dremel, Caladora, Tornabís, [[herramienta-de-montaje|Alicates]], Soldador.. 
 
 ## DOCUMENTACIÓN: GUIAS Y MANUALES 
 Para la:
 - Puesta en Marcha
 - Configuración
 - Instrucciones
-- Normas de Seguridad
+- Normas de [[seguridad-y-gestion-de-identidad|Seguridad]]
 Se utilizan Guías (Rápida, básica) y manuales (Extendida, amplia)
 ### Manuales
 Los manuales tienen una estructura estándar que es:
@@ -86,6 +86,6 @@ Los manuales tienen una estructura estándar que es:
 - Índice
 - Contenido
 - Cierre de Documento
-- Página Final
+- [[pagina|Página]] Final
 
 Se suele utilizar *PDF Creator* o *Adobe Acrobat Profesional* para crear éstas Guías o Manuales.

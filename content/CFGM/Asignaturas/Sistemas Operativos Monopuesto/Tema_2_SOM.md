@@ -27,7 +27,7 @@ Ejemplo: 234 --> 010  011  100 -->>010011100
 
 ### BINARIO A HEXADECIMAL Y VICEVERSA
 
-|**Binario (4 [[bit|bits]])**|**Hexadecimal**|**Decimal (Equivalencia)**|
+|**Binario (4 bits)**|**Hexadecimal**|**Decimal (Equivalencia)**|
 |---|---|---|
 |`0000`|**0**|0|
 |`0001`|**1**|1|
@@ -77,7 +77,7 @@ Ejemplo: 3C6 -->> 0011 1100 0110 (Ahora agrupamos de 3 en 3) -->> 001 111 000 11
 | $0 + 1$       | **1**         | 0                     |                                                   |
 | $1 + 0$       | **1**         | 0                     |                                                   |
 | 1 + 1         | **0**         | **1**                 | Se pone 0 y "te llevas 1" a la siguiente columna. |
-1 1 1      <-- (Acarreos/Lo que me llevo)
+1 1 1      <-- ([[acarreo|Acarreos]]/Lo que me llevo)
       1 1 0 1    (13)
     + 0 1 1 1    (7)
     ----------

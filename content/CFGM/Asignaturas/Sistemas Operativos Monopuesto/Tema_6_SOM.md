@@ -6,17 +6,17 @@ tags:
 # TAREAS BÁSICAS DE CONFIGURACIÓN Y MANTENIMIENTO EN LOS SISTEMAS OPERATIVOS PROPIETARIO
 
 ## ARRANQUE DEL SISTEMA
-*Opciones Avanzadas de Arranque* : al iniciar el PC pulsar la tecla F9. 
+*[[menu-de-opciones-avanzadas-de-arranque|Opciones Avanzadas de Arranque]]* : al iniciar el PC pulsar la tecla F9. 
 Tienes varias opciones:
-- **Modo Seguro con Funciones de Red**: Incluye los controladores necesarios para conectarse a Internet o a una red local.
-- **Modo Seguro con Símbolo de Sistema**: Inicia el sistema directamente en una ventana de comandos (CMD) en lugar de la interfaz visual.
+- **[[modo-seguro-con-funciones-de-red|Modo Seguro con Funciones de Red]]**: Incluye los controladores necesarios para conectarse a Internet o a una red local.
+- **[[modo-seguro|Modo Seguro]] con Símbolo de Sistema**: Inicia el sistema directamente en una ventana de comandos (CMD) en lugar de la interfaz visual.
 - **Habilitar el Registro de Arranque**: Crea un archivo de texto con la lista de todos los controladores cargados para identificar fallos.
-- **Última Configuración válida conocida**: Carga el registro y los controladores que funcionaron correctamente la última vez que se inició sesión.
-- **Modo de Restauración de Servicios de directorio**: Opción para servidores que permite restaurar el servicio de Active Directory.
+- **Última Configuración válida conocida**: Carga el registro y los controladores que funcionaron correctamente la última vez que se inició [[sesion-de-usuario|sesión]].
+- **Modo de Restauración de Servicios de directorio**: Opción para servidores que permite restaurar el [[proceso-del-sistema|servicio]] de Active Directory.
 - **Modo Depuración**: Envía información técnica del sistema a otro equipo para análisis de errores avanzados.
 - **Deshabilitar el Reinicio Automático**: Evita que el PC se reinicie tras un error grave para que puedas leer el código del pantallazo azul.
-- **Deshabilitar uso obligatorio de controladores firmados**: Permite instalar drivers que no tienen firma digital oficial.
-- **Iniciar Windows Normalmente**: Intenta arrancar el sistema con todos los controladores y programas habituales.
+- **Deshabilitar uso obligatorio de controladores firmados**: Permite instalar [[controlador-de-dispositivo|drivers]] que no tienen firma digital oficial.
+- **Iniciar [[sistema-operativo-windows|Windows]] Normalmente**: Intenta arrancar el sistema con todos los controladores y [[software-y-algoritmo|programas]] habituales.
 ### Sesiones:
 Los Distintos Usuarios puede:
 - Tener sus propios Directorios
@@ -26,11 +26,11 @@ Los Distintos Usuarios puede:
 
 ## UTILIZACIÓN DEL S.O
 Se puede usar de forma gráfica o mediante comandos:
-- **GUI** Interfaz Gráfica: Barra de tareas, Ventanas, Conf. de escritorio, Accesibilidad para personas con discapacidades
-- **GLI** Interfaz Linea de Comandos (CMD)
+- **[[interfaz-grafica-de-usuario|GUI]]** Interfaz Gráfica: [[barra-de-tareas|Barra de tareas]], Ventanas, Conf. de escritorio, [[Accesibilidad]] para personas con discapacidades
+- **[[interfaz-de-linea-de-comandos|GLI]]** Interfaz Linea de Comandos (CMD)
 
 ## OPERACIONES CON ARCHIVOS
-Los archivos tienen éste formato -> nombre.extensión -  Ejemplo -> mi_archivo.txt
+Los archivos tienen éste formato -> nombre.[[extension-de-archivo|extensión]] -  Ejemplo -> mi_archivo.txt
 
 ### USO BÁSICO DE GLI - CMD
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQXbYVPEx9c?si=SxbfSXPTDaRY9owI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ Los archivos tienen éste formato -> nombre.extensión -  Ejemplo -> mi_archivo.
 
 #### Comando de cambio de nombre
 
-Para realizar esta acción en la consola se utiliza: `rename archivo_actual.txt archivo_nuevo.bat`
+Para realizar esta acción en la consola se utiliza: `rename archivo_actual.txt archivo_nuevo[[fichero-por-lotes|.bat]]`
 
 ---
 
@@ -57,9 +57,9 @@ Se utilizan para filtrar búsquedas o aplicar comandos a varios archivos a la ve
 
 #### Operaciones con directorios
 
-- **Crear un directorio**: Se usa `mkdir` seguido del nombre o la ruta. `mkdir NuevaCarpeta`
+- **Crear un directorio**: Se usa `[[comando-de-directorio|mkdir]]` seguido del nombre o la ruta. `mkdir NuevaCarpeta`
     
-- **Cambiar de directorio**: Permite navegar por el sistema mediante rutas relativas o absolutas. `cd C:\Users\Documentos`
+- **Cambiar de directorio**: Permite navegar por el sistema mediante [[ruta-relativa|rutas relativas]] o absolutas. `[[disco-compacto|cd]] C:\Users\Documentos`
     
 - **Listar contenido**:
     
@@ -76,7 +76,7 @@ Se utilizan para filtrar búsquedas o aplicar comandos a varios archivos a la ve
 
 #### Operaciones con ficheros
 
-- **Crear un fichero**: Permite crear un archivo definiendo su tamaño. `fsutil file createnew archivo.txt 1000`
+- **Crear un fichero**: Permite crear un archivo definiendo su tamaño. `[[comando-de-fichero|fsutil]] file createnew archivo.txt 1000`
     
 - **Abrir/Leer un fichero**: Muestra el contenido de texto en la consola. `type archivo.txt`
     
@@ -97,13 +97,13 @@ Los archivos y carpetas poseen permisos definidos para usuarios o grupos. En Win
 
 ### Estructura del árbol de directorios
 
-Windows utiliza el Explorador de archivos para la administración y navegación. Los directorios críticos del sistema son:
+Windows utiliza el [[explorador-de-archivos|Explorador de archivos]] para la [[administracion|administración]] y navegación. Los directorios críticos del sistema son:
 
-- `C:\Windows\Boot`: Archivos para el arranque del sistema.
+- `C:\Windows\[[directorio-boot|Boot]]`: Archivos para el arranque del sistema.
     
 - `C:\Program Files`: Archivos de programas instalados.
     
-    - `\Common Files`: Datos compartidos entre aplicaciones.
+    - `\Common Files`: Datos compartidos entre [[aplicacion|aplicaciones]].
         
 - `C:\ProgramData`: Datos de programas compartidos (oculto).
     
@@ -111,13 +111,13 @@ Windows utiliza el Explorador de archivos para la administración y navegación.
         
     - `...\StartUp`: Programas que inician automáticamente con Windows.
         
-- `C:\PerfLogs`: Registros de rendimiento y aplicaciones.
+- `C:\PerfLogs`: [[registro-del-procesador|Registros]] de rendimiento y aplicaciones.
     
-- `C:\Users`: Carpetas personales de los usuarios (Escritorio, Documentos, etc.).
+- `C:\Users`: Carpetas personales de los usuarios (Escritorio, Documentos, [[directorio-etc|etc]].).
     
     - `\Public`: Archivos compartidos entre todos los usuarios locales.
         
-- `C:\Windows`: Archivos del núcleo del sistema operativo.
+- `C:\Windows`: Archivos del [[nucleo-del-sistema-operativo|núcleo del sistema operativo]].
     
     - `\Fonts`: Almacén de fuentes tipográficas.
         
@@ -208,7 +208,7 @@ Dentro de esa ventana tienes dos caminos:
 Todos los S.O son vulnerables. Windows provee de actualizaciones.
 - *Paquetes de Actualización*: Service Pack 1,2,3
 - *Módulos de Código*: Solo para Windows Server 2012 R2 y Windows Server
-	- *Nativo*: Gestiona la creación de distintos sitios web alojados en el servidor gestionado por los servicios de Internet Informatic Serve [[internet-information-services|IIS]].
+	- *Nativo*: Gestiona la creación de distintos sitios web alojados en el servidor gestionado por los servicios de Internet Informatic Serve IIS.
 	- *Administrativo:* Comprobación de formularios de Autentificación de los usuarios.
 ## INVENTARIO DEL SOFTWARE INSTALADO
 Realiza la comprobación de listados en 'Programas y Características'

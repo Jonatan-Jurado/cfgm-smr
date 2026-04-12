@@ -9,7 +9,7 @@ tags:
 ---
 # Tema 3- Gestión de Archivos - Memoria - Procesos
 ## GESTIÓN DE ARCHIVOS
-**[[archivo|Archivo]]**: 
+**Archivo**: 
 - Conjunto de bits almacenados tratados como una sola unidad.
 - Tienen una [[extension-de-archivo|Extensión]] y un Tamaño ([[unidad-de-medida-de-informacion|Byte]])
 - *Operaciones:*
@@ -19,11 +19,11 @@ tags:
 
 **Directorio:** 
 - Archivo que almacena otros archivos y subdirectorios
-- Guarda la [[ruta-de-archivo|Ruta]] y [[atributo-de-archivo|atributos]] de un directorio
+- Guarda la Ruta y atributos de un directorio
 
 **Atributo:** Características de un Archivo
 
-**[[permiso-de-archivo|Permisos]]:**  Reglas de acceso para las operaciones
+**Permisos:**  [[permiso-de-archivo|Reglas de acceso]] para las operaciones
 - *lectura*
 - *escritura*
 - *ejecución*
@@ -31,7 +31,7 @@ tags:
 ## GESTIÓN DE LA MEMORIA
 En los S.O multiproceso, la [[memoria-ram|RAM]] no suele tener capacidades suficiente para todos los procesos. Por eso se debe distribuir la Memoria entre varios procesos.
 ### SOLAPAMIENTO o OVERLAY
-Divide [[economia-lineal|el]] [[software-y-algoritmo|Programa]] Virtualmente en procesos para que se ejecuten en diferentes partes de la RAM.
+Divide el [[software-y-algoritmo|Programa]] Virtualmente en procesos para que se ejecuten en diferentes partes de la RAM.
 Fue inviable porqué cada sistema tiene características diferentes y necesitaba una programación diferente para todas las [[aplicacion|aplicaciones]]
 
 ### GESTIÓN DINÁMICA DE LA MEMORIA
@@ -44,13 +44,13 @@ Fue inviable porqué cada sistema tiene características diferentes y necesitaba
 - La memoria se divide en [[particion-de-disco-duro|particiones]] que no podrán modificarse después.
 - 1 [[particion|Partición]] -> 1 Proceso
 - Problemas!
-	- *[[fragmentacion-interna|Fragmentación Interna]]*: procesos ocupan espacio menor que el que tienen asignado
+	- *[[fragmentacion-de-memoria|Fragmentación Interna]]*: procesos ocupan espacio menor que el que tienen asignado
 	- *[[fragmentacion-externa|Fragmentación Externa]]*: Procesos ocupan espacio mayor y la partición queda libre
 	- ![[interna.png]]
 	- ![[externa.png]]
 
 - *Asignar Procesos*: 
-	- *Cola única*: 
+	- *[[cola-unica|Cola única]]*: 
 	  ![[cola-unica.png]]
 	- *Cola por Partición*:
 	- ![[cola-por-particion.png]]
@@ -68,7 +68,7 @@ Se particiona según la ejecución de los procesos, , un proceso solo ocupa en m
 1. Cuando un proceso termina, se combina el hueco con el que hay disponible al lado
 ![[mem-var-1.png]]
 2. Cuando un proceso termina, se compactan los espacios ocupados de la memoria, por lo que al principio está toda la memoria ocupada y después toda la memoria libre.
-	- *Primer Ajuste*:  asigna al primer proceso de la cola el primer hueco 
+	- *[[estrategia-de-ajuste|Primer Ajuste]]*:  asigna al primer proceso de la cola el primer hueco 
 	- *Siguiente Ajuste*: asignan los procesos por orden de cola
 	- *Mejor Ajuste*: asigna el hueco más pequeño al proceso que mejor se adapte al espacio
 	- *Peor Ajuste*: asigna el hueco más grande al primer proceso de la cola.
@@ -76,17 +76,17 @@ Se particiona según la ejecución de los procesos, , un proceso solo ocupa en m
 	
 
 #### MEMORIA VIRTUAL
-Se usa el [[disco-duro|Disco duro]] como RAM.
+Se usa el [[almacenamiento-secundario|Disco duro]] como RAM.
 *Programas*: Tienen 2 Capas
 - *Capa Activa*: Procesos en ejecución en la memoria principal
-- *Capa inactiva*: Procesos en la [[almacenamiento-secundario|memoria secundaria]].
+- *Capa inactiva*: Procesos en la memoria secundaria.
 
-*[[intercambio-de-memoria|Swapping]]*:  Mueve el proceso de la memoria principal al disco duro y viceversa.
+*[[intercambio-de-memoria|Swapping]]*:  Mueve el proceso de la memoria principal al [[disco-duro|disco duro]] y viceversa.
 Problema! Ralentiza el sistema.
 ![[swaping.png]]
 
 
-*Técnicas para la [[virtualizacion|Virtualización]]*:
+*Técnicas para la [[tecnologia-de-virtualizacion|Virtualización]]*:
 - *[[paginacion|Paginación]]*: La memoria y los procesos se dividen en unidades mas pequeñas
 	- *[[pagina|Páginas]]*: Programas distribuidos en segmentos dentro de la memória principal
 	- *Marcos*: Programas distribuidos en secciones d eigual tamaño que las páginas
@@ -95,17 +95,17 @@ Problema! Ralentiza el sistema.
 
 ## GESTIÓN DE LOS PROCESOS
 
-*Proceso*: es un conjunto de instrucciones que se ejecutan en la CPU
+*Proceso*: es un conjunto de instrucciones que se ejecutan en la [[unidad-central-de-procesamiento|CPU]]
 ### ESTADO DE LOS PROCESOS
 Todos los procesos tienen un ID que define sus situación respecto a su funcionamiento
 #### INDICADOR
-- *Activo[[directorio-raiz|/]]Ejecución*: Está asignado para ejecutarse
+- *Activo/Ejecución*: Está asignado para ejecutarse
 - *Bloqueado*: Ha sido interrumpido y está a la espera de que termine la operación que lo bloqueó
 - *Preparado*: Disponible para ejecutarse
 - *Solo en Unix*:
 	- *Nuevo*: aún no ha sido elegido para iniciar su procesamiento
 	- *Terminado*: ha finalizado su ejecución
-	- *Zombie*: ha finalizado su ejecución pero que no ha liberado los recursos que ha utilizado.
+	- *[[proceso-zombie|Zombie]]*: ha finalizado su ejecución pero que no ha liberado los recursos que ha utilizado.
 
 #### CAMBIO DE ESTADO
 - *Bloqueo*: Cuando un proceso se está ejecutando y produce llama al sistema, se bloquea para evitar consumir CPU. 
@@ -137,16 +137,16 @@ Todos los procesos tienen un ID que define sus situación respecto a su funciona
 - *Tiempos Aceptables*:grado de satisfacción que tienen los usuarios respecto al tiempo que deben esperar
 
 ### REFERENCIAS NUMÉRICAS
-- *Tiempo de ejecución (t)*: es el tiempo de Servicio que necesita un proceso. 
+- *[[tiempo-de-ejecucion|Tiempo de ejecución]] ([[tiempo-de-retorno|t]])*: es el tiempo de [[proceso-del-sistema|Servicio]] que necesita un proceso. 
 - *Tiempo de terminación o de retorno (T)*: es el tiempo entre la hora de llegada del trabajo y su hora de finalización. 
 	- Mide el tiempo que un proceso está presente en el equipo
 	- **T = Ht – Hn** 
-- *Tiempo de [[respuesta-en-ciberseguridad|respuesta]]*:  tiempo desde que se solicita hasta que se obtiene.
-- *Tiempo de espera (w)*: tiempo que transcurre entre hora de llegada y la hora en que empieza a ejecutarse
+- *[[tiempo-de-respuesta|Tiempo de respuesta]]*:  tiempo desde que se solicita hasta que se obtiene.
+- *[[tiempo-de-espera|Tiempo de espera]] (w)*: tiempo que transcurre entre hora de llegada y la hora en que empieza a ejecutarse
 	-  **W = Hc – Hn**
  - *[[tiempo-perdido|Tiempo perdido]] (M)*: diferencia del tiempo de ejecución al tiempo de finalización.
 	 - **M = T – t**
-- *[[indice-de-penalizacion|Índice de penalización]] (P)*: cociente entre el tiempo de finalización y el tiempo de ejecución. 
+- *[[indice-de-penalizacion|Índice de penalización]] ([[potencia-electrica|P]])*: cociente entre el tiempo de finalización y el tiempo de ejecución. 
 	- **P = T/t** 
  - *[[indice-de-respuesta|Índice de respuesta]] (R)*: es el inverso al anterior. 
 	 - **R = t/T**
@@ -169,6 +169,6 @@ Una vez asignado el procesador a un proceso, ya no se puede quitar.
 
 #### APROPIATIVOS
 ##### SRT
-**Short Remining [[time|time]] First**: proceso más corto en cada momento,  solo puede ocurrir una apropiación si llega un proceso nuevo que necesite menos tiempo del que le falta al actual
+**Short Remining [[time]] First**: proceso más corto en cada momento,  solo puede ocurrir una apropiación si llega un proceso nuevo que necesite menos tiempo del que le falta al actual
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzMOAtoCDR0?si=WiThnTUYCuYgFAXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -16,13 +16,13 @@ tags:
 3. **Analógicos:** Varían / Discreta  
 
    ![[Pasted-image-20260304115653.png]] 
-4. **Digitales:** Constantes[[directorio-raiz|/]]Determinada 
+4. **Digitales:** Constantes/Determinada 
 
    ![[Pasted-image-20260304115814.png]]
 
 ### **Análisis**
-1. **Dominio del Tiempo:** Variables Temporales / [[amplitud|Amplitud]], Frecuencia y Fase
-2. **[[dominio-de-frecuencia|Dominio de Frecuencia]]:** Sinuidales (Fourer) / Frecuencia y Amplitud
+1. **[[dominio-del-tiempo|Dominio del Tiempo]]:** Variables Temporales / [[amplitud-de-onda|Amplitud]], Frecuencia y Fase
+2. **[[dominio-de-frecuencia|Dominio de Frecuencia]]:** Sinuidales (Fourer) / Frecuencia y [[Amplitud]]
 
 ### **Tipos de Corriente**
 
@@ -59,20 +59,20 @@ Va cambiando la Polaridad en los extremos del canal.
 
 **Intensidad:** Cantidad de corriente que pasa por un conductor en un momento determinado
 *Unidad de Medida:* A (Amperio)
-*Fórmula:*     **I=V/R** 
+*Fórmula:*     **I=V/[[indice-de-respuesta|R]]** 
 *Medición:* [[amperimetro|Amperímetro]]
 
 ### RESISTENCIA
 
-*Unidad de Medida:* Ω (Ohmio)
+*Unidad de Medida:* Ω ([[resistencia-electrica|Ohmio]])
 *Medición:* [[polimetro|Multímetro]]
 
 
 ### POTENCIA
 
 **[[potencia-electrica|Potencia]]:**  Trabajo realizado durante el tiempo que se Necesita
-*Unidad de Medida:* W (Wattios)
-*Fórmula:*  **P=V * I**
+*Unidad de Medida:* [[tiempo-de-espera|W]] (Wattios)
+*Fórmula:*  **[[indice-de-penalizacion|P]]=V * I**
 
 ## FUENTE DE ALIMENTACIÓN
 
@@ -125,7 +125,7 @@ La conversión no depende de la entrada sinó de otro inversor.
 
 
 ### Características
-- *Tiempo de autonomía*
+- *[[tiempo-de-autonomia|Tiempo de autonomía]]*
 - *Potencia*
 	- Vatios (V)
 	- Voltamperios(VA)
@@ -136,10 +136,10 @@ La conversión no depende de la entrada sinó de otro inversor.
 ### EN SERIE
 - Un único Camino
 - La *intensidad total* de los elementos conectados en serie es la misma en cada una de las tensiones en cada elemento
-	- **It = I1 = I2 = I3 = ...**
+	- **[[prestacion-por-incapacidad-temporal|It]] = I1 = I2 = I3 = ...**
 - La *tensión* total de los elementos conectados en serie es la suma de cada una de las tensiones en cada elemento.
 	- **Vt = V1 + V2 + V3 + ...**
-- La *[[resistencia-electrica|Resistencia]] total* de todos los receptores conectados en serie es la suma de la resistencia de cada receptor.
+- La *Resistencia total* de todos los receptores conectados en serie es la suma de la resistencia de cada receptor.
 	- **Rt = R1 + R2 + R3 + ...**
 
 ![[Pasted-image-20260305110642.png]]

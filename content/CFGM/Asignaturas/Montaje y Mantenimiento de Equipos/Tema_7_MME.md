@@ -5,4 +5,4 @@ aliases:
 ---
 > Este tema se trata junto con el Tema 5 por su brevedad y relación directa.
 
-Ver [[Tema_5_MME|Tema 5]]   
+Ver Tema 5   

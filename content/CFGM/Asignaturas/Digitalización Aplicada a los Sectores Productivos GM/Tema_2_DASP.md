@@ -8,7 +8,7 @@ tags:
 # Tema 2: Cuarta Revolución Industrial
 
 ### Evolución de la Industria
-- *1ª Revolución Industrial:*
+- *1ª [[revoluciones-industriales|Revolución Industrial]]:*
 	- Inglaterra (1760-1840)
 	- Mecanización de la producción
 	- Ejemplos: Máquinas a Vapor / Telares Mecánicos
@@ -18,83 +18,83 @@ tags:
 	- 1913 Ford crea la primera cadena de montaje de Autos (Detroit)
 - *3ª Revolución Industrial:*
 	- 1950
-	- Revolución Digital
-	- Automatización de procesos / Tecnología de la información / Chips / Internet / Robótica
+	- [[tercera-revolucion-industrial|Revolución Digital]]
+	- [[automatizacion-de-procesos-productivos|Automatización de procesos]] / Tecnología de la información / Chips / Internet / Robótica
 	- Cambio en la estructura de empleos / + Globalización
 - 4ª Revolución Industrial:*
 	- *Klaus Schwab* fundó FEM (Foro Económico Muindial)
 	- 2010 
 	- Periodo de transformación tecnológica
 		- Robótica
-		- Cloud
-		- IA
+		- [[la-nube|Cloud]]
+		- [[inteligencia-artificial|IA]]
 		- Nanotecnología
-		- IoT
-		- RA
-		- RV
+		- [[internet-de-las-cosas|IoT]]
+		- [[realidad-aumentada|RA]]
+		- [[realidad-virtual|RV]]
 
 ## CPS SISTEMAS CIBERFÍSICOS
-**CPS:** 'Cyber Physical Systems' Sistemas integrados de computación capaces de controlar y colaborar con sistemas físicos a través de redes de comunicación.
+**[[sistemas-ciberfisicos|CPS]]:** 'Cyber Physical Systems' Sistemas integrados de computación capaces de controlar y colaborar con sistemas físicos a través de [[red-de-comunicacion|redes de comunicación]].
 - Ejemplos: Drones / Vehículos Autónomos / Domótica / Instrumentos Médicos Asistidos / Prótesis Biónicas
-**Industria 4.0:** Convergencia de tecnologías digitales y físicas
+**[[industria-40|Industria 4.0]]:** Convergencia de tecnologías digitales y físicas
 ### Como Funciona los CPS?
 **Orden:**
 - Recopilan Datos
 - Autoevalúan, Autocomprueban y Autoconfiguran
-- Toman decisiones respecto a su propia automatización para mayor rendimiento y productividad
+- Toman decisiones respecto a su propia [[automatizacion|automatización]] para mayor rendimiento y productividad
 #### Componentes de los CPS
-- *Sensores:* detectan cambios y convierten las variaciones en señales
+- *Sensores:* detectan cambios y convierten las variaciones en [[senal|señales]]
 	- Temperatura
 	- Humedad
 	- Presión
 	- Velocidad
-	- Posición etc
-- *Actuadores:* Los dispositivos que ejecutan las acciones físicas que le dice el CPS
+	- Posición [[directorio-etc|etc]]
+- *[[actuador|Actuadores]]:* Los dispositivos que ejecutan las acciones físicas que le dice el CPS
 	- On-Off
 	- Ajustar una válvula etc
-- *Procesadores y unidad de Control:* 
+- *Procesadores y [[unidad-de-control|unidad de Control]]:* 
 	- Procesan datos de los sensores
 	- Ejecutan Algoritmos de control para tomar decisiones basadas en esos datos
 - *Redes de Comunicación:* infraestructura que comunica Sensores-Actuadores-UC
-- *Software y Algoritmos:* Programas y Apps que procesan y analizan datos.Gestionan el sistema en su conjunto
-- *Interfaces:* Permiten interactuar Usuario- CPS
+- *[[software-y-algoritmo|Software y Algoritmos]]:* Programas y Apps que procesan y analizan datos.Gestionan el sistema en su conjunto
+- *Interfaces:* Permiten interactuar [[cuenta-de-usuario|Usuario]]- CPS
 
 #### Funcionamiento
-1. *Capa de Percepción:* 
-	- Obtiene Datos del entorno físico
+1. *[[capa-de-percepcion|Capa de Percepción]]:* 
+	- Obtiene Datos del [[entorno-fisico|entorno físico]]
 	- Monitoriza para detectar cualquier cambio
-2. *Capa de Transmisión:* 
-	- Comunica la capa de Percepción con los componentes del sistema
+2. *[[capa-de-transmision|Capa de Transmisión]]:* 
+	- Comunica la capa de Percepción con los [[componentes-del-hardware|componentes]] del sistema
 	- Interconexión de componentes
 	- Gestión de Red
 	- Sincronización
-	- Seguridad
+	- [[seguridad-y-gestion-de-identidad|Seguridad]]
 3. *Capa de Seguridad:*
 	- Procesa datos y Ejecuta
 	- Procesa la info recibida y aplica algoritmos avanzado para tomar decisiones
-	- Administra el Almacenamiento seguro de datos y la recuperación para realizar análisis restrospectivos
+	- Administra el Almacenamiento seguro de datos y la [[recuperacion-en-ciberseguridad|recuperación]] para realizar análisis restrospectivos
 	- Combian datos (Visión General del Sistema)
 	- Funciones de Seguridad y Privacidad (encriptación, protege datos..)
 	- Supervisa el estado del sistema para detectar y responder problemas
-	- Mejora el Rendimiento y la Eficiencia ajustando Parámetros y Optimizando procesos.
+	- Mejora el Rendimiento y la Eficiencia ajustando [[parametro-de-ejecucion|Parámetros]] y Optimizando procesos.
 ![[cfp.png]]
 
 
 #### Ejemplo Smart City (Singapur)
-- *ERP:* Sistema de Peaje Electrónico
+- *[[sistema-de-gestion-empresarial|ERP]]:* [[sistema-de-peaje-electronico|Sistema de Peaje Electrónico]]
 - *Sistema de Semáforos Adaptativo*
-- *Servicios de Transporte Público Inteligente*
+- *[[servicio-de-transporte-publico-inteligente|Servicios de Transporte Público Inteligente]]*
 - *Plataformas para compartir trayectos*
 
 ## SISTEMAS AUTOMATIZADOS
 ### Puntos Clave:
-- *RPA Software de Automatización de Procesos Robóticos:* Bots software
-- *API:* Comunica diferentes sistemas
-- *WFMS:* Diseña, crea, ejecuta y supervisa Flujos de Trabajo
-- *Scripting:* Extiende funcionalidades personalizadas (Python. Javascript, Powershell..)
+- *[[automatizacion-robotica-de-procesos|RPA]] [[software-de-automatizacion-de-procesos-roboticos|Software de Automatización de Procesos Robóticos]]:* Bots software
+- *[[API]]:* Comunica diferentes sistemas
+- *[[plataforma-de-gestion-de-flujo-de-trabajo|WFMS]]:* Diseña, crea, ejecuta y supervisa Flujos de Trabajo
+- *Scripting:* Extiende funcionalidades personalizadas (Python. Javascript, [[script-administrativo|Powershell]]..)
 - *IA* : Agentes, Automatiza procesos, ejecuta tareas repetitivas..
-- *Monitorización y Análisis*: Alerta de problemas, permite optimizar
-- *Seguridad y Gestión de Identidad*: oAuth / Permisos / Cifrado / Protección de Amenazas ...
+- *[[monitorizacion|Monitorización]] y Análisis*: Alerta de problemas, permite optimizar
+- *Seguridad y Gestión de Identidad*: oAuth / Permisos / Cifrado / Protección de [[Amenazas]] ...
 ### Ventajas
 - + Productividad
 - - Costes
@@ -114,7 +114,7 @@ tags:
 - *RV:* Realidad Virtual
 	- Ej: Gafas MetaQuest
 - E-Comerce
-	- Analítica de Datos, Proceso de compra..
+	- [[analitica-de-datos|Analítica de Datos]], Proceso de compra..
 - IA:
 	- Chatbots, Agentes IA ..
 

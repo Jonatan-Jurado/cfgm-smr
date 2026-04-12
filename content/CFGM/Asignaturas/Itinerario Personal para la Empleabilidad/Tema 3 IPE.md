@@ -1,15 +1,19 @@
 ---
 title: Tema 3
+tags:
+  - Normativa
+  - MercadoLaboral
+  - Empleabilidad
 ---
 # CONDICIONES LABORALES DE LA PERSONA TRABAJADORA POR CUENTA AJENA
 ## Derecho Laboral: Concepto, Fuentes y Principios
 
-**Derecho del Trabajo**: Conjunto de normas que regulan el trabajo que sea:
+**[[derecho-del-trabajo|Derecho del Trabajo]]**: Conjunto de normas que regulan el trabajo que sea:
 
-- **Voluntario**: Libre, sin coacción. No se admite contrato vitalicio. ≠ Trabajo forzado
-- **Por cuenta ajena**: Se trabaja para otra persona. ≠ Trabajo autónomo (Ley 20/2007)
+- **Voluntario**: Libre, sin coacción. No se admite contrato vitalicio. ≠ [[trabajo-forzado|Trabajo forzado]]
+- **Por cuenta ajena**: Se trabaja para otra persona. ≠ [[trabajo-autonomo|Trabajo autónomo]] ([[estatuto-del-trabajador-autonomo|Ley 20/2007]])
 - **Dependiente**: El trabajador está dentro del ámbito de dirección del empresario
-- **Remunerado**: A cambio de **Salario**. ≠ Trabajo gratuito (ej: voluntariado ONG)
+- **Remunerado**: A cambio de **Salario**. ≠ [[trabajo-gratuito|Trabajo gratuito]] (ej: voluntariado ONG)
     - El contrato es: **Sinalagmático** (obligaciones recíprocas) y **Oneroso** (ambos obtienen beneficio)
 - **Personal**: No puede ser sustituido por otra persona → contrato _personalísimo_
 
@@ -53,17 +57,17 @@ Razones de ser: Derechos laborales = derechos humanos + evitar competencia desle
 
 ### Jerarquía Normativa
 
-1. Constitución Española 1978
-2. Tratados y Convenios internacionales
-3. Normas con rango de ley (sin primacía entre ellas): Leyes orgánicas, Leyes ordinarias, Decretos-ley, Decretos legislativos
-4. Reglamentos (estatales, autonómicos o locales)
+1. [[constitucion-espanola-de-1978|Constitución Española]] 1978
+2. [[tratados-y-convenios-internacionales|Tratados y Convenios internacionales]]
+3. [[disposiciones-legales|Normas con rango de ley]] (sin primacía entre ellas): Leyes orgánicas, Leyes ordinarias, Decretos-ley, [[norma-con-rango-de-ley|Decretos legislativos]]
+4. [[disposiciones-reglamentarias|Reglamentos]] (estatales, autonómicos o locales)
 
 
 ## Análisis de la Relación Laboral Individual
 
-**Estatuto de los Trabajadores (ET)**: Regula las relaciones laborales (individuales o colectivas) entre trabajadores y empresarios
+**[[estatuto-de-los-trabajadores|Estatuto de los Trabajadores]] (ET)**: Regula las [[relacion-laboral|relaciones laborales]] (individuales o colectivas) entre [[seccion-trabajadores|trabajadores]] y [[seccion-empresarios|empresarios]]
 
-El trabajador está en situación de **dependencia y subordinación** respecto al empresario → desigualdad jurídica → el derecho civil fracasa en estos conflictos → por eso se recomienda **organización sindical** y **negociación colectiva**
+El trabajador está en situación de **dependencia y subordinación** respecto al empresario → desigualdad jurídica → el derecho civil fracasa en estos conflictos → por eso se recomienda **organización sindical** y **[[negociacion-colectiva|negociación colectiva]]**
 
 ---
 
@@ -152,7 +156,7 @@ El **ET** recoge derechos y obligaciones del trabajador. Los del empresario se d
 
 ## Sindicatos y Representación de los Trabajadores
 
-Base legal: **Art. 129 CE** → los poderes públicos promueven la participación en la empresa
+Base legal: **Art. 129 CE** → los poderes públicos promueven la [[participacion-de-los-trabajadores-en-la-empresa|participación en la empresa]]
 
 Dos vías de representación:
 
@@ -160,14 +164,14 @@ Dos vías de representación:
 
 Trabajadores elegidos por todos los empleados de la empresa
 
-**Delegados de personal** → empresas de 10 a 49 trabajadores (voluntario de 6 a 10 si lo deciden por mayoría)
+**[[delegado-de-personal|Delegados de personal]]** → empresas de 10 a 49 trabajadores (voluntario de 6 a 10 si lo deciden por mayoría)
 
 |Trabajadores|Delegados|
 |---|---|
 |1 - 30|1 delegado|
 |31 - 49|3 delegados|
 
-**Comité de empresa** → centros con **50 o más** trabajadores
+**[[comite-de-empresa|Comité de empresa]]** → centros con **50 o más** trabajadores
 
 |Trabajadores|Miembros|
 |---|---|
@@ -182,9 +186,9 @@ Variantes: _Comité conjunto_ (varios centros en provincia que sumen +50), _Comi
 
 ### Representación Sindical (LOLS)
 
-Trabajadores afiliados a un sindicato crean **secciones sindicales** dentro de la empresa
+Trabajadores afiliados a un sindicato crean **[[seccion-sindical|secciones sindicales]]** dentro de la empresa
 
-En empresas de **+250 trabajadores** con representación en comité → **delegados sindicales**:
+En empresas de **+250 trabajadores** con representación en comité → **[[delegado-sindical|delegados sindicales]]**:
 
 |Trabajadores|Delegados sindicales (+10% votos)|
 |---|---|
@@ -277,13 +281,13 @@ Acuerdo entre empresario y trabajador → el trabajador presta actividad laboral
 
 - **Consentimiento**: Voluntad de ambas partes
 - **Objeto**: Debe ser lícito (si no → nulo)
-- **Causa**: Empresario → apropiación de la producción / Trabajador → retribución económica
+- **Causa**: Empresario → [[apropiacion|apropiación]] de la producción / Trabajador → retribución económica
 
 ### Forma del contrato
 
 - Por **escrito** o de **palabra** (solo indefinidos ordinarios y eventuales de menos de 4 semanas)
 - Si es escrito: firmado por ambas partes, presentar al SEPE en **10 días** máx.
-- Contenido mínimo: tipo de contrato, identidad de las partes, fecha inicio, salario, jornada, vacaciones, grupo profesional
+- Contenido mínimo: tipo de contrato, identidad de las partes, fecha inicio, salario, jornada, [[vacaciones-anuales|vacaciones]], grupo profesional
 - **Periodo de prueba**: optativo, duración según convenio o ET
 
 ---
@@ -357,7 +361,7 @@ Solo por dos causas:
 
 - **Máxima semanal**: Media de **40h** semanales en cómputo anual (1.826h 27min)
 - **Máxima diaria**: **9h** (salvo distribución irregular pactada). Menores de 18: **8h** (incluida formación)
-- **Jornadas especiales**: Ampliaciones/reducciones según sector
+- **[[jornadas-especiales|Jornadas especiales]]**: Ampliaciones/reducciones según [[sector-de-disco|sector]]
 
 ### Descansos
 
@@ -374,7 +378,7 @@ Solo por dos causas:
 - **De fuerza mayor**: Obligatorias (terremoto, incendio...)
 - Compensación: dinero (mín. = hora ordinaria) o descanso (1h x 1h)
 - Máx. **80h/año** (sin contar las compensadas con descanso ni fuerza mayor)
-- **No pueden hacerlas**: menores 18, jornada reducida por nacimiento/cuidado menor, trabajadores nocturnos, a tiempo parcial
+- **No pueden hacerlas**: menores 18, jornada reducida por nacimiento/cuidado menor, [[trabajador-nocturno|trabajadores nocturnos]], a tiempo parcial
 
 ### Reducciones de jornada
 
@@ -382,7 +386,7 @@ Solo por dos causas:
 - **Guarda legal** (menor 12 años, persona dependiente): Reducción entre 1/8 y 1/2 de jornada (con reducción de salario)
 - **Hospitalización recién nacido**: Reducción de 1 a 2h (con reducción de salario)
 - **Violencia de género/terrorismo**: Reducción proporcional con orden de protección o informe fiscal
-- **Regulación de empleo** (ERE): Reducción entre 10% y 70% → desempleo parcial
+- **Regulación de empleo** ([[expediente-de-regulacion-de-empleo|ERE]]): Reducción entre 10% y 70% → desempleo parcial
 
 ### Trabajo nocturno y a turnos
 
@@ -392,7 +396,7 @@ Solo por dos causas:
 
 ### Calendario laboral
 
-- Máx. **14 festivos/año** (2 locales fijados por ayuntamiento)
+- Máx. **14 [[dias-festivos|festivos]]/año** (2 locales fijados por ayuntamiento)
 - Horario: rígido o flexible (según convenio o contrato)
 
 ### Permisos retribuidos (mínimos ET, mejorables por convenio)
@@ -414,24 +418,24 @@ Solo por dos causas:
 
 **Salario**: Conjunto de pagos por trabajo efectivo + periodos de descanso computables (descanso semanal, festivos, vacaciones)
 
-Formas de pago: **Dinero** o **En especie** (piso, coche, productos...) → en especie nunca más del **30%** del salario ni puede rebajar el SMI
+Formas de pago: **Dinero** o **En especie** (piso, coche, productos...) → en especie nunca más del **30%** del salario ni puede rebajar el [[salario-minimo-interprofesional|SMI]]
 
 ### Estructura del salario
 
-- **Salario base**: Parte fijada por unidad de tiempo o de obra
-- **Complementos salariales**: Se añaden al salario base por conceptos no contemplados al fijarlo
+- **[[salario-base|Salario base]]**: Parte fijada por unidad de tiempo o de obra
+- **[[complementos-salariales|Complementos salariales]]**: Se añaden al salario base por conceptos no contemplados al fijarlo
     - _Personales_: antigüedad, formación, residencia...
     - _Puesto de trabajo_: peligrosidad, responsabilidad...
-    - _Cantidad/calidad_: puntualidad, objetivos...
+    - _Cantidad/calidad_: puntualidad, [[metas-y-objetivos|objetivos]]...
     - _Resultados empresa_: productividad, paga de beneficios
     - _Pagas extraordinarias_: Mín. 2 al año (pueden estar prorrateadas en 12 mensualidades)
-- **Complementos extrasalariales**: No tienen naturaleza salarial → indemnizaciones, gastos de viaje, dietas...
+- **[[complementos-extrasalariales|Complementos extrasalariales]]**: No tienen naturaleza salarial → indemnizaciones, gastos de viaje, dietas...
 
 ### Garantías salariales
 
 - **SMI**: Fijado por el Gobierno cada año. Bruto. Jornada completa 40h. 14 pagas. _Inembargable_ (solo se embarga lo que exceda del SMI)
-- Salarios pendientes → **prioridad absoluta** ante otras deudas (salvo concurso de acreedores)
-- **FOGASA**: Organismo que paga deudas salariales en caso de insolvencia/concurso
+- Salarios pendientes → **prioridad absoluta** ante otras deudas (salvo [[concurso-de-acreedores|concurso de acreedores]])
+- **[[fondo-de-garantia-salarial|FOGASA]]**: Organismo que paga deudas salariales en caso de insolvencia/concurso
     - Salarios: hasta 2x SMI diario (incluidas extras), máx. **120 días**
     - Indemnizaciones por extinción/despido: hasta **1 anualidad**
 
@@ -488,7 +492,7 @@ El trabajador puede:
 
 **Suspensión** ≠ extinción → la relación laboral se pausa y se retoma al finalizar la causa
 
-Causas: Incapacidad temporal, privación de libertad, sanción disciplinaria, causas económicas/técnicas/organizativas/producción, fuerza mayor, cierre legal, nacimiento/cuidado menor, adopción/acogida, riesgo salud madre/feto/lactante, excedencia
+Causas: [[prestacion-por-incapacidad-temporal|Incapacidad temporal]], privación de libertad, sanción disciplinaria, causas económicas/técnicas/organizativas/producción, fuerza mayor, cierre legal, nacimiento/cuidado menor, adopción/acogida, riesgo salud madre/feto/lactante, [[excedencia-laboral|excedencia]]
 
 #### Excedencia
 
@@ -554,7 +558,7 @@ Plazo: **20 días hábiles**. Primero → papeleta de conciliación (Servicio de
 |**Negociación**|No (directa entre las partes)|—|—|
 |**Confrontación**|No (sin regulación legal)|—|Hay ganador y perdedor|
 
-Técnicas complementarias: allanamiento (minimizar diferencias), mando autoritario, acuerdo con concesiones, solución del problema, ampliación de recursos, modificación de variables humanas/estructurales
+Técnicas complementarias: [[allanamiento]] (minimizar diferencias), [[mando-autoritario|mando autoritario]], [[acuerdo-con-concesiones|acuerdo con concesiones]], [[solucion-del-problema|solución del problema]], [[ampliacion-de-recursos|ampliación de recursos]], modificación de variables humanas/estructurales
 
 ---
 
@@ -626,15 +630,15 @@ Derecho **fundamental** reconocido en el **art. 28 CE**
 **Procedimiento para que sea legal**:
 
 1. Acuerdo de las partes legitimadas
-2. Declaración de huelga por escrito al empresario y autoridad laboral → preaviso **5 días naturales** (10 si empresa de servicio público)
+2. Declaración de huelga por escrito al empresario y autoridad laboral → preaviso **5 días naturales** (10 si empresa de [[proceso-del-sistema|servicio]] público)
 3. Comité de huelga (máx. 12 trabajadores)
 4. Servicios mínimos fijados
 
-Si no se cumple → huelga **ilegal/abusiva** → el empresario _sí_ puede recurrir al despido disciplinario
+Si no se cumple → huelga **ilegal/abusiva** → el empresario _sí_ puede recurrir al [[despido-disciplinario|despido disciplinario]]
 
 ### El Cierre Patronal
 
-**No** es derecho fundamental ni está en la CE. Derecho del empresario de carácter **excepcional**
+**No** es derecho fundamental ni está en la CE. [[derechos-del-empresario|Derecho del empresario]] de carácter **excepcional**
 
 Causas: Peligro de violencia/daños graves, ocupación ilegal del centro de trabajo, irregularidades que impidan la producción
 
@@ -642,11 +646,11 @@ Requisitos: Comunicar a autoridad laboral en **12 horas** + fecha de finalizaci�
 
 ### Soluciones extrajudiciales del conflicto colectivo
 
-**ASEC** (Acuerdo para la Solución Extrajudicial de Conflictos Colectivos): Firmado por CEOE, CEPYME, CCOO y UGT → para conflictos supraautonómicos
+**ASEC** ([[acuerdo-para-la-solucion-extrajudicial-de-conflictos-colectivos|Acuerdo para la Solución Extrajudicial de Conflictos Colectivos]]): Firmado por CEOE, CEPYME, CCOO y UGT → para conflictos supraautonómicos
 
-También existe el **SMAC** (Servicio de Mediación, Arbitraje y Conciliación) de la Dirección General de Trabajo
+También existe el **[[servicio-de-arbitraje-mediacion-y-conciliacion|SMAC]]** ([[servicio-de-mediacion-arbitraje-y-conciliacion|Servicio de Mediación, Arbitraje y Conciliación]]) de la Dirección General de Trabajo
 
-Tres procedimientos: Conciliación, Mediación, Arbitraje (ya vistos anteriormente)
+Tres procedimientos: [[conciliacion|Conciliación]], [[mediacion|Mediación]], [[Arbitraje]] (ya vistos anteriormente)
 
 ---
 
@@ -674,7 +678,7 @@ Tres procedimientos: Conciliación, Mediación, Arbitraje (ya vistos anteriormen
 ### Empresarios
 
 - **Inscripción** de la empresa en la TGSS (al contratar por cuenta ajena)
-- **Afiliación** del trabajador (si es su primera vez en el mercado laboral)
+- **Afiliación** del trabajador (si es su primera vez en el [[mercado-laboral|mercado laboral]])
 - **Alta** ante la TGSS antes del inicio del trabajo
 - **Baja** ante la TGSS al finalizar la relación laboral
 - **Cotización**: Liquidar e ingresar cuotas propias y del trabajador
@@ -708,11 +712,11 @@ Secciones principales de la web:
 
 ### Asistencia sanitaria
 
-Beneficiarios: Trabajadores afiliados y en alta, pensionistas, perceptores de prestaciones SS, desempleados que hayan agotado prestación/subsidio + sus familiares
+Beneficiarios: Trabajadores afiliados y en alta, [[seccion-pensionistas|pensionistas]], perceptores de [[prestacion|prestaciones]] SS, desempleados que hayan agotado prestación/subsidio + sus familiares
 
-Documentos: **Tarjeta sanitaria** (centro de salud) + **Tarjeta sanitaria europea** (estancias temporales en EEE, Reino Unido o Suiza)
+Documentos: **[[tarjeta-sanitaria|Tarjeta sanitaria]]** (centro de salud) + **[[tarjeta-sanitaria-europea|Tarjeta sanitaria europea]]** (estancias temporales en EEE, Reino Unido o Suiza)
 
-**Prestación farmacéutica** (con receta médica):
+**[[prestacion-farmaceutica|Prestación farmacéutica]]** (con receta médica):
 
 |Reducción|Beneficiarios|
 |---|---|
