@@ -38,7 +38,7 @@ Los archivos tienen éste formato -> nombre.[[extension-de-archivo|extensión]] 
 
 #### Comando de cambio de nombre
 
-Para realizar esta acción en la consola se utiliza: `rename archivo_actual.txt archivo_nuevo[[fichero-por-lotes|.bat]]`
+Para realizar esta acción en la consola se utiliza: `rename archivo_actual.txt archivo_nuevo.bat`
 
 ---
 
@@ -57,9 +57,9 @@ Se utilizan para filtrar búsquedas o aplicar comandos a varios archivos a la ve
 
 #### Operaciones con directorios
 
-- **Crear un directorio**: Se usa `[[comando-de-directorio|mkdir]]` seguido del nombre o la ruta. `mkdir NuevaCarpeta`
+- **Crear un directorio**: Se usa `mkdir` seguido del nombre o la ruta. `mkdir NuevaCarpeta`
     
-- **Cambiar de directorio**: Permite navegar por el sistema mediante [[ruta-relativa|rutas relativas]] o absolutas. `[[disco-compacto|cd]] C:\Users\Documentos`
+- **Cambiar de directorio**: Permite navegar por el sistema mediante [[ruta-relativa|rutas relativas]] o absolutas. `cd C:\Users\Documentos`
     
 - **Listar contenido**:
     
@@ -76,7 +76,7 @@ Se utilizan para filtrar búsquedas o aplicar comandos a varios archivos a la ve
 
 #### Operaciones con ficheros
 
-- **Crear un fichero**: Permite crear un archivo definiendo su tamaño. `[[comando-de-fichero|fsutil]] file createnew archivo.txt 1000`
+- **Crear un fichero**: Permite crear un archivo definiendo su tamaño. `fsutil file createnew archivo.txt 1000`
     
 - **Abrir/Leer un fichero**: Muestra el contenido de texto en la consola. `type archivo.txt`
     
@@ -99,7 +99,7 @@ Los archivos y carpetas poseen permisos definidos para usuarios o grupos. En Win
 
 Windows utiliza el [[explorador-de-archivos|Explorador de archivos]] para la [[administracion|administración]] y navegación. Los directorios críticos del sistema son:
 
-- `C:\Windows\[[directorio-boot|Boot]]`: Archivos para el arranque del sistema.
+- `C:\Windows\Boot`: Archivos para el arranque del sistema.
     
 - `C:\Program Files`: Archivos de programas instalados.
     
