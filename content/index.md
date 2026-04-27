@@ -53,18 +53,18 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > - [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 5|Tema 5 - RA2]]
 > > - [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 5|Tema 6 - RA2]]
 > > - [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 5|Tema 7 - RA2]]
-> > - [[Tema 9|Tema 9 - RA6]]
+> > - [[CFGM/Tests/Montaje-y-Mantenimiento/Tema 9|Tema 9 - RA6]]
 > > - [[Tema 10|Tema 10 - RA4]] 
 > 
 > > [!check]- Sistemas Operativos Monopuesto
 > > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 1|Tema 1 - RA1]]
 > > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 2|Tema 2 - RA1]]
-> > - [[Tema 3|Tema 3 - RA1]]
-> > - [[Tema 4|Tema 4 - RA5]]
-> > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 6|Tema 6 - RA3]]
+> > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 3|Tema 3 - RA1]]
+> > - [[content/CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 4|Tema 4 - RA5]]
 > > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 5|Tema 5 - RA2]]
-> > - [[Tema 8|Tema 8 - RA2]]
-> > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 9|Tema 9 - RA3]]] 
+> > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 6|Tema 6 - RA3]]
+> > - [[Tema 8|Tema 8 - RA2]
+> > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 9|Tema 9 - RA3]] 
 > 
 > > [!check]- Itinerario para la Empleabilidad
 > > - [[CFGM/Tests/Itinerario-Personal-para-la-Empleabilidad/Tema 1|Tema 1 - RA1]]
