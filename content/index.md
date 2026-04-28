@@ -29,6 +29,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > - [[Tema_4_SOM|Tema 4 - RA5]]
 > > - [[Tema_5_SOM|Tema 5 - RA2]]
 > > - [[Tema_6_SOM|Tema 6 - RA3]] 
+> > - [[Tema_7_SOM|Tema 7 - RA4]] 
 > > - [[Tema_8_SOM|Tema 8 - RA2]]
 > > - [[Tema_9_SOM|Tema 9 - RA3]]
 > 
@@ -63,7 +64,8 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > - [[content/CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 4|Tema 4 - RA5]]
 > > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 5|Tema 5 - RA2]]
 > > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 6|Tema 6 - RA3]]
-> > - [[Tema 8|Tema 8 - RA2]
+> > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 7|Tema 7 - RA4]] 
+> > - [[Tema 8|Tema 8 - RA2]] 
 > > - [[CFGM/Tests/Sistemas-operativos-Monopuesto/Tema 9|Tema 9 - RA3]] 
 > 
 > > [!check]- Itinerario para la Empleabilidad
