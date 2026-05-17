@@ -8,25 +8,25 @@
 
 ### 📁 Operaciones con archivos y directorios
 
-| Comando | Descripción | Ejemplo |
-|---------|-------------|---------|
-| `mkdir [nombre]` | Crea un directorio | `mkdir "Mi Carpeta"` |
-| `cd [ruta]` | Cambia de directorio | `cd ..` (subir nivel), `cd \` (raíz) |
-| `dir` | Lista contenido del directorio actual | `dir /w` (vista ancha), `dir /p` (pausa) |
-| `dir /s` | Lista recursivamente incluyendo subdirectorios | `dir /s *.txt` |
-| `tree` | Muestra estructura de árbol | `tree /f` (incluye archivos) |
-| `rename [viejo] [nuevo]` | Renombra archivos | `rename foto.jpg imagen.jpg` |
-| `copy [origen] [destino]` | Copia archivos | `copy archivo.txt D:\backup\` |
-| `xcopy [origen] [destino] /e` | Copia directorios completos | `xcopy C:\datos D:\copia /e /h` |
-| `robocopy [origen] [destino]` | Copia robusta (reanuda, múltiples hilos) | `robocopy C:\orig D:\dest /MIR` |
-| `move [origen] [destino]` | Mueve o renombra | `move datos.txt ..\` |
-| `del [archivo]` | Elimina archivos | `del *.tmp /s` (borra todos .tmp) |
-| `erase [archivo]` | Sinónimo de `del` | `erase temp.log` |
-| `rd [directorio]` | Elimina directorio vacío | `rd basura` |
-| `rd /s [directorio]` | Elimina directorio con todo su contenido | `rd /s viejo` |
-| `type [archivo]` | Muestra contenido de texto | `type readme.txt` |
-| `more [archivo]` | Muestra contenido página por página | `more informe.log` |
-| `fsutil file createnew [nombre] [bytes]` | Crea archivo de tamaño exacto | `fsutil file createnew vacio.bin 1048576` |
+| Comando                                  | Descripción                                    | Ejemplo                                   |
+| ---------------------------------------- | ---------------------------------------------- | ----------------------------------------- |
+| `mkdir [nombre]`                         | Crea un directorio                             | `mkdir "Mi Carpeta"`                      |
+| `cd [ruta]`                              | Cambia de directorio                           | `cd ..` (subir nivel), `cd \` (raíz)      |
+| `dir`                                    | Lista contenido del directorio actual          | `dir /w` (vista ancha), `dir /p` (pausa)  |
+| `dir /s`                                 | Lista recursivamente incluyendo subdirectorios | `dir /s *.txt`                            |
+| `tree`                                   | Muestra estructura de árbol                    | `tree /f` (incluye archivos)              |
+| `rename [viejo] [nuevo]`                 | Renombra archivos                              | `rename foto.jpg imagen.jpg`              |
+| `copy [origen] [destino]`                | Copia archivos                                 | `copy archivo.txt D:\backup\`             |
+| `xcopy [origen] [destino] /e`            | Copia directorios completos                    | `xcopy C:\datos D:\copia /e /h`           |
+| `robocopy [origen] [destino]`            | Copia robusta (reanuda, múltiples hilos)       | `robocopy C:\orig D:\dest /MIR`           |
+| `move [origen] [destino]`                | Mueve o renombra                               | `move datos.txt ..\`                      |
+| `del [archivo]`                          | Elimina archivos                               | `del *.tmp /s` (borra todos .tmp)         |
+| `erase [archivo]`                        | Sinónimo de `del`                              | `erase temp.log`                          |
+| `rd [directorio]`                        | Elimina directorio vacío                       | `rd basura`                               |
+| `rd /s [directorio]`                     | Elimina directorio con todo su contenido       | `rd /s viejo`                             |
+| `type [archivo]`                         | Muestra contenido de texto                     | `type readme.txt`                         |
+| `more [archivo]`                         | Muestra contenido página por página            | `more informe.log`                        |
+| `fsutil file createnew [nombre] [bytes]` | Crea archivo de tamaño exacto                  | `fsutil file createnew vacio.bin 1048576` |
 
 ### 🧠 Gestión del sistema y diagnóstico
 
@@ -46,16 +46,16 @@
 
 ### 🌐 Red y conectividad
 
-| Comando | Descripción | Ejemplo |
-|---------|-------------|---------|
-| `ipconfig` | Muestra configuración de red | `ipconfig /all` (detalles completos) |
-| `ping [dirección]` | Comprueba conectividad | `ping 8.8.8.8 -t` (continuo) |
-| `tracert [dirección]` | Rastro de saltos hasta destino | `tracert google.com` |
-| `nslookup [dominio]` | Consulta DNS | `nslookup elpais.com` |
-| `netstat -an` | Muestra conexiones y puertos abiertos | `netstat -b` (programa asociado) |
-| `arp -a` | Tabla ARP (direcciones MAC/IP) | `arp -a` |
-| `route print` | Tabla de enrutamiento | `route add 192.168.1.0 mask 255.255.255.0 10.0.0.1` |
-| `netsh` | Herramienta avanzada de red | `netsh wlan show profiles` (ver WiFi guardadas) |
+| Comando               | Descripción                           | Ejemplo                                             |
+| --------------------- | ------------------------------------- | --------------------------------------------------- |
+| `ipconfig`            | Muestra configuración de red          | `ipconfig /all` (detalles completos)                |
+| `ping [dirección]`    | Comprueba conectividad                | `ping 8.8.8.8 -t` (continuo)                        |
+| `tracert [dirección]` | Rastro de saltos hasta destino        | `tracert google.com`                                |
+| `nslookup [dominio]`  | Consulta DNS                          | `nslookup elpais.com`                               |
+| `netstat -an`         | Muestra conexiones y puertos abiertos | `netstat -b` (programa asociado)                    |
+| `arp -a`              | Tabla ARP (direcciones MAC/IP)        | `arp -a`                                            |
+| `route print`         | Tabla de enrutamiento                 | `route add 192.168.1.0 mask 255.255.255.0 10.0.0.1` |
+| `netsh`               | Herramienta avanzada de red           | `netsh wlan show profiles` (ver WiFi guardadas)     |
 
 ### 👥 Usuarios y permisos
 
