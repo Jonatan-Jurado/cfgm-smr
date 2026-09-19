@@ -52,7 +52,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > [!server]- 🌐 Sistemas Operativos en Red 
 > > - [[Tema_1_SOR|Tema 1 - RA1]]
 > > - [[Tema_2_SOR|Tema 2 - RA1]]
-> > 
+> > - [[Tema_4_SOR|Tema 4 - RA1]] 
 > 
 > > [!network]- 🔌 Redes Locales >
 > 
