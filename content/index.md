@@ -51,6 +51,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > 
 > > [!server]- 🌐 Sistemas Operativos en Red 
 > > - [[Tema_1_SOR|Tema 1 - RA1]]
+> > - [[Tema_2_SOR|Tema 2 - RA1]]
 > > 
 > 
 > > [!network]- 🔌 Redes Locales >
@@ -100,6 +101,8 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > 
 > > [!check]- Sistemas Operativos en Red
 > > - [[CFGM/Tests/Sistemas Operativos en Red/Tema 1|Tema 1 - RA1]]
+> > - [[CFGM/Tests/Sistemas Operativos en Red/Tema 2|Tema 2 - RA1]]
+> > - 
 > > - 
 
 > [!abstract]- 📚 GLOSARIO
