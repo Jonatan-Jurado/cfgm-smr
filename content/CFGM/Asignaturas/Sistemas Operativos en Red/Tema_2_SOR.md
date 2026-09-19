@@ -23,6 +23,10 @@ El proceso general comprende:
 9. Documentar todo el proceso y las incidencias.
 
 
+<iframe src="https://www.youtube.com/embed/kDD4hBVJGbA?si=EbIgsbVGTm1L221F" title="YouTube video player" style="width:100%;max-width:960px;aspect-ratio:16/9;border:0;display:block;margin:1rem auto;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+
+
+
 ---
 
 ## 2.1. ESTUDIO DE COMPATIBILIDAD DEL SISTEMA INFORMÁTICO
