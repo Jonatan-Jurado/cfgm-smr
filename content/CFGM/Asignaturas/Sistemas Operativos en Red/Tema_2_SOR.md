@@ -22,8 +22,22 @@ El proceso general comprende:
 8. Monitorizar su funcionamiento.
 9. Documentar todo el proceso y las incidencias.
 
-
-<iframe src="https://www.youtube.com/embed/kDD4hBVJGbA?si=EbIgsbVGTm1L221F" title="YouTube video player" style="width:100%;max-width:960px;aspect-ratio:16/9;border:0;display:block;margin:1rem auto;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+<iframe
+  src="https://www.youtube.com/playlist?list=PLThkZy_SrhoUyN24kzmjo01a03vYqKXdx"
+  title="Curso completo Windows Server 2019"
+  style="
+    width:100%;
+    height:750px;
+    border:0;
+    border-radius:12px;
+    display:block;
+    margin:1rem auto;
+  "
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+  loading="lazy">
+</iframe>
 
 
 
