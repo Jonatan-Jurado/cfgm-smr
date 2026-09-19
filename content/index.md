@@ -99,7 +99,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > - [[CFGM/Tests/Digitalización Aplicada a los Sectores Productivos GM/Tema 4|Tema 4 - RA4]] 
 > 
 > > [!check]- Sistemas Operativos en Red
-> > - [[content/CFGM/Tests/Sistemas Operativos en Red/Tema 1|Tema 1 - RA1]]
+> > - [[CFGM/Tests/Sistemas Operativos en Red/Tema 1|Tema 1 - RA1]]
 > > - 
 
 > [!abstract]- 📚 GLOSARIO
