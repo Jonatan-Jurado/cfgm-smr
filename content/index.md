@@ -54,9 +54,10 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > - [[Tema_2_SOR|Tema 2 - RA1]]
 > > - [[Tema_4_SOR|Tema 4 - RA1]] 
 > 
-> > [!network]- 🔌 Redes Locales >
+> > [!network]- 🔌 Redes Locales
 > > - [[Tema_1_RL|Tema 1 - RA1]]
->>[!briefcase]- 🚀 Itinerario Personal para la Empleabilidad II 
+> 
+>> [!briefcase]- 🚀 Itinerario Personal para la Empleabilidad II 
 > 
 > > [!file-spreadsheet]- 📊 Aplicaciones Ofimáticas
 
@@ -103,8 +104,10 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > > - [[CFGM/Tests/Sistemas Operativos en Red/Tema 1|Tema 1 - RA1]]
 > > - [[CFGM/Tests/Sistemas Operativos en Red/Tema 2|Tema 2 - RA1]]
 > > - [[CFGM/Tests/Sistemas Operativos en Red/Tema 4|Tema 4 - RA 1]] 
-> > - 
-> > - 
+> 
+> > [!check]- Redes Locales
+> > [[content/CFGM/Tests/Redes Locales/Tema 1|Tema 1 - RA1]]
+
 
 > [!abstract]- 📚 GLOSARIO
 > - [[1_index|Glosario de Términos]]
