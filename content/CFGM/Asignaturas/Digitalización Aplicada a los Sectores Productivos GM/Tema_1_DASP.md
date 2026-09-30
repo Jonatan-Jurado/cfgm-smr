@@ -53,7 +53,7 @@ Se enfocan en distintas Areas:
 
 ## ECONOMÍA CIRCULAR VS ECONOMÍA LINEAL
 
-| **ECONOMÍA CIRCULAR**                  | **ECONOMÍA LINEAL**                        |
+| **ECONOMÍA LINEAL**                    | **ECONOMÍA CIRCULAR**                      |
 | :------------------------------------- | ------------------------------------------ |
 | Extraer - Producir -Utilizar -Desechar | Reducir - Reutilizar - Reciclar -Regenerar |
 | Extracción Continua de Recursos        | Reduce el impacto sobre los Recursos       |
