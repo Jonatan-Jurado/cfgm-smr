@@ -43,10 +43,6 @@ Dentro de una red existen equipos que cumplen funciones diferentes.
 
 El sistema operativo instalado en el **servidor** está especialmente preparado para administrar usuarios, recursos, comunicaciones y servicios de red.
 
-> [!info]
-> Un servidor no es simplemente un ordenador más potente. Su función principal es **proporcionar y administrar servicios para otros equipos de la red**.
-
----
 
 ## 1.2. FUNCIONES DE UN SISTEMA OPERATIVO
 
@@ -94,14 +90,6 @@ La gestión de memoria está directamente relacionada con la gestión de proceso
 - **Seguridad:** controla que únicamente los usuarios autorizados puedan acceder a determinados recursos.
 - **Permisos:** determinan qué acciones puede realizar cada usuario.
 - **Roles:** permiten establecer diferentes niveles de acceso según el tipo de usuario.
-
-> [!important]
-> **PROTECCIÓN ≠ SEGURIDAD**
->
-> - **Protección:** evita que un fallo provoque que el sistema deje de funcionar.
-> - **Seguridad:** evita que usuarios no autorizados accedan a información o recursos.
-
----
 
 ## 1.3. CARACTERÍSTICAS DIFERENCIADORAS DE LOS SISTEMAS OPERATIVOS EN RED
 

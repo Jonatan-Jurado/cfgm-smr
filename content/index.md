@@ -60,6 +60,7 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 >> [!briefcase]- 🚀 Itinerario Personal para la Empleabilidad II 
 > 
 > > [!file-spreadsheet]- 📊 Aplicaciones Ofimáticas
+> > - [[Tema_1_AO|Tema 1 - RA1]]
 
 > [!edit]- ✍️ TEST
 > > [!check]- Montaje y Mantenimiento
@@ -107,6 +108,9 @@ Bienvenido a mi Documentación técnica. Aquí organizo todo lo que voy aprendie
 > 
 >> [!check]- Redes Locales
 >> - [[CFGM/Tests/Redes Locales/Tema 1|Tema 1 - RA1]]
+>
+>> [!check]- Aplicaciones Ofimáticas
+>> - [[CFGM/Tests/Aplicaciones Ofimáticas/Tema 1|Tema 1 - RA1]]
 
 > [!abstract]- 📚 GLOSARIO
 > - [[1_index|Glosario de Términos]]
